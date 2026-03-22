@@ -1,0 +1,25 @@
+Loaded 1,074 rows.
+
+[1] Date range: 2007-07-02 → 2022-04-05
+[2] Industry labels: 16 → 15 unique values after standardising
+[3] Nulls remaining after fill: 0
+[4] Dropping 1 rows with negative Years to Unicorn:
+          Company  Year Founded  Year Joined
+714  Yidian Zixun          2021         2017
+
+Saved → data/unicorn_companies_clean.csv  (1,073 rows × 13 columns)
+
+Final columns:
+  Company                        object
+  Valuation ($Billions)          int64
+  Date Joined                    datetime64[ns]
+  Industry                       object
+  City                           object
+  Country                        object
+  Continent                      object
+  Year Founded                   int64
+  Funding ($ Billions)           float64
+  Year Joined                    int32
+  Month Joined                   int32
+  Years to Unicorn               int64
+  Val/Funding Ratio              float64
