@@ -1,0 +1,84 @@
+=======================================================
+  SHAPE
+=======================================================
+  Rows    : 1,074
+  Columns : 9
+
+=======================================================
+  FIRST 5 ROWS
+=======================================================
+     Company  Valuation ($Billions) Date Joined                         Industry           City        Country      Continent  Year Founded  Funding ($ Billions)
+0  Bytedance                    180  07/04/2017          Artificial intelligence        Beijing          China           Asia          2012                   8.0
+1     SpaceX                    100  01/12/2012                            Other      Hawthorne  United States  North America          2002                   7.0
+2      SHEIN                    100  03/07/2018  E-commerce & direct-to-consumer       Shenzhen          China           Asia          2008                   2.0
+3     Stripe                     95  23/01/2014                          Fintech  San Francisco  United States  North America          2010                   2.0
+4     Klarna                     46  12/12/2011                          Fintech      Stockholm         Sweden         Europe          2005                   4.0
+
+=======================================================
+  COLUMN TYPES
+=======================================================
+Company                   object
+Valuation ($Billions)      int64
+Date Joined               object
+Industry                  object
+City                      object
+Country                   object
+Continent                 object
+Year Founded               int64
+Funding ($ Billions)     float64
+
+=======================================================
+  MISSING VALUES
+=======================================================
+                      count     %
+City                     16  1.49
+Funding ($ Billions)     12  1.12
+
+=======================================================
+  NUMERIC SUMMARY
+=======================================================
+       Valuation ($Billions)  Year Founded  Funding ($ Billions)
+count                1074.00        1074.0               1062.00
+mean                    3.46        2012.9                  0.56
+std                     8.55           5.7                  0.81
+min                     1.00        1919.0                  0.00
+25%                     1.00        2011.0                  0.22
+50%                     2.00        2014.0                  0.37
+75%                     3.00        2016.0                  0.61
+max                   180.00        2021.0                 14.00
+
+=======================================================
+  CATEGORICAL SUMMARY
+=======================================================
+
+  Industry — top 5:
+Industry
+Fintech                            224
+Internet software & services       205
+E-commerce & direct-to-consumer    111
+Health                              74
+Artificial intelligence             73
+
+  Country — top 5:
+Country
+United States     562
+China             173
+India              65
+United Kingdom     43
+Germany            26
+
+  Continent — top 5:
+Continent
+North America    589
+Asia             310
+Europe           143
+South America     21
+Oceania            8
+
+=======================================================
+  YEAR FOUNDED — outliers (pre-1990)
+=======================================================
+                        Company  Year Founded       Country
+189        Otto Bock HealthCare          1919       Germany
+373         Promasidor Holdings          1979  South Africa
+699  Five Star Business Finance          1984         India
