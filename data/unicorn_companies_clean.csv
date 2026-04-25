@@ -1,0 +1,1075 @@
+company,valuation_b,date_joined,industry,city,country,continent,year_founded,funding_b,year_joined,month_joined,quarter_joined,early_founder_flag,years_to_unicorn,funding_efficiency,is_high_value,log_valuation,decade_founded
+Bytedance,180,2017-04-07,Artificial intelligence,Beijing,China,Asia,2012,8.0,2017,4,2,0,5,22.5,1,5.198497031265826,2010
+SpaceX,100,2012-12-01,Other,Hawthorne,United States,North America,2002,7.0,2012,12,4,0,10,14.285714285714286,1,4.61512051684126,2000
+SHEIN,100,2018-07-03,E-commerce & direct-to-consumer,Shenzhen,China,Asia,2008,2.0,2018,7,3,0,10,50.0,1,4.61512051684126,2000
+Stripe,95,2014-01-23,Fintech,San Francisco,United States,North America,2010,2.0,2014,1,1,0,4,47.5,1,4.564348191467836,2010
+Klarna,46,2011-12-12,Fintech,Stockholm,Sweden,Europe,2005,4.0,2011,12,4,0,6,11.5,1,3.8501476017100584,2000
+Canva,40,2018-01-08,Internet software & services,Surry Hills,Australia,Oceania,2012,0.572,2018,1,1,0,6,69.93006993006993,1,3.713572066704308,2010
+Checkout.com,40,2019-05-02,Fintech,London,United Kingdom,Europe,2012,2.0,2019,5,2,0,7,20.0,1,3.713572066704308,2010
+Instacart,39,2014-12-30,"Supply chain, logistics, & delivery",San Francisco,United States,North America,2012,3.0,2014,12,4,0,2,13.0,1,3.6888794541139363,2010
+JUUL Labs,38,2017-12-20,Consumer & retail,San Francisco,United States,North America,2015,14.0,2017,12,4,0,2,2.7142857142857144,1,3.6635616461296463,2010
+Databricks,38,2019-02-05,Data management & analytics,San Francisco,United States,North America,2013,3.0,2019,2,1,0,6,12.666666666666666,1,3.6635616461296463,2010
+Revolut,33,2018-04-26,Fintech,London,United Kingdom,Europe,2015,2.0,2018,4,2,0,3,16.5,1,3.5263605246161616,2010
+Epic Games,32,2018-10-26,Other,Cary,United States,North America,1991,7.0,2018,10,4,0,27,4.571428571428571,1,3.4965075614664802,1990
+FTX,32,2021-07-20,Fintech,Unknown,Bahamas,North America,2018,2.0,2021,7,3,0,3,16.0,1,3.4965075614664802,2010
+Fanatics,27,2012-06-06,E-commerce & direct-to-consumer,Jacksonville,United States,North America,2002,4.0,2012,6,2,0,10,6.75,1,3.332204510175204,2000
+Chime,25,2019-03-05,Fintech,San Francisco,United States,North America,2013,2.0,2019,3,1,0,6,12.5,1,3.258096538021482,2010
+BYJU's,22,2017-07-25,Edtech,Bengaluru,India,Asia,2008,4.0,2017,7,3,0,9,5.5,1,3.1354942159291497,2000
+J&T Express,20,2021-04-07,"Supply chain, logistics, & delivery",Jakarta,Indonesia,Asia,2015,5.0,2021,4,2,0,6,4.0,1,3.044522437723423,2010
+Xiaohongshu,20,2016-03-31,E-commerce & direct-to-consumer,Shanghai,China,Asia,2013,0.918,2016,3,1,0,3,21.78649237472767,1,3.044522437723423,2010
+Miro,18,2022-01-05,Internet software & services,San Francisco,United States,North America,2011,0.476,2022,1,1,0,11,37.81512605042017,1,2.9444389791664403,2010
+Yuanfudao,17,2017-05-31,Edtech,Beijing,China,Asia,2012,4.0,2017,5,2,0,5,4.25,1,2.8903717578961645,2010
+Rapyd,15,2019-12-03,Fintech,London,United Kingdom,Europe,2016,0.77,2019,12,4,0,3,19.48051948051948,1,2.772588722239781,2010
+Discord,15,2018-04-20,Internet software & services,San Francisco,United States,North America,2012,0.979,2018,4,2,0,6,15.321756894790603,1,2.772588722239781,2010
+Genki Forest,15,2020-03-01,Consumer & retail,Beijing,China,Asia,2016,0.721,2020,3,1,0,4,20.804438280166437,1,2.772588722239781,2010
+goPuff,15,2020-10-08,E-commerce & direct-to-consumer,Philadelphia,United States,North America,2013,3.0,2020,10,4,0,7,5.0,1,2.772588722239781,2010
+Blockchain.com,14,2021-02-17,Fintech,London,United Kingdom,Europe,2011,0.49,2021,2,1,0,10,28.571428571428573,1,2.70805020110221,2010
+Plaid,13,2018-12-11,Fintech,San Francisco,United States,North America,2012,0.734,2018,12,4,0,6,17.71117166212534,1,2.6390573296152584,2010
+Devoted Health,13,2018-10-16,Health,Waltham,United States,North America,2017,2.0,2018,10,4,0,1,6.5,1,2.6390573296152584,2010
+OpenSea,13,2021-07-20,E-commerce & direct-to-consumer,New York,United States,North America,2017,0.427,2021,7,3,0,4,30.44496487119438,1,2.6390573296152584,2010
+Grammarly,13,2019-10-10,Internet software & services,San Francisco,United States,North America,2009,0.4,2019,10,4,0,10,32.5,1,2.6390573296152584,2000
+Argo AI,12,2019-07-12,Artificial intelligence,Pittsburgh,United States,North America,2016,4.0,2019,7,3,0,3,3.0,1,2.5649493574615367,2010
+Northvolt,12,2019-06-12,Other,Stockholm,Sweden,Europe,2016,4.0,2019,6,2,0,3,3.0,1,2.5649493574615367,2010
+Faire,12,2019-10-30,Artificial intelligence,San Francisco,United States,North America,2017,1.0,2019,10,4,0,2,12.0,1,2.5649493574615367,2010
+Airtable,12,2018-11-15,Internet software & services,San Francisco,United States,North America,2013,1.0,2018,11,4,0,5,12.0,1,2.5649493574615367,2010
+Brex,12,2018-10-05,Fintech,San Francisco,United States,North America,2017,1.0,2018,10,4,0,1,12.0,1,2.5649493574615367,2010
+Getir,12,2021-03-26,E-commerce & direct-to-consumer,Istanbul,Turkey,Europe,2015,2.0,2021,3,1,0,6,6.0,1,2.5649493574615367,2010
+Biosplice Therapeutics,12,2018-08-06,Health,San Diego,United States,North America,2008,0.799,2018,8,3,0,10,15.018773466833542,1,2.5649493574615367,2000
+Bitmain,12,2018-07-06,Hardware,Beijing,China,Asia,2015,0.765,2018,7,3,0,3,15.686274509803921,1,2.5649493574615367,2010
+GoodLeap,12,2021-10-13,Internet software & services,Roseville,United States,North America,2003,0.8,2021,10,4,0,18,15.0,1,2.5649493574615367,2000
+Xingsheng Selected,12,2020-07-22,E-commerce & direct-to-consumer,Changsha,China,Asia,2009,5.0,2020,7,3,0,11,2.4,1,2.5649493574615367,2000
+ZongMu Technology,11,2021-06-03,Auto & transportation,Shanghai,China,Asia,2013,0.376,2021,6,2,0,8,29.25531914893617,1,2.4849066497880004,2010
+Bolt,11,2018-05-29,Auto & transportation,Tallinn,Estonia,Europe,2013,1.0,2018,5,2,0,5,11.0,1,2.4849066497880004,2010
+Swiggy,11,2018-06-21,"Supply chain, logistics, & delivery",Bengaluru,India,Asia,2014,5.0,2018,6,2,0,4,2.2,1,2.4849066497880004,2010
+Weilong Foods,11,2021-05-08,Consumer & retail,Luohe,China,Asia,1999,0.558,2021,5,2,0,22,19.71326164874552,1,2.4849066497880004,1990
+Global Switch,11,2016-12-22,Hardware,London,United Kingdom,Europe,1998,5.0,2016,12,4,0,18,2.2,1,2.4849066497880004,1990
+Bolt,11,2021-10-08,Fintech,San Francisco,United States,North America,2014,1.0,2021,10,4,0,7,11.0,1,2.4849066497880004,2010
+Celonis,11,2018-06-26,Data management & analytics,Munich,Germany,Europe,2011,1.0,2018,6,2,0,7,11.0,1,2.4849066497880004,2010
+Zuoyebang,10,2018-07-18,Edtech,Beijing,China,Asia,2014,3.0,2018,7,3,0,4,3.3333333333333335,1,2.3978952727983707,2010
+Ripple,10,2019-12-20,Fintech,San Francisco,United States,North America,2012,0.294,2019,12,4,0,7,34.013605442176875,1,2.3978952727983707,2010
+OYO Rooms,10,2018-09-25,Travel,Gurugram,India,Asia,2012,3.0,2018,9,3,0,6,3.3333333333333335,1,2.3978952727983707,2010
+OutSystems,10,2018-06-05,Internet software & services,Boston,United States,North America,2001,0.572,2018,6,2,0,17,17.482517482517483,1,2.3978952727983707,2000
+ServiceTitan,10,2018-11-14,Internet software & services,Glendale,United States,North America,2012,1.0,2018,11,4,0,6,10.0,1,2.3978952727983707,2010
+Alchemy,10,2021-10-28,Fintech,San Francisco,United States,North America,2017,0.564,2021,10,4,0,4,17.73049645390071,1,2.3978952727983707,2010
+Chehaoduo,10,2016-03-12,E-commerce & direct-to-consumer,Beijing,China,Asia,2015,4.0,2016,3,1,0,1,2.5,1,2.3978952727983707,2010
+Digital Currency Group,10,2021-11-01,Fintech,New York,United States,North America,2015,1.0,2021,11,4,0,6,10.0,1,2.3978952727983707,2010
+Figma,10,2020-04-30,Internet software & services,San Francisco,United States,North America,2012,0.333,2020,4,2,0,8,30.03003003003003,1,2.3978952727983707,2010
+Gusto,10,2015-12-18,Fintech,San Francisco,United States,North America,2011,0.691,2015,12,4,0,4,14.471780028943561,1,2.3978952727983707,2010
+Lalamove,10,2019-02-21,"Supply chain, logistics, & delivery",Cheung Sha Wan,Hong Kong,Asia,2013,2.0,2019,2,1,0,6,5.0,1,2.3978952727983707,2010
+Notion Labs,10,2020-04-01,Internet software & services,San Francisco,United States,North America,2016,0.343,2020,4,2,0,4,29.154518950437314,1,2.3978952727983707,2010
+reddit,10,2017-07-31,Internet software & services,San Francisco,United States,North America,2005,1.0,2017,7,3,0,12,10.0,1,2.3978952727983707,2000
+Talkdesk,10,2018-10-03,Internet software & services,San Francisco,United States,North America,2011,0.497,2018,10,4,0,7,20.120724346076457,1,2.3978952727983707,2010
+Thrasio,10,2020-07-15,Other,Walpole,United States,North America,2018,2.0,2020,7,3,0,2,5.0,1,2.3978952727983707,2010
+Dunamu,9,2021-07-22,Fintech,Seoul,South Korea,Asia,2012,0.071,2021,7,3,0,9,126.7605633802817,0,2.302585092994046,2010
+Yanolja,9,2019-06-10,Travel,Seoul,South Korea,Asia,2005,2.0,2019,6,2,0,14,4.5,0,2.302585092994046,2000
+Pony.ai,9,2018-07-11,Artificial intelligence,Fremont,United States,North America,2016,1.0,2018,7,3,0,2,9.0,0,2.302585092994046,2010
+Nuro,9,2019-02-11,Auto & transportation,Mountain View,United States,North America,2016,2.0,2019,2,1,0,3,4.5,0,2.302585092994046,2010
+Snyk,9,2020-01-21,Cybersecurity,Boston,United States,North America,2015,1.0,2020,1,1,0,5,9.0,0,2.302585092994046,2010
+Kavak,9,2020-10-01,E-commerce & direct-to-consumer,Lerma de Villada,Mexico,North America,2016,2.0,2020,10,4,0,4,4.5,0,2.302585092994046,2010
+N26,9,2019-01-10,Fintech,Berlin,Germany,Europe,2013,2.0,2019,1,1,0,6,4.5,0,2.302585092994046,2010
+Klaviyo,9,2020-11-17,Internet software & services,Boston,United States,North America,2012,0.679,2020,11,4,0,8,13.254786450662738,0,2.302585092994046,2010
+Niantic,9,2017-11-24,Mobile & telecommunications,San Francisco,United States,North America,2015,0.77,2017,11,4,0,2,11.688311688311687,0,2.302585092994046,2010
+Tanium,9,2015-03-31,Cybersecurity,Kirkland,United States,North America,2007,0.775,2015,3,1,0,8,11.612903225806452,0,2.302585092994046,2000
+Dream11,8,2019-04-09,Internet software & services,Mumbai,India,Asia,2007,2.0,2019,4,2,0,12,4.0,0,2.1972245773362196,2000
+DJI Innovations,8,2015-01-23,Hardware,Shenzhen,China,Asia,2006,0.105,2015,1,1,0,9,76.19047619047619,0,2.1972245773362196,2000
+Netskope,8,2018-11-13,Cybersecurity,Santa Clara,United States,North America,2012,1.0,2018,11,4,0,6,8.0,0,2.1972245773362196,2010
+Razorpay,8,2020-10-11,Fintech,Bengaluru,India,Asia,2013,0.742,2020,10,4,0,7,10.78167115902965,0,2.1972245773362196,2010
+Dapper Labs,8,2021-03-30,Fintech,Vancouver,Canada,North America,2018,0.607,2021,3,1,0,3,13.179571663920923,0,2.1972245773362196,2010
+Lacework,8,2021-01-07,Cybersecurity,San Jose,United States,North America,2015,2.0,2021,1,1,0,6,4.0,0,2.1972245773362196,2010
+Tipalti,8,2020-10-06,Fintech,San Mateo,United States,North America,2010,0.549,2020,10,4,0,10,14.571948998178506,0,2.1972245773362196,2010
+Hopin,8,2020-11-10,Internet software & services,London,United Kingdom,Europe,2019,1.0,2020,11,4,0,1,8.0,0,2.1972245773362196,2010
+Caris Life Sciences,8,2021-05-12,Health,Irving,United States,North America,1996,1.0,2021,5,2,0,25,8.0,0,2.1972245773362196,1990
+Ramp,8,2021-03-29,Fintech,New York,United States,North America,2019,0.66,2021,3,1,0,2,12.121212121212121,0,2.1972245773362196,2010
+Tempus,8,2018-03-21,Health,Chicago,United States,North America,2015,0.82,2018,3,1,0,3,9.75609756097561,0,2.1972245773362196,2010
+Fireblocks,8,2021-07-27,Fintech,New York,United States,North America,2018,1.0,2021,7,3,0,3,8.0,0,2.1972245773362196,2010
+Flexport,8,2018-04-30,"Supply chain, logistics, & delivery",San Francisco,United States,North America,2013,2.0,2018,4,2,0,5,4.0,0,2.1972245773362196,2010
+National Stock Exchange of India,7,2020-07-01,Fintech,Mumbai,India,Asia,1998,0.297,2020,7,3,0,22,23.56902356902357,0,2.0794415416798357,1990
+Meicai,7,2016-06-22,Mobile & telecommunications,Beijing,China,Asia,2014,1.0,2016,6,2,0,2,7.0,0,2.0794415416798357,2010
+Impossible Foods,7,2019-05-13,Consumer & retail,Redwood City,United States,North America,2011,2.0,2019,5,2,0,8,3.5,0,2.0794415416798357,2010
+CRED,7,2021-04-06,Fintech,Bengaluru,India,Asia,2018,0.922,2021,4,2,0,3,7.592190889370932,0,2.0794415416798357,2010
+Attentive,7,2020-09-23,Mobile & telecommunications,Hoboken,United States,North America,2016,0.863,2020,9,3,0,4,8.111239860950175,0,2.0794415416798357,2010
+Ola Cabs,7,2014-10-27,Auto & transportation,Bengaluru,India,Asia,2010,4.0,2014,10,4,0,4,1.75,0,2.0794415416798357,2010
+Rippling,7,2020-08-04,Internet software & services,San Francisco,United States,North America,2017,0.447,2020,8,3,0,3,15.659955257270694,0,2.0794415416798357,2010
+Carta,7,2019-05-06,Fintech,San Francisco,United States,North America,2012,1.0,2019,5,2,0,7,7.0,0,2.0794415416798357,2010
+Toss,7,2018-12-09,Fintech,Seoul,South Korea,Asia,2013,0.844,2018,12,4,0,5,8.293838862559243,0,2.0794415416798357,2010
+Ziroom,7,2018-01-17,E-commerce & direct-to-consumer,Beijing,China,Asia,2011,2.0,2018,1,1,0,7,3.5,0,2.0794415416798357,2010
+Scale AI,7,2019-08-05,Artificial intelligence,San Francisco,United States,North America,2018,0.603,2019,8,3,0,1,11.608623548922056,0,2.0794415416798357,2010
+Gong,7,2020-08-12,Artificial intelligence,Palo Alto,United States,North America,2015,0.583,2020,8,3,0,5,12.006861063464838,0,2.0794415416798357,2010
+TripActions,7,2018-11-08,Travel,Palo Alto,United States,North America,2015,0.912,2018,11,4,0,3,7.675438596491228,0,2.0794415416798357,2010
+1Password,7,2021-07-08,Cybersecurity,Toronto,Canada,North America,2005,0.92,2021,7,3,0,16,7.608695652173913,0,2.0794415416798357,2000
+Automation Anywhere,7,2018-07-02,Artificial intelligence,San Jose,United States,North America,2003,0.849,2018,7,3,0,15,8.244994110718492,0,2.0794415416798357,2000
+Gemini,7,2021-11-19,Fintech,New York,United States,North America,2015,0.424,2021,11,4,0,6,16.50943396226415,0,2.0794415416798357,2010
+ConsenSys,7,2021-11-17,Fintech,New York,United States,North America,2014,0.66,2021,11,4,0,7,10.606060606060606,0,2.0794415416798357,2010
+Ro,7,2020-07-27,Health,New York,United States,North America,2017,1.0,2020,7,3,0,3,7.0,0,2.0794415416798357,2010
+Black Unicorn Factory,6,2021-05-20,Other,Los Angeles,United States,North America,2020,0.645,2021,5,2,0,1,9.30232558139535,0,1.9459101490553132,2020
+Easyhome,6,2018-02-12,Consumer & retail,Beijing,China,Asia,1999,2.0,2018,2,1,0,19,3.0,0,1.9459101490553132,1990
+WeDoctor,6,2015-09-22,Health,Hangzhou,China,Asia,2010,1.0,2015,9,3,0,5,6.0,0,1.9459101490553132,2010
+SVOLT,6,2020-06-08,Auto & transportation,Changzhou,China,Asia,2018,3.0,2020,6,2,0,2,2.0,0,1.9459101490553132,2010
+Airwallex,6,2019-03-25,Fintech,Melbourne,Australia,Oceania,2015,0.802,2019,3,1,0,4,7.481296758104738,0,1.9459101490553132,2010
+Deel,6,2021-04-21,Fintech,San Francisco,United States,North America,2018,0.629,2021,4,2,0,3,9.538950715421304,0,1.9459101490553132,2010
+Mambu,6,2021-01-06,Fintech,Amsterdam,Netherlands,Europe,2011,0.448,2021,1,1,0,10,13.392857142857142,0,1.9459101490553132,2010
+Mollie,6,2020-09-08,Fintech,Amsterdam,Netherlands,Europe,2004,0.928,2020,9,3,0,16,6.46551724137931,0,1.9459101490553132,2000
+Doctolib,6,2019-03-19,Health,Paris,France,Europe,2013,0.815,2019,3,1,0,6,7.361963190184049,0,1.9459101490553132,2010
+FiveTran,6,2020-06-30,Data management & analytics,Oakland,United States,North America,2012,0.728,2020,6,2,0,8,8.241758241758243,0,1.9459101490553132,2010
+Postman,6,2020-06-11,Internet software & services,San Francisco,United States,North America,2014,0.433,2020,6,2,0,6,13.856812933025404,0,1.9459101490553132,2010
+Back Market,6,2021-05-18,E-commerce & direct-to-consumer,Paris,France,Europe,2014,1.0,2021,5,2,0,7,6.0,0,1.9459101490553132,2010
+Cityblock Health,6,2020-12-10,Health,Brooklyn,United States,North America,2017,0.891,2020,12,4,0,3,6.7340067340067336,0,1.9459101490553132,2010
+DataRobot,6,2019-07-29,Artificial intelligence,Boston,United States,North America,2012,1.0,2019,7,3,0,7,6.0,0,1.9459101490553132,2010
+Personio,6,2021-01-19,Internet software & services,Munich,Germany,Europe,2015,0.524,2021,1,1,0,6,11.450381679389313,0,1.9459101490553132,2010
+RELEX Solutions,6,2022-02-17,"Supply chain, logistics, & delivery",Helsinki,Finland,Europe,2005,0.803,2022,2,1,0,17,7.4719800747198,0,1.9459101490553132,2000
+Vice Media,6,2011-04-02,Internet software & services,Brooklyn,United States,North America,1994,1.0,2011,4,2,0,17,6.0,0,1.9459101490553132,1990
+Workato,6,2021-01-12,Internet software & services,Mountain View,United States,North America,2013,0.415,2021,1,1,0,8,14.457831325301205,0,1.9459101490553132,2010
+Upgrade,6,2018-02-12,Fintech,San Francisco,United States,North America,2016,0.587,2018,2,1,0,2,10.221465076660989,0,1.9459101490553132,2010
+Lianjia,6,2016-04-07,E-commerce & direct-to-consumer,Beijing,China,Asia,2001,1.0,2016,4,2,0,15,6.0,0,1.9459101490553132,2000
+Hinge Health,6,2021-01-06,Health,San Francisco,United States,North America,2015,0.826,2021,1,1,0,6,7.263922518159807,0,1.9459101490553132,2010
+Lyra Health,6,2020-08-25,Health,Burlingame,United States,North America,2015,0.91,2020,8,3,0,5,6.593406593406593,0,1.9459101490553132,2010
+Benchling,6,2021-04-14,Internet software & services,San Francisco,United States,North America,2012,0.412,2021,4,2,0,9,14.563106796116505,0,1.9459101490553132,2010
+Better.com,6,2020-11-10,Fintech,New York,United States,North America,2018,0.405,2020,11,4,0,2,14.814814814814813,0,1.9459101490553132,2010
+iCapital Network,6,2021-07-27,Fintech,New York,United States,North America,2013,0.729,2021,7,3,0,8,8.23045267489712,0,1.9459101490553132,2010
+Wiz,6,2021-03-17,Cybersecurity,Tel Aviv,Israel,Asia,2020,0.6,2021,3,1,0,1,10.0,0,1.9459101490553132,2020
+DailyHunt,5,2020-12-22,Internet software & services,Bengaluru,India,Asia,2007,0.869,2020,12,4,0,13,5.7537399309551205,0,1.791759469228055,2000
+Howden Group Holdings,5,2020-09-29,Other,London,United Kingdom,Europe,1994,0.187,2020,9,3,0,26,26.737967914438503,0,1.791759469228055,1990
+Meesho,5,2021-04-05,Internet software & services,Bengaluru,India,Asia,2015,1.0,2021,4,2,0,6,5.0,0,1.791759469228055,2010
+Meizu Technology,5,2014-07-23,Hardware,Zhuhai,China,Asia,2003,0.943,2014,7,3,0,11,5.302226935312832,0,1.791759469228055,2000
+CloudWalk Technology,5,2018-10-08,Artificial intelligence,Guangzhou,China,Asia,2015,0.514,2018,10,4,0,3,9.727626459143968,0,1.791759469228055,2010
+Royole Corporation,5,2015-08-18,Hardware,Shenzhen,China,Asia,2012,0.492,2015,8,3,0,3,10.16260162601626,0,1.791759469228055,2010
+Monzo,5,2018-10-31,Fintech,London,United Kingdom,Europe,2015,1.0,2018,10,4,0,3,5.0,0,1.791759469228055,2010
+Socure,5,2021-03-16,Cybersecurity,New York,United States,North America,2012,0.644,2021,3,1,0,9,7.763975155279503,0,1.791759469228055,2010
+VIPKid,5,2016-08-04,Edtech,Beijing,China,Asia,2013,1.0,2016,8,3,0,3,5.0,0,1.791759469228055,2010
+Vinted,5,2019-11-27,E-commerce & direct-to-consumer,Vilnius,Lithuania,Europe,2008,0.562,2019,11,4,0,11,8.89679715302491,0,1.791759469228055,2000
+Lendable,5,2021-03-31,Fintech,London,United Kingdom,Europe,2014,0.286,2021,3,1,0,7,17.482517482517483,0,1.791759469228055,2010
+UBTECH Robotics,5,2016-07-25,Hardware,Shenzhen,China,Asia,2012,0.943,2016,7,3,0,4,5.302226935312832,0,1.791759469228055,2010
+Anduril,5,2019-09-11,Artificial intelligence,Irvine,United States,North America,2017,0.691,2019,9,3,0,2,7.235890014471781,0,1.791759469228055,2010
+Checkr,5,2019-09-19,Internet software & services,San Francisco,United States,North America,2014,0.559,2019,9,3,0,5,8.944543828264758,0,1.791759469228055,2010
+Color,5,2021-01-04,Health,Burlingame,United States,North America,2013,0.497,2021,1,1,0,8,10.060362173038229,0,1.791759469228055,2010
+Dataiku,5,2019-12-04,Internet software & services,New York,United States,North America,2013,0.647,2019,12,4,0,6,7.727975270479134,0,1.791759469228055,2010
+BetterUp,5,2021-02-25,Internet software & services,San Francisco,United States,North America,2013,0.567,2021,2,1,0,8,8.818342151675486,0,1.791759469228055,2010
+Pleo,5,2021-07-06,Fintech,Copenhagen,Denmark,Europe,2015,0.428,2021,7,3,0,6,11.682242990654206,0,1.791759469228055,2010
+Trade Republic,5,2021-05-20,Fintech,Berlin,Germany,Europe,2015,0.996,2021,5,2,0,6,5.020080321285141,0,1.791759469228055,2010
+Chipone,5,2021-12-16,Hardware,Beijing,China,Asia,2008,1.0,2021,12,4,0,13,5.0,0,1.791759469228055,2000
+Collibra,5,2019-01-29,Data management & analytics,Brussels,Belgium,Europe,2008,0.596,2019,1,1,0,11,8.389261744966444,0,1.791759469228055,2000
+Rappi,5,2018-08-31,"Supply chain, logistics, & delivery",Bogota,Colombia,South America,2015,2.0,2018,8,3,0,3,2.5,0,1.791759469228055,2010
+6Sense,5,2021-03-30,Artificial intelligence,San Francisco,United States,North America,2013,0.426,2021,3,1,0,8,11.737089201877934,0,1.791759469228055,2010
+Cerebral,5,2021-06-10,Health,San Francisco,United States,North America,2020,0.462,2021,6,2,0,1,10.822510822510822,0,1.791759469228055,2020
+Creditas,5,2020-12-18,Fintech,Sao Paulo,Brazil,South America,2012,0.824,2020,12,4,0,8,6.067961165048544,0,1.791759469228055,2010
+OneTrust,5,2019-07-11,Internet software & services,Atlanta,United States,North America,2016,0.926,2019,7,3,0,3,5.399568034557235,0,1.791759469228055,2010
+QuintoAndar,5,2019-09-09,E-commerce & direct-to-consumer,Campinas,Brazil,South America,2012,0.755,2019,9,3,0,7,6.622516556291391,0,1.791759469228055,2010
+C6 Bank,5,2020-12-02,Fintech,Sao Paulo,Brazil,South America,2018,2.0,2020,12,4,0,2,2.5,0,1.791759469228055,2010
+Cockroach Labs,5,2021-01-12,Data management & analytics,New York,United States,North America,2015,0.633,2021,1,1,0,6,7.898894154818326,0,1.791759469228055,2010
+Hopper,5,2021-03-24,Travel,Montreal,Canada,North America,2007,0.599,2021,3,1,0,14,8.347245409015025,0,1.791759469228055,2000
+Icertis,5,2019-07-17,Artificial intelligence,Bellevue,United States,North America,2009,0.371,2019,7,3,0,10,13.477088948787062,0,1.791759469228055,2000
+Moon Active,5,2020-01-26,Mobile & telecommunications,Tel Aviv,Israel,Asia,2011,0.425,2020,1,1,0,9,11.764705882352942,0,1.791759469228055,2010
+OfBusiness,5,2021-07-31,E-commerce & direct-to-consumer,Gurgaon,India,Asia,2015,0.734,2021,7,3,0,6,6.8119891008174385,0,1.791759469228055,2010
+Ola Electric Mobility,5,2019-07-02,Auto & transportation,Bengaluru,India,Asia,2019,0.761,2019,7,3,0,0,6.570302233902759,0,1.791759469228055,2010
+Pine Labs,5,2020-01-24,Fintech,Noida,India,Asia,1998,0.903,2020,1,1,0,22,5.537098560354374,0,1.791759469228055,1990
+Qonto,5,2022-01-11,Fintech,Paris,France,Europe,2016,0.704,2022,1,1,0,6,7.1022727272727275,0,1.791759469228055,2010
+SambaNova Systems,5,2021-04-13,Data management & analytics,Palo Alto,United States,North America,2017,1.0,2021,4,2,0,4,5.0,0,1.791759469228055,2010
+United Imaging Healthcare,5,2017-09-15,Health,Shanghai,China,Asia,2011,0.503,2017,9,3,0,6,9.940357852882704,0,1.791759469228055,2010
+WM Motor,5,2019-03-08,Auto & transportation,Shanghai,China,Asia,2015,4.0,2019,3,1,0,4,1.25,0,1.791759469228055,2010
+ZEPZ,5,2021-08-23,Fintech,London,United Kingdom,Europe,2010,0.655,2021,8,3,0,11,7.633587786259541,0,1.791759469228055,2010
+Abogen,4,2021-11-29,Health,Suzhou,China,Asia,2019,1.0,2021,11,4,0,2,4.0,0,1.6094379124341003,2010
+Greensill,4,2018-07-16,Fintech,London,United Kingdom,Europe,2011,2.0,2018,7,3,0,7,2.0,0,1.6094379124341003,2010
+HyalRoute,4,2020-05-26,Mobile & telecommunications,Unknown,Singapore,Asia,2015,0.263,2020,5,2,0,5,15.20912547528517,0,1.6094379124341003,2010
+Radiology Partners,4,2018-02-26,Health,El Segundo,United States,North America,2012,1.0,2018,2,1,0,6,4.0,0,1.6094379124341003,2010
+Yello Mobile,4,2014-11-11,Mobile & telecommunications,Seoul,South Korea,Asia,2012,0.216,2014,11,4,0,2,18.51851851851852,0,1.6094379124341003,2010
+Turing,4,2021-12-20,Internet software & services,Palo Alto,United States,North America,2018,0.128,2021,12,4,0,3,31.25,0,1.6094379124341003,2010
+Lenskart,4,2019-12-20,E-commerce & direct-to-consumer,Faridabad,India,Asia,2008,0.776,2019,12,4,0,11,5.154639175257731,0,1.6094379124341003,2000
+Kraken,4,2019-06-25,Fintech,San Francisco,United States,North America,2011,0.119,2019,6,2,0,8,33.61344537815126,0,1.6094379124341003,2010
+Horizon Robotics,4,2019-02-27,Artificial intelligence,Beijing,China,Asia,2015,2.0,2019,2,1,0,4,2.0,0,1.6094379124341003,2010
+MoonPay,4,2021-11-22,Fintech,Miami,United States,North America,2019,0.555,2021,11,4,0,2,7.207207207207206,0,1.6094379124341003,2010
+Celsius Network,4,2021-10-12,Fintech,Hoboken,United States,North America,2017,0.864,2021,10,4,0,4,4.62962962962963,0,1.6094379124341003,2010
+ChargeBee Technologies,4,2021-04-20,Fintech,Walnut,United States,North America,2011,0.468,2021,4,2,0,10,8.547008547008547,0,1.6094379124341003,2010
+Coalition,4,2021-03-17,Cybersecurity,San Francisco,United States,North America,2017,0.505,2021,3,1,0,4,7.920792079207921,0,1.6094379124341003,2010
+Commure,4,2021-09-16,Internet software & services,San Francisco,United States,North America,2017,0.542,2021,9,3,0,4,7.380073800738007,0,1.6094379124341003,2010
+Flock Safety,4,2021-07-13,Hardware,Atlanta,United States,North America,2017,0.381,2021,7,3,0,4,10.498687664041995,0,1.6094379124341003,2010
+Handshake,4,2021-05-12,Internet software & services,San Francisco,United States,North America,2014,0.434,2021,5,2,0,7,9.216589861751153,0,1.6094379124341003,2010
+Highspot,4,2021-02-22,Internet software & services,Seattle,United States,North America,2013,0.643,2021,2,1,0,8,6.2208398133748055,0,1.6094379124341003,2010
+Indigo Ag,4,2017-09-26,Artificial intelligence,Boston,United States,North America,2014,1.0,2017,9,3,0,3,4.0,0,1.6094379124341003,2010
+Mirakl,4,2020-09-22,E-commerce & direct-to-consumer,Paris,France,Europe,2011,0.948,2020,9,3,0,9,4.219409282700422,0,1.6094379124341003,2010
+Rec Room,4,2021-03-23,Internet software & services,Seattle,United States,North America,2016,0.294,2021,3,1,0,5,13.60544217687075,0,1.6094379124341003,2010
+Tekion,4,2020-10-21,Internet software & services,San Ramon,United States,North America,2016,0.435,2020,10,4,0,4,9.195402298850574,0,1.6094379124341003,2010
+Otto Bock HealthCare,4,2017-06-24,Health,Duderstadt,Germany,Europe,1919,0.0,2017,6,2,1,98,5.208333333333333,0,1.6094379124341003,1910
+Outreach,4,2019-04-16,Internet software & services,Seattle,United States,North America,2011,0.489,2019,4,2,0,8,8.1799591002045,0,1.6094379124341003,2010
+WeRide,4,2020-12-23,Auto & transportation,Guangzhou,China,Asia,2017,1.0,2020,12,4,0,3,4.0,0,1.6094379124341003,2010
+Applied Intuition,4,2020-10-22,Data management & analytics,Sunnyvale,United States,North America,2017,0.352,2020,10,4,0,3,11.363636363636365,0,1.6094379124341003,2010
+Course Hero,4,2020-02-12,Edtech,Redwood City,United States,North America,2006,0.477,2020,2,1,0,14,8.385744234800839,0,1.6094379124341003,2000
+Relativity,4,2021-03-18,Internet software & services,Chicago,United States,North America,2001,0.125,2021,3,1,0,20,32.0,0,1.6094379124341003,2000
+Whoop,4,2020-10-28,E-commerce & direct-to-consumer,Boston,United States,North America,2012,0.404,2020,10,4,0,8,9.900990099009901,0,1.6094379124341003,2010
+Arctic Wolf Networks,4,2020-10-22,Cybersecurity,Eden Prairie,United States,North America,2012,0.498,2020,10,4,0,8,8.032128514056225,0,1.6094379124341003,2010
+GOAT,4,2020-09-23,E-commerce & direct-to-consumer,Culver City,United States,North America,2015,0.493,2020,9,3,0,5,8.113590263691684,0,1.6094379124341003,2010
+Noom,4,2021-05-24,Health,New York,United States,North America,2006,0.657,2021,5,2,0,15,6.0882800608828,0,1.6094379124341003,2000
+Papaya Global,4,2021-03-04,Internet software & services,New York,United States,North America,2016,0.44,2021,3,1,0,5,9.090909090909092,0,1.6094379124341003,2010
+Redwood Materials,4,2021-07-28,Other,Carson City,United States,North America,2017,0.792,2021,7,3,0,4,5.05050505050505,0,1.6094379124341003,2010
+ShareChat,4,2021-04-08,Internet software & services,Bengaluru,India,Asia,2015,1.0,2021,4,2,0,6,4.0,0,1.6094379124341003,2010
+Sorare,4,2021-09-21,E-commerce & direct-to-consumer,Paris,France,Europe,2019,0.739,2021,9,3,0,2,5.412719891745602,0,1.6094379124341003,2010
+VAST Data,4,2020-04-16,Data management & analytics,New York,United States,North America,2016,0.263,2020,4,2,0,4,15.20912547528517,0,1.6094379124341003,2010
+Articulate,4,2021-07-01,Edtech,New York,United States,North America,2015,2.0,2021,7,3,0,6,2.0,0,1.6094379124341003,2010
+Dutchie,4,2021-03-16,E-commerce & direct-to-consumer,Bend,United States,North America,2017,0.603,2021,3,1,0,4,6.633499170812604,0,1.6094379124341003,2010
+FalconX,4,2021-08-10,Fintech,San Mateo,United States,North America,2018,0.324,2021,8,3,0,3,12.345679012345679,0,1.6094379124341003,2010
+Guild Education,4,2019-11-13,Internet software & services,Denver,United States,North America,2015,0.379,2019,11,4,0,4,10.554089709762533,0,1.6094379124341003,2010
+Chainalysis,4,2020-11-23,Fintech,New York,United States,North America,2014,0.367,2020,11,4,0,6,10.899182561307903,0,1.6094379124341003,2010
+dbt Labs,4,2021-06-30,Data management & analytics,Philadelphia,United States,North America,2016,0.414,2021,6,2,0,5,9.66183574879227,0,1.6094379124341003,2010
+Globalization Partners,4,2022-01-24,Internet software & services,Boston,United States,North America,2012,0.35,2022,1,1,0,10,11.428571428571429,0,1.6094379124341003,2010
+Intarcia Therapeutics,4,2014-04-01,Health,Boston,United States,North America,1995,1.0,2014,4,2,0,19,4.0,0,1.6094379124341003,1990
+Relativity Space,4,2020-11-23,Other,Inglewood,United States,North America,2016,1.0,2020,11,4,0,4,4.0,0,1.6094379124341003,2010
+StockX,4,2019-06-26,E-commerce & direct-to-consumer,Detroit,United States,North America,2016,0.495,2019,6,2,0,3,8.080808080808081,0,1.6094379124341003,2010
+ThoughtSpot,4,2018-05-08,Internet software & services,Sunnyvale,United States,North America,2012,0.664,2018,5,2,0,6,6.024096385542168,0,1.6094379124341003,2010
+SSENSE,4,2021-06-08,E-commerce & direct-to-consumer,Montreal,Canada,North America,2003,0.37,2021,6,2,0,18,5.208333333333333,0,1.6094379124341003,2000
+BitPanda,4,2021-03-16,Fintech,Vienna,Austria,Europe,2014,0.546,2021,3,1,0,7,7.326007326007326,0,1.6094379124341003,2010
+Dataminr,4,2018-06-04,Artificial intelligence,New York,United States,North America,2009,1.0,2018,6,2,0,9,4.0,0,1.6094379124341003,2000
+Weee!,4,2021-03-16,"Supply chain, logistics, & delivery",Fremont,United States,North America,2015,0.864,2021,3,1,0,6,4.62962962962963,0,1.6094379124341003,2010
+Medlinker,4,2018-07-31,Health,Chengdu,China,Asia,2014,0.761,2018,7,3,0,4,5.256241787122208,0,1.6094379124341003,2010
+Hozon Auto,4,2022-02-22,Auto & transportation,Shanghai,China,Asia,2014,2.0,2022,2,1,0,8,2.0,0,1.6094379124341003,2010
+Aurora Solar,4,2021-05-24,Internet software & services,San Francisco,United States,North America,2013,0.523,2021,5,2,0,8,7.648183556405353,0,1.6094379124341003,2010
+Branch,4,2018-09-10,Mobile & telecommunications,Redwood City,United States,North America,2014,0.667,2018,9,3,0,4,5.997001499250374,0,1.6094379124341003,2010
+BrowserStack,4,2021-06-16,Internet software & services,Dublin,Ireland,Europe,2011,0.25,2021,6,2,0,10,16.0,0,1.6094379124341003,2010
+Cerebras Systems,4,2018-11-14,Hardware,Los Altos,United States,North America,2016,0.72,2018,11,4,0,2,5.555555555555555,0,1.6094379124341003,2010
+ClickUp,4,2020-12-15,Internet software & services,San Diego,United States,North America,2017,0.535,2020,12,4,0,3,7.4766355140186915,0,1.6094379124341003,2010
+Clubhouse,4,2021-01-24,Mobile & telecommunications,San Francisco,United States,North America,2020,0.11,2021,1,1,0,1,36.36363636363637,0,1.6094379124341003,2020
+Farmers Business Network,4,2020-08-03,Other,San Carlos,United States,North America,2014,0.87,2020,8,3,0,6,4.597701149425287,0,1.6094379124341003,2010
+Houzz,4,2014-09-30,E-commerce & direct-to-consumer,Palo Alto,United States,North America,2008,0.614,2014,9,3,0,6,6.514657980456026,0,1.6094379124341003,2000
+MEGVII,4,2017-10-31,Artificial intelligence,Beijing,China,Asia,2011,1.0,2017,10,4,0,6,4.0,0,1.6094379124341003,2010
+Melio,4,2021-01-25,Fintech,New York,United States,North America,2018,0.504,2021,1,1,0,3,7.936507936507937,0,1.6094379124341003,2010
+Next Insurance,4,2019-10-07,Fintech,Palo Alto,United States,North America,2016,0.881,2019,10,4,0,3,4.540295119182747,0,1.6094379124341003,2010
+Olive,4,2020-12-01,Internet software & services,Columbus,United States,North America,2012,0.856,2020,12,4,0,8,4.672897196261682,0,1.6094379124341003,2010
+Patreon,4,2020-09-02,Internet software & services,San Francisco,United States,North America,2013,0.413,2020,9,3,0,7,9.685230024213075,0,1.6094379124341003,2010
+PointClickCare,4,2021-01-07,Internet software & services,Mississauga,Canada,North America,2000,0.23,2021,1,1,0,21,17.391304347826086,0,1.6094379124341003,2000
+Rubrik,4,2017-04-28,Data management & analytics,Palo Alto,United States,North America,2014,0.553,2017,4,2,0,3,7.2332730560578655,0,1.6094379124341003,2010
+Vuori,4,2021-10-13,E-commerce & direct-to-consumer,Carlsbad,United States,North America,2015,0.445,2021,10,4,0,6,8.98876404494382,0,1.6094379124341003,2010
+Webflow,4,2021-01-13,Internet software & services,San Francisco,United States,North America,2012,0.335,2021,1,1,0,9,11.940298507462686,0,1.6094379124341003,2010
+Yuga Labs,4,2022-03-22,Fintech,Miami,United States,North America,2021,0.45,2022,3,1,0,1,8.88888888888889,0,1.6094379124341003,2020
+Zapier,4,2021-01-14,Internet software & services,Sunnyvale,United States,North America,2011,0.001,2021,1,1,0,10,4000.0,0,1.6094379124341003,2010
+Dadi Cinema,3,2016-05-11,Other,Shenzhen,China,Asia,2006,0.154,2016,5,2,0,10,19.48051948051948,0,1.3862943611198906,2000
+Kurly,3,2021-07-09,"Supply chain, logistics, & delivery",Seoul,South Korea,Asia,2014,0.77,2021,7,3,0,7,3.896103896103896,0,1.3862943611198906,2010
+Moglix,3,2021-05-17,E-commerce & direct-to-consumer,Unknown,Singapore,Asia,2015,0.471,2021,5,2,0,6,6.369426751592357,0,1.3862943611198906,2010
+OpenAI,3,2019-07-22,Artificial intelligence,San Francisco,United States,North America,2015,1.0,2019,7,3,0,4,3.0,0,1.3862943611198906,2010
+Upstox,3,2021-11-29,Fintech,Mumbai,India,Asia,2010,0.054,2021,11,4,0,11,55.55555555555556,0,1.3862943611198906,2010
+Vista Global,3,2017-08-23,Other,Dubai,United Arab Emirates,Asia,2004,0.418,2017,8,3,0,13,7.177033492822967,0,1.3862943611198906,2000
+Yixia,3,2015-11-24,Mobile & telecommunications,Beijing,China,Asia,2011,0.775,2015,11,4,0,4,3.8709677419354835,0,1.3862943611198906,2010
+Automattic,3,2013-05-27,Internet software & services,San Francisco,United States,North America,2005,0.859,2013,5,2,0,8,3.492433061699651,0,1.3862943611198906,2000
+OakNorth Bank,3,2017-10-12,Fintech,London,United Kingdom,Europe,2015,1.0,2017,10,4,0,2,3.0,0,1.3862943611198906,2010
+Worldcoin,3,2021-06-29,Fintech,San Francisco,United States,North America,2019,0.125,2021,6,2,0,2,24.0,0,1.3862943611198906,2010
+Hive Box,3,2018-01-23,"Supply chain, logistics, & delivery",Shenzhen,China,Asia,2015,1.0,2018,1,1,0,3,3.0,0,1.3862943611198906,2010
+Trax,3,2019-07-22,Artificial intelligence,Unknown,Singapore,Asia,2010,1.0,2019,7,3,0,9,3.0,0,1.3862943611198906,2010
+MessageBird,3,2020-10-08,Mobile & telecommunications,Amsterdam,Netherlands,Europe,2011,1.0,2020,10,4,0,9,3.0,0,1.3862943611198906,2010
+Cohesity,3,2018-06-11,Data management & analytics,San Jose,United States,North America,2013,0.66,2018,6,2,0,5,4.545454545454545,0,1.3862943611198906,2010
+Cybereason,3,2019-08-06,Cybersecurity,Boston,United States,North America,2012,0.714,2019,8,3,0,7,4.201680672268908,0,1.3862943611198906,2010
+A24 Films,3,2022-03-09,Other,New York,United States,North America,2012,0.225,2022,3,1,0,10,13.333333333333332,0,1.3862943611198906,2010
+Acronis,3,2019-09-18,Cybersecurity,Schaffhausen,Switzerland,Europe,2003,0.408,2019,9,3,0,16,7.352941176470589,0,1.3862943611198906,2000
+Aura,3,2021-06-09,Cybersecurity,Burlington,United States,North America,2019,0.5,2021,6,2,0,2,6.0,0,1.3862943611198906,2010
+BYTON,3,2018-04-20,Auto & transportation,Nanjing,China,Asia,2016,1.0,2018,4,2,0,2,3.0,0,1.3862943611198906,2010
+Cato Networks,3,2020-11-17,Cybersecurity,Tel Aviv,Israel,Asia,2015,0.532,2020,11,4,0,5,5.639097744360902,0,1.3862943611198906,2010
+Digit Insurance,3,2021-01-15,Fintech,Bengaluru,India,Asia,2016,0.531,2021,1,1,0,5,5.649717514124293,0,1.3862943611198906,2010
+Fetch Rewards,3,2021-03-31,E-commerce & direct-to-consumer,Madison,United States,North America,2014,0.582,2021,3,1,0,7,5.154639175257732,0,1.3862943611198906,2010
+Games24x7,3,2022-03-30,Internet software & services,Mumbai,India,Asia,2006,0.075,2022,3,1,0,16,40.0,0,1.3862943611198906,2000
+GoStudent,3,2021-06-22,Edtech,Vienna,Austria,Europe,2017,0.685,2021,6,2,0,4,4.37956204379562,0,1.3862943611198906,2010
+Immutable,3,2022-03-07,Fintech,Sydney,Australia,Oceania,2018,0.28,2022,3,1,0,4,10.714285714285714,0,1.3862943611198906,2010
+Infra.Market,3,2021-02-25,E-commerce & direct-to-consumer,Thane,India,Asia,2016,0.274,2021,2,1,0,5,10.94890510948905,0,1.3862943611198906,2010
+Side,3,2021-03-22,Internet software & services,San Francisco,United States,North America,2017,0.314,2021,3,1,0,4,9.554140127388536,0,1.3862943611198906,2010
+SiFive,3,2022-03-16,Hardware,San Mateo,United States,North America,2015,0.366,2022,3,1,0,7,8.19672131147541,0,1.3862943611198906,2010
+Somatus,3,2022-02-23,Health,McLean,United States,North America,2016,0.465,2022,2,1,0,6,6.451612903225806,0,1.3862943611198906,2010
+Sysdig,3,2021-04-28,Cybersecurity,San Francisco,United States,North America,2013,0.73,2021,4,2,0,8,4.109589041095891,0,1.3862943611198906,2010
+Uniphore,3,2022-02-16,Artificial Intelligence,Palo Alto,United States,North America,2008,0.607,2022,2,1,0,14,4.942339373970346,0,1.3862943611198906,2000
+Varo Bank,3,2021-09-09,Fintech,San Francisco,United States,North America,2015,0.987,2021,9,3,0,6,3.0395136778115504,0,1.3862943611198906,2010
+Vercel,3,2021-06-23,Internet software & services,San Francisco,United States,North America,2015,0.313,2021,6,2,0,6,9.584664536741213,0,1.3862943611198906,2010
+Oura,3,2022-04-05,Health,Oulu,Finland,Europe,2013,0.148,2022,4,2,0,9,20.27027027027027,0,1.3862943611198906,2010
+Unacademy,3,2020-09-02,Edtech,Bengaluru,India,Asia,2015,0.789,2020,9,3,0,5,3.8022813688212924,0,1.3862943611198906,2010
+Axonius,3,2021-03-01,Cybersecurity,New York,United States,North America,2017,0.395,2021,3,1,0,4,7.594936708860759,0,1.3862943611198906,2010
+Clari,3,2021-03-03,Internet software & services,Sunnyvale,United States,North America,2012,0.496,2021,3,1,0,9,6.048387096774194,0,1.3862943611198906,2010
+ManoMano,3,2021-07-05,E-commerce & direct-to-consumer,Paris,France,Europe,2013,0.706,2021,7,3,0,8,4.2492917847025495,0,1.3862943611198906,2010
+Pendo,3,2019-10-17,Internet software & services,Raleigh,United States,North America,2013,0.357,2019,10,4,0,6,8.403361344537815,0,1.3862943611198906,2010
+Plume,3,2021-02-23,Internet software & services,Palo Alto,United States,North America,2015,0.722,2021,2,1,0,6,4.1551246537396125,0,1.3862943611198906,2010
+JumpCloud,3,2021-09-13,Data management & analytics,Louisville,United States,North America,2012,0.407,2021,9,3,0,9,7.371007371007371,0,1.3862943611198906,2010
+Project44,3,2021-06-01,"Supply chain, logistics, & delivery",Chicago,United States,North America,2014,0.818,2021,6,2,0,7,3.6674816625916873,0,1.3862943611198906,2010
+Sourcegraph,3,2021-07-13,Internet software & services,San Francisco,United States,North America,2013,0.248,2021,7,3,0,8,12.096774193548388,0,1.3862943611198906,2010
+OwnBackup,3,2021-01-28,Data management & analytics,Englewood Cliffs,United States,North America,2015,0.507,2021,1,1,0,6,5.9171597633136095,0,1.3862943611198906,2010
+Starburst,3,2021-01-06,Data management & analytics,Boston,United States,North America,1999,0.414,2021,1,1,0,22,7.246376811594203,0,1.3862943611198906,1990
+Youxia Motors,3,2018-04-02,Auto & transportation,Shanghai,China,Asia,2014,1.0,2018,4,2,0,4,3.0,0,1.3862943611198906,2010
+Zetwerk,3,2021-08-20,Internet software & services,Bengaluru,India,Asia,2018,0.543,2021,8,3,0,3,5.524861878453038,0,1.3862943611198906,2010
+Cars24,3,2020-11-24,E-commerce & direct-to-consumer,Gurgaon,India,Asia,2015,1.0,2020,11,4,0,5,3.0,0,1.3862943611198906,2010
+Ethos,3,2021-05-11,Fintech,San Francisco,United States,North America,2016,0.407,2021,5,2,0,5,7.371007371007371,0,1.3862943611198906,2010
+Komodo Health,3,2020-05-22,Health,San Francisco,United States,North America,2014,0.314,2020,5,2,0,6,9.554140127388536,0,1.3862943611198906,2010
+Nextiva,3,2021-09-14,Internet software & services,Scottsdale,United States,North America,2008,0.2,2021,9,3,0,13,15.0,0,1.3862943611198906,2000
+o9 Solutions,3,2020-04-28,Artificial intelligence,Dallas,United States,North America,2009,0.417,2020,4,2,0,11,7.194244604316547,0,1.3862943611198906,2000
+Scopely,3,2019-10-29,Mobile & telecommunications,Culver City,United States,North America,2011,0.999,2019,10,4,0,8,3.003003003003003,0,1.3862943611198906,2010
+Sila Nanotechnologies,3,2019-04-16,Other,Alameda,United States,North America,2011,0.88,2019,4,2,0,8,3.409090909090909,0,1.3862943611198906,2010
+Via,3,2020-03-30,Auto & transportation,New York,United States,North America,2012,0.777,2020,3,1,0,8,3.861003861003861,0,1.3862943611198906,2010
+Transmit Security,3,2021-06-22,Cybersecurity,Tel Aviv,Israel,Asia,2014,0.583,2021,6,2,0,7,5.145797598627787,0,1.3862943611198906,2010
+BlockDaemon,3,2021-09-21,Fintech,Los Angeles,United States,North America,2016,0.398,2021,9,3,0,5,7.537688442211055,0,1.3862943611198906,2010
+Convoy,3,2018-09-21,"Supply chain, logistics, & delivery",Seattle,United States,North America,2015,0.666,2018,9,3,0,3,4.504504504504505,0,1.3862943611198906,2010
+Dream Games,3,2021-06-30,Mobile & telecommunications,Istanbul,Turkey,Europe,2019,0.468,2021,6,2,0,2,6.41025641025641,0,1.3862943611198906,2010
+Illumio,3,2015-04-14,Cybersecurity,Sunnyvale,United States,North America,2013,0.558,2015,4,2,0,2,5.376344086021505,0,1.3862943611198906,2010
+MasterClass,3,2021-05-13,Edtech,San Francisco,United States,North America,2015,0.461,2021,5,2,0,6,6.507592190889371,0,1.3862943611198906,2010
+Graphcore,3,2018-12-18,Artificial intelligence,Bristol,United Kingdom,Europe,2016,0.682,2018,12,4,0,2,4.39882697947214,0,1.3862943611198906,2010
+ApplyBoard,3,2020-05-05,Edtech,Kitchener,Canada,North America,2015,0.483,2020,5,2,0,5,6.211180124223603,0,1.3862943611198906,2010
+Blockstream,3,2021-08-24,Fintech,Vancouver,Canada,North America,2014,0.299,2021,8,3,0,7,10.033444816053512,0,1.3862943611198906,2010
+Cedar,3,2021-03-09,Fintech,New York,United States,North America,2016,0.326,2021,3,1,0,5,9.202453987730062,0,1.3862943611198906,2010
+ContentSquare,3,2021-05-25,Internet software & services,Paris,France,Europe,2012,0.812,2021,5,2,0,9,3.694581280788177,0,1.3862943611198906,2010
+Eruditus Executive Education,3,2021-08-12,Edtech,Mumbai,India,Asia,2010,0.591,2021,8,3,0,11,5.0761421319796955,0,1.3862943611198906,2010
+Innovaccer,3,2021-02-19,Health,San Francisco,United States,North America,2014,0.379,2021,2,1,0,7,7.915567282321899,0,1.3862943611198906,2010
+Ironclad,3,2022-01-18,Internet software & services,Sacramento,United States,North America,2014,0.334,2022,1,1,0,8,8.982035928143713,0,1.3862943611198906,2010
+Skims,3,2021-04-09,E-commerce & direct-to-consumer,Los Angeles,United States,North America,2019,0.399,2021,4,2,0,2,7.518796992481203,0,1.3862943611198906,2010
+Thumbtack,3,2015-09-29,E-commerce & direct-to-consumer,San Francisco,United States,North America,2008,0.698,2015,9,3,0,7,4.2979942693409745,0,1.3862943611198906,2000
+Zipline,3,2019-05-20,"Supply chain, logistics, & delivery",South San Francisco,United States,North America,2014,0.483,2019,5,2,0,5,6.211180124223603,0,1.3862943611198906,2010
+BharatPe,3,2021-07-30,Fintech,New Delhi,India,Asia,2018,0.6,2021,7,3,0,3,5.0,0,1.3862943611198906,2010
+DriveWealth,3,2021-08-20,Fintech,Chatham,United States,North America,2012,0.551,2021,8,3,0,9,5.44464609800363,0,1.3862943611198906,2010
+Flink Food,3,2021-12-01,E-commerce & direct-to-consumer,Berlin,Germany,Europe,2021,1.0,2021,12,4,0,0,3.0,0,1.3862943611198906,2020
+PsiQuantum,3,2021-07-27,Hardware,Palo Alto,United States,North America,2016,0.665,2021,7,3,0,5,4.511278195488722,0,1.3862943611198906,2010
+SpotOn,3,2021-05-26,Fintech,San Francisco,United States,North America,2017,0.628,2021,5,2,0,4,4.777070063694268,0,1.3862943611198906,2010
+Gorillas,3,2021-03-25,E-commerce & direct-to-consumer,Berlin,Germany,Europe,2020,1.0,2021,3,1,0,1,3.0,0,1.3862943611198906,2020
+HighRadius,3,2020-01-07,Fintech,Houston,United States,North America,2006,0.475,2020,1,1,0,14,6.315789473684211,0,1.3862943611198906,2000
+Loft,3,2020-01-03,E-commerce & direct-to-consumer,Sao Paulo,Brazil,South America,2018,0.788,2020,1,1,0,2,3.807106598984771,0,1.3862943611198906,2010
+Nuvemshop,3,2021-08-17,E-commerce & direct-to-consumer,Sao Paulo,Brazil,South America,2011,0.628,2021,8,3,0,10,4.777070063694268,0,1.3862943611198906,2010
+Udaan,3,2018-09-04,"Supply chain, logistics, & delivery",Bengaluru,India,Asia,2016,1.0,2018,9,3,0,2,3.0,0,1.3862943611198906,2010
+Workrise,3,2019-09-30,Internet software & services,Austin,United States,North America,2014,0.722,2019,9,3,0,5,4.1551246537396125,0,1.3862943611198906,2010
+ActiveCampaign,3,2021-04-21,Internet software & services,Chicago,United States,North America,2003,0.36,2021,4,2,0,18,8.333333333333334,0,1.3862943611198906,2000
+Age of Learning,3,2016-05-03,Edtech,Glendale,United States,North America,2007,0.5,2016,5,2,0,9,6.0,0,1.3862943611198906,2000
+Amber Group,3,2021-06-21,Fintech,Unknown,Hong Kong,Asia,2015,0.328,2021,6,2,0,6,9.146341463414634,0,1.3862943611198906,2010
+Anchorage Digital,3,2021-12-15,Fintech,San Francisco,United States,North America,2017,0.487,2021,12,4,0,4,6.160164271047228,0,1.3862943611198906,2010
+BlockFi,3,2021-03-11,Fintech,Jersey City,United States,North America,2017,1.0,2021,3,1,0,4,3.0,0,1.3862943611198906,2010
+Calendly,3,2021-01-26,Internet software & services,Atlanta,United States,North America,2013,0.351,2021,1,1,0,8,8.547008547008547,0,1.3862943611198906,2010
+Carbon Health,3,2021-07-21,Health,San Francisco,United States,North America,2015,0.523,2021,7,3,0,6,5.736137667304015,0,1.3862943611198906,2010
+Circle,3,2018-05-15,Fintech,Boston,United States,North America,2013,0.711,2018,5,2,0,5,4.219409282700422,0,1.3862943611198906,2010
+CMR Surgical,3,2019-09-17,Health,Cambridge,United Kingdom,Europe,2014,0.975,2019,9,3,0,5,3.076923076923077,0,1.3862943611198906,2010
+Contentful,3,2021-07-28,Internet software & services,Berlin,Germany,Europe,2013,0.333,2021,7,3,0,8,9.00900900900901,0,1.3862943611198906,2010
+Cross River Bank,3,2022-02-11,Fintech,Fort Lee,United States,North America,2008,0.775,2022,2,1,0,14,3.8709677419354835,0,1.3862943611198906,2000
+Delhivery,3,2019-02-27,"Supply chain, logistics, & delivery",Gurgaon,India,Asia,2011,1.0,2019,2,1,0,8,3.0,0,1.3862943611198906,2010
+FlixBus,3,2019-07-18,Auto & transportation,Munich,Germany,Europe,2013,1.0,2019,7,3,0,6,3.0,0,1.3862943611198906,2010
+Flutterwave,3,2021-03-09,Fintech,San Francisco,United States,North America,2016,0.474,2021,3,1,0,5,6.329113924050633,0,1.3862943611198906,2010
+Forter,3,2020-11-19,Cybersecurity,New York,United States,North America,2013,0.525,2020,11,4,0,7,5.714285714285714,0,1.3862943611198906,2010
+Grafana Labs,3,2021-03-25,Internet software & services,New York,United States,North America,2014,0.535,2021,3,1,0,7,5.607476635514018,0,1.3862943611198906,2010
+Groww,3,2021-04-07,Fintech,Bengaluru,India,Asia,2017,0.393,2021,4,2,0,4,7.633587786259541,0,1.3862943611198906,2010
+Inxeption,3,2022-01-13,Fintech,San Francisco,United States,North America,2017,0.187,2022,1,1,0,5,16.0427807486631,0,1.3862943611198906,2010
+KK Group,3,2019-10-23,E-commerce & direct-to-consumer,Dongguan,China,Asia,2014,0.612,2019,10,4,0,5,4.901960784313726,0,1.3862943611198906,2010
+Lattice,3,2021-03-23,Internet software & services,San Francisco,United States,North America,2015,0.329,2021,3,1,0,6,9.11854103343465,0,1.3862943611198906,2010
+LaunchDarkly,3,2021-08-10,Internet software & services,Oakland,United States,North America,2014,0.33,2021,8,3,0,7,9.09090909090909,0,1.3862943611198906,2010
+Lucid,3,2021-06-29,Internet software & services,South Jordan,United States,North America,2010,0.17,2021,6,2,0,11,17.64705882352941,0,1.3862943611198906,2010
+Outschool,3,2021-04-14,Edtech,San Francisco,United States,North America,2015,0.24,2021,4,2,0,6,12.5,0,1.3862943611198906,2010
+Podium,3,2020-04-07,Internet software & services,Lehi,United States,North America,2014,0.419,2020,4,2,0,6,7.159904534606206,0,1.3862943611198906,2010
+Remote,3,2021-07-13,Fintech,San Francisco,United States,North America,2016,0.496,2021,7,3,0,5,6.048387096774194,0,1.3862943611198906,2010
+Seismic,3,2018-12-18,Internet software & services,San Diego,United States,North America,2010,0.427,2018,12,4,0,8,7.02576112412178,0,1.3862943611198906,2010
+Sky Mavis,3,2021-10-04,Internet software & services,Ho Chi Minh City,Vietnam,Asia,2019,0.311,2021,10,4,0,2,9.646302250803858,0,1.3862943611198906,2010
+SouChe Holdings,3,2017-11-01,E-commerce & direct-to-consumer,Hangzhou,China,Asia,2012,1.0,2017,11,4,0,5,3.0,0,1.3862943611198906,2010
+TradingView,3,2021-10-14,Fintech,Westerville,United States,North America,2011,0.339,2021,10,4,0,10,8.849557522123893,0,1.3862943611198906,2010
+Traveloka,3,2017-01-01,Travel,Jakarta,Indonesia,Asia,2012,1.0,2017,1,1,0,5,3.0,0,1.3862943611198906,2010
+wefox,3,2019-03-05,Fintech,Berlin,Germany,Europe,2014,0.919,2019,3,1,0,5,3.2644178454842216,0,1.3862943611198906,2010
+Wildlife Studios,3,2019-12-05,Other,Sao Paulo,Brazil,South America,2011,0.18,2019,12,4,0,8,16.666666666666668,0,1.3862943611198906,2010
+1047 Games,2,2021-09-14,Internet software & services,Zephyr Cove,United States,North America,2017,0.127,2021,9,3,0,4,15.748031496062993,0,1.0986122886681098,2010
+Baiwang,2,2019-03-25,Fintech,Beijing,China,Asia,2015,0.224,2019,3,1,0,4,8.928571428571429,0,1.0986122886681098,2010
+Boba,2,2022-04-05,Fintech,San Francisco,United States,North America,2018,0.045,2022,4,2,0,4,44.44444444444444,0,1.0986122886681098,2010
+Bought By Many,2,2021-06-01,Fintech,London,United Kingdom,Europe,2012,0.477,2021,6,2,0,9,4.1928721174004195,0,1.0986122886681098,2010
+Cambridge Mobile Telematics,2,2018-12-19,Mobile & telecommunications,Cambridge,United States,North America,2010,0.503,2018,12,4,0,8,3.9761431411530817,0,1.0986122886681098,2010
+Carzone,2,2019-03-01,E-commerce & direct-to-consumer,Jiangsu,China,Asia,1995,0.946,2019,3,1,0,24,2.1141649048625792,0,1.0986122886681098,1990
+CFGI,2,2021-09-15,Fintech,Boston,United States,North America,2000,0.019,2021,9,3,0,21,105.26315789473685,0,1.0986122886681098,2000
+Cgtz,2,2017-02-21,Fintech,Hangzhou,China,Asia,2014,0.536,2017,2,1,0,3,3.731343283582089,0,1.0986122886681098,2010
+Changingedu,2,2017-10-30,Edtech,Shanghai,China,Asia,2014,0.188,2017,10,4,0,3,10.638297872340425,0,1.0986122886681098,2010
+eDaili,2,2019-02-01,E-commerce & direct-to-consumer,Shanghai,China,Asia,2015,0.101,2019,2,1,0,4,19.801980198019802,0,1.0986122886681098,2010
+ENOVATE,2,2019-04-15,Auto & transportation,Shanghai,China,Asia,2015,1.0,2019,4,2,0,4,2.0,0,1.0986122886681098,2010
+Fenbi Education,2,2021-02-07,Edtech,Beijing,China,Asia,2015,0.39,2021,2,1,0,6,5.128205128205128,0,1.0986122886681098,2010
+Hesai Tech,2,2020-08-01,Artificial intelligence,Shanghai,China,Asia,2013,0.717,2020,8,3,0,7,2.789400278940028,0,1.0986122886681098,2010
+Il Makiage,2,2022-01-10,E-commerce & direct-to-consumer,New York,United States,North America,2018,0.029,2022,1,1,0,4,68.9655172413793,0,1.0986122886681098,2010
+Iluvatar CoreX,2,2021-03-01,Hardware,Shanghai,China,Asia,2015,0.186,2021,3,1,0,6,10.75268817204301,0,1.0986122886681098,2010
+Jusfoun Big Data,2,2018-07-09,Data management & analytics,Beijing,China,Asia,2010,0.137,2018,7,3,0,8,14.5985401459854,0,1.0986122886681098,2010
+Pagaya,2,2020-06-17,Fintech,Tel Aviv,Israel,Asia,2015,0.417,2020,6,2,0,5,4.796163069544365,0,1.0986122886681098,2010
+PolicyBazaar,2,2019-05-06,Fintech,Gurgaon,India,Asia,2008,0.634,2019,5,2,0,11,3.1545741324921135,0,1.0986122886681098,2000
+Promasidor Holdings,2,2016-11-08,Consumer & retail,Bryanston,South Africa,Asia,1979,0.556,2016,11,4,1,37,3.597122302158273,0,1.0986122886681098,1970
+Tubatu.com,2,2015-03-09,E-commerce & direct-to-consumer,Shenzhen,China,Asia,2008,0.216,2015,3,1,0,7,9.25925925925926,0,1.0986122886681098,2000
+Ximalaya FM,2,2017-09-22,Mobile & telecommunications,Shanghai,China,Asia,2012,0.071,2017,9,3,0,5,28.169014084507044,0,1.0986122886681098,2010
+HEYTEA,2,2019-07-01,Other,Shenzhen,China,Asia,2012,0.594,2019,7,3,0,7,3.367003367003367,0,1.0986122886681098,2010
+BGL Group,2,2017-11-24,Fintech,Peterborough,United Kingdom,Europe,1992,0.696,2017,11,4,0,25,2.873563218390805,0,1.0986122886681098,1990
+Claroty,2,2021-06-17,Cybersecurity,New York,United States,North America,2015,0.64,2021,6,2,0,6,3.125,0,1.0986122886681098,2010
+Improbable,2,2017-05-11,Other,London,United Kingdom,Europe,2012,0.754,2017,5,2,0,5,2.6525198938992043,0,1.0986122886681098,2010
+InMobi,2,2014-12-02,Mobile & telecommunications,Bengaluru,India,Asia,2007,0.221,2014,12,4,0,7,9.049773755656108,0,1.0986122886681098,2000
+MindMaze,2,2016-01-28,Health,Lausanne,Switzerland,Europe,2012,0.34,2016,1,1,0,4,5.88235294117647,0,1.0986122886681098,2010
+Ninja Van,2,2021-09-27,"Supply chain, logistics, & delivery",Unknown,Singapore,Asia,2014,0.975,2021,9,3,0,7,2.0512820512820515,0,1.0986122886681098,2010
+Pantheon Systems,2,2021-07-13,Internet software & services,San Francisco,United States,North America,2010,0.2,2021,7,3,0,11,10.0,0,1.0986122886681098,2010
+SellerX,2,2021-12-09,E-commerce & direct-to-consumer,Berlin,Germany,Europe,2020,0.766,2021,12,4,0,1,2.6109660574412534,0,1.0986122886681098,2020
+AppDirect,2,2015-10-07,E-commerce & direct-to-consumer,San Francisco,United States,North America,2009,0.431,2015,10,4,0,6,4.640371229698376,0,1.0986122886681098,2000
+BrewDog,2,2017-04-10,Consumer & retail,Aberdeen,United Kingdom,Europe,2007,0.233,2017,4,2,0,10,8.583690987124463,0,1.0986122886681098,2000
+Enflame,2,2021-01-05,Hardware,Shanghai,China,Asia,2018,0.472,2021,1,1,0,3,4.237288135593221,0,1.0986122886681098,2010
+Tradeshift,2,2018-05-30,Fintech,San Francisco,United States,North America,2009,0.861,2018,5,2,0,9,2.3228803716608595,0,1.0986122886681098,2000
+HeartFlow,2,2017-12-04,Health,Redwood City,United States,North America,2007,0.568,2017,12,4,0,10,3.5211267605633805,0,1.0986122886681098,2000
+Extend,2,2021-05-18,Fintech,San Francisco,United States,North America,2004,0.32,2021,5,2,0,17,6.25,0,1.0986122886681098,2000
+Airbyte,2,2021-12-17,Internet software & services,San Francisco,United States,North America,2020,0.181,2021,12,4,0,1,11.049723756906078,0,1.0986122886681098,2020
+Andela,2,2021-09-29,Internet software & services,New York,United States,North America,2014,0.381,2021,9,3,0,7,5.2493438320209975,0,1.0986122886681098,2010
+Ascend Money,2,2021-09-27,Fintech,Bangkok,Thailand,Asia,2013,0.15,2021,9,3,0,8,13.333333333333334,0,1.0986122886681098,2010
+Athelas,2,2022-01-31,Health,Mountain View,United States,North America,2016,0.15,2022,1,1,0,6,13.333333333333334,0,1.0986122886681098,2010
+Built,2,2021-09-30,Internet software & services,Nashville,United States,North America,2015,0.289,2021,9,3,0,6,6.920415224913495,0,1.0986122886681098,2010
+candy.com,2,2021-10-21,Fintech,New York,United States,North America,2021,0.1,2021,10,4,0,0,20.0,0,1.0986122886681098,2020
+Cognite,2,2021-05-19,Data management & analytics,Lysaker,Norway,Europe,2016,0.225,2021,5,2,0,5,8.88888888888889,0,1.0986122886681098,2010
+CoinList,2,2021-10-15,Fintech,San Francisco,United States,North America,2017,0.119,2021,10,4,0,4,16.80672268907563,0,1.0986122886681098,2010
+Collective Health,2,2019-06-17,Fintech,San Francisco,United States,North America,2013,0.719,2019,6,2,0,6,2.781641168289291,0,1.0986122886681098,2010
+Culture Amp,2,2021-07-29,Internet software & services,Richmond,Australia,Oceania,2011,0.257,2021,7,3,0,10,7.782101167315175,0,1.0986122886681098,2010
+Devo,2,2021-10-26,Data management & analytics,Cambridge,United States,North America,2011,0.381,2021,10,4,0,10,5.2493438320209975,0,1.0986122886681098,2010
+ElasticRun,2,2022-02-07,"Supply chain, logistics, & delivery",Pune,India,Asia,2016,0.435,2022,2,1,0,6,4.597701149425287,0,1.0986122886681098,2010
+Gett,2,2016-05-24,Auto & transportation,London,United Kingdom,Europe,2010,0.828,2016,5,2,0,6,2.4154589371980677,0,1.0986122886681098,2010
+ID.me,2,2021-03-19,Cybersecurity,McLean,United States,North America,2010,0.142,2021,3,1,0,11,14.084507042253522,0,1.0986122886681098,2010
+impact.com,2,2021-07-13,Internet software & services,Santa Barbara,United States,North America,2008,0.261,2021,7,3,0,13,7.662835249042145,0,1.0986122886681098,2000
+Ledger,2,2021-06-10,Hardware,Paris,France,Europe,2014,0.466,2021,6,2,0,7,4.291845493562231,0,1.0986122886681098,2010
+Lusha,2,2021-11-10,Internet software & services,New York,United States,North America,2016,0.245,2021,11,4,0,5,8.16326530612245,0,1.0986122886681098,2010
+Matillion,2,2021-09-15,Data management & analytics,Altrincham,United Kingdom,Europe,2011,0.31,2021,9,3,0,10,6.451612903225807,0,1.0986122886681098,2010
+MOLOCO,2,2021-04-29,Artificial intelligence,Redwood City,United States,North America,2013,0.192,2021,4,2,0,8,10.416666666666666,0,1.0986122886681098,2010
+Mu Sigma,2,2013-02-07,Data management & analytics,Northbrook,United States,North America,2004,0.211,2013,2,1,0,9,9.47867298578199,0,1.0986122886681098,2000
+Next Silicon,2,2021-06-14,Hardware,Tel Aviv,Israel,Asia,2018,0.203,2021,6,2,0,3,9.852216748768472,0,1.0986122886681098,2010
+NotCo,2,2021-07-26,Artificial Intelligence,Santiago,Chile,South America,2015,0.37,2021,7,3,0,6,5.405405405405405,0,1.0986122886681098,2010
+Olist,2,2021-12-15,E-commerce & direct-to-consumer,Curitiba,Brazil,South America,2015,0.32,2021,12,4,0,6,6.25,0,1.0986122886681098,2010
+Pacaso,2,2021-03-24,Fintech,Cincinnati,United States,North America,2020,0.217,2021,3,1,0,1,9.216589861751153,0,1.0986122886681098,2020
+Paradox,2,2021-12-27,Internet software & services,Scottsdale,United States,North America,2016,0.253,2021,12,4,0,5,7.905138339920948,0,1.0986122886681098,2010
+Persona,2,2021-09-15,Cybersecurity,San Francisco,United States,North America,2018,0.218,2021,9,3,0,3,9.174311926605505,0,1.0986122886681098,2010
+SmartRecruiters,2,2021-07-20,Internet software & services,San Francisco,United States,North America,2010,0.225,2021,7,3,0,11,8.88888888888889,0,1.0986122886681098,2010
+Snapdocs,2,2021-05-25,Fintech,San Francisco,United States,North America,2012,0.253,2021,5,2,0,9,7.905138339920948,0,1.0986122886681098,2010
+Solugen,2,2021-09-10,Other,Houston,United States,North America,2016,0.435,2021,9,3,0,5,4.597701149425287,0,1.0986122886681098,2010
+StoreDot,2,2022-01-04,Other,Herzliya,Israel,Asia,2012,0.19,2022,1,1,0,10,10.526315789473685,0,1.0986122886681098,2010
+Strava,2,2020-11-16,Internet software & services,San Francisco,United States,North America,2009,0.152,2020,11,4,0,11,13.157894736842106,0,1.0986122886681098,2000
+Temporal,2,2022-02-16,Internet software & services,Bellevue,United States,North America,2019,0.129,2022,2,1,0,3,15.503875968992247,0,1.0986122886681098,2010
+TuJia,2,2015-06-17,Travel,Beijing,China,Asia,2011,0.755,2015,6,2,0,4,2.6490066225165565,0,1.0986122886681098,2010
+Uplight,2,2021-03-03,Other,Boulder,United States,North America,2019,0.37,2021,3,1,0,2,5.208333333333333,0,1.0986122886681098,2010
+Veho,2,2021-12-21,"Supply chain, logistics, & delivery",Boulder,United States,North America,2016,0.299,2021,12,4,0,5,6.688963210702341,0,1.0986122886681098,2010
+Veriff,2,2022-01-26,Artificial intelligence,Tallinn,Estonia,Europe,2015,0.177,2022,1,1,0,7,11.299435028248588,0,1.0986122886681098,2010
+Whatnot,2,2021-09-16,E-commerce & direct-to-consumer,Marina del Rey,United States,North America,2019,0.225,2021,9,3,0,2,8.88888888888889,0,1.0986122886681098,2010
+Zenoti,2,2020-12-15,Internet software & services,Bellevue,United States,North America,2010,0.331,2020,12,4,0,10,6.042296072507552,0,1.0986122886681098,2010
+Zeta,2,2021-05-24,Fintech,San Francisco,United States,North America,2015,0.34,2021,5,2,0,6,5.88235294117647,0,1.0986122886681098,2010
+Loom,2,2021-05-20,Internet software & services,San Francisco,United States,North America,2016,0.204,2021,5,2,0,5,9.803921568627452,0,1.0986122886681098,2010
+Mobile Premier League,2,2021-09-15,Internet software & services,Bengaluru,India,Asia,2018,0.376,2021,9,3,0,3,5.319148936170213,0,1.0986122886681098,2010
+Uala,2,2021-08-13,Fintech,Buenos Aires,Argentina,South America,2017,0.544,2021,8,3,0,4,3.676470588235294,0,1.0986122886681098,2010
+Wenheyou,2,2021-04-17,Other,Hunan,China,Asia,2013,0.09,2021,4,2,0,8,22.22222222222222,0,1.0986122886681098,2010
+Star Charge,2,2021-05-19,Auto & transportation,Changzhou,China,Asia,2014,0.125,2021,5,2,0,7,16.0,0,1.0986122886681098,2010
+ABL Space Systems,2,2021-03-25,Other,El Segundo,United States,North America,2017,0.419,2021,3,1,0,4,4.773269689737471,0,1.0986122886681098,2010
+Afiniti,2,2017-04-14,Artificial intelligence,Hamilton,Bermuda,North America,2006,0.12,2017,4,2,0,11,16.666666666666668,0,1.0986122886681098,2000
+ASAPP,2,2021-05-19,Artificial intelligence,New York,United States,North America,2014,0.38,2021,5,2,0,7,5.2631578947368425,0,1.0986122886681098,2010
+BitSight Technologies,2,2021-09-13,Cybersecurity,Boston,United States,North America,2013,0.401,2021,9,3,0,8,4.987531172069825,0,1.0986122886681098,2010
+Cao Cao Mobility,2,2018-01-17,Auto & transportation,Hangzhou,China,Asia,2015,0.744,2018,1,1,0,3,2.6881720430107525,0,1.0986122886681098,2010
+Capitolis,2,2022-03-22,Fintech,New York,United States,North America,2017,0.282,2022,3,1,0,5,7.092198581560284,0,1.0986122886681098,2010
+Carbon,2,2015-08-20,Hardware,Redwood City,United States,North America,2013,0.682,2015,8,3,0,2,2.9325513196480935,0,1.0986122886681098,2010
+Clio,2,2021-04-27,Internet software & services,Burnaby,Canada,North America,2008,0.386,2021,4,2,0,13,5.181347150259067,0,1.0986122886681098,2000
+Cresta,2,2022-03-17,Artificial Intelligence,San Francisco,United States,North America,2017,0.151,2022,3,1,0,5,13.245033112582782,0,1.0986122886681098,2010
+Exabeam,2,2021-06-01,Cybersecurity,Foster City,United States,North America,2013,0.39,2021,6,2,0,8,5.128205128205128,0,1.0986122886681098,2010
+ezCater,2,2019-04-02,"Supply chain, logistics, & delivery",Boston,United States,North America,2007,0.421,2019,4,2,0,12,4.750593824228028,0,1.0986122886681098,2000
+HomeLight,2,2021-09-02,Fintech,San Francisco,United States,North America,2012,0.219,2021,9,3,0,9,9.132420091324201,0,1.0986122886681098,2010
+HoneyBook,2,2021-05-04,Internet software & services,San Francisco,United States,North America,2013,0.498,2021,5,2,0,8,4.016064257028113,0,1.0986122886681098,2010
+Infinidat,2,2015-04-29,Hardware,Waltham,United States,North America,2011,0.325,2015,4,2,0,4,6.153846153846153,0,1.0986122886681098,2010
+Mercury,2,2021-07-03,Fintech,San Francisco,United States,North America,2019,0.152,2021,7,3,0,2,13.157894736842106,0,1.0986122886681098,2010
+Paxos,2,2021-04-29,Fintech,New York,United States,North America,2012,0.538,2021,4,2,0,9,3.717472118959108,0,1.0986122886681098,2010
+SafetyCulture,2,2021-05-03,Internet software & services,Sydney,Australia,Oceania,2004,0.222,2021,5,2,0,17,9.00900900900901,0,1.0986122886681098,2000
+SmartHR,2,2021-06-08,Fintech,Tokyo,Japan,Asia,2013,0.19,2021,6,2,0,8,10.526315789473685,0,1.0986122886681098,2010
+Tonal,2,2021-03-31,E-commerce & direct-to-consumer,San Francisco,United States,North America,2015,0.45,2021,3,1,0,6,4.444444444444445,0,1.0986122886681098,2010
+Truepill,2,2021-10-27,Health,Hayward,United States,North America,2016,0.255,2021,10,4,0,5,7.8431372549019605,0,1.0986122886681098,2010
+Unite Us,2,2021-03-16,Health,New York,United States,North America,2014,0.195,2021,3,1,0,7,10.256410256410255,0,1.0986122886681098,2010
+Verkada,2,2020-01-29,Cybersecurity,San Mateo,United States,North America,2016,0.139,2020,1,1,0,4,14.388489208633093,0,1.0986122886681098,2010
+Wayflyer,2,2022-02-01,Fintech,Dublin,Ireland,Europe,2019,0.236,2022,2,1,0,3,8.474576271186441,0,1.0986122886681098,2010
+Zhubajie,2,2015-06-16,Internet software & services,Chongqing,China,Asia,2006,0.445,2015,6,2,0,9,4.49438202247191,0,1.0986122886681098,2000
+Transcarent,2,2022-01-11,Health,San Francisco,United States,North America,2020,0.298,2022,1,1,0,2,6.7114093959731544,0,1.0986122886681098,2020
+Trader Interactive,2,2021-05-12,Other,Norfolk,United States,North America,2017,0.624,2021,5,2,0,4,3.2051282051282053,0,1.0986122886681098,2010
+Glossier,2,2019-03-19,Consumer & retail,New York,United States,North America,2014,0.266,2019,3,1,0,5,7.518796992481203,0,1.0986122886681098,2010
+Hibob,2,2021-10-12,Internet software & services,Tel Aviv,Israel,Asia,2015,0.274,2021,10,4,0,6,7.2992700729927,0,1.0986122886681098,2010
+Jobandtalent,2,2021-12-01,Internet software & services,Madrid,Spain,Europe,2009,0.902,2021,12,4,0,12,2.2172949002217295,0,1.0986122886681098,2000
+Optimism,2,2022-03-17,Internet software & services,San Francisco,United States,North America,2019,0.179,2022,3,1,0,3,11.1731843575419,0,1.0986122886681098,2010
+solarisBank,2,2021-07-13,Fintech,Berlin,Germany,Europe,2016,0.403,2021,7,3,0,5,4.962779156327543,0,1.0986122886681098,2010
+WEMAKEPRICE,2,2015-09-09,E-commerce & direct-to-consumer,Seoul,South Korea,Asia,2009,0.397,2015,9,3,0,6,5.037783375314861,0,1.0986122886681098,2000
+Alan,2,2021-04-19,Fintech,Paris,France,Europe,2016,0.364,2021,4,2,0,5,5.4945054945054945,0,1.0986122886681098,2010
+Biren Technology,2,2020-08-18,Hardware,Shanghai,China,Asia,2019,0.285,2020,8,3,0,1,7.017543859649123,0,1.0986122886681098,2010
+Voodoo,2,2020-08-17,Other,Paris,France,Europe,2013,0.517,2020,8,3,0,7,3.8684719535783363,0,1.0986122886681098,2010
+Carsome,2,2021-07-12,E-commerce & direct-to-consumer,Selangor,Malaysia,Asia,2015,0.577,2021,7,3,0,6,3.466204506065858,0,1.0986122886681098,2010
+CircleCI,2,2021-05-11,Internet software & services,San Francisco,United States,North America,2011,0.315,2021,5,2,0,10,6.349206349206349,0,1.0986122886681098,2010
+DealShare,2,2022-01-27,E-commerce & direct-to-consumer,Bengaluru,India,Asia,2018,0.612,2022,1,1,0,4,3.2679738562091503,0,1.0986122886681098,2010
+DispatchHealth,2,2021-03-03,Health,Denver,United States,North America,2013,0.403,2021,3,1,0,8,4.962779156327543,0,1.0986122886681098,2010
+Dragos,2,2021-10-28,Cybersecurity,Hanover,United States,North America,2016,0.358,2021,10,4,0,5,5.58659217877095,0,1.0986122886681098,2010
+Gousto,2,2020-11-03,"Supply chain, logistics, & delivery",London,United Kingdom,Europe,2012,0.311,2020,11,4,0,8,6.430868167202572,0,1.0986122886681098,2010
+H2O.ai,2,2021-11-07,Artificial intelligence,Mountain View,United States,North America,2011,0.251,2021,11,4,0,10,7.968127490039841,0,1.0986122886681098,2010
+Harness,2,2021-01-14,Artificial intelligence,San Francisco,United States,North America,2016,0.195,2021,1,1,0,5,10.256410256410255,0,1.0986122886681098,2010
+Harry's,2,2018-02-16,Consumer & retail,New York,United States,North America,2013,0.792,2018,2,1,0,5,2.525252525252525,0,1.0986122886681098,2010
+PAX,2,2018-10-22,Consumer & retail,San Francisco,United States,North America,2007,0.542,2018,10,4,0,11,3.6900369003690034,0,1.0986122886681098,2000
+Productboard,2,2022-02-02,Internet software & services,San Francisco,United States,North America,2014,0.261,2022,2,1,0,8,7.662835249042145,0,1.0986122886681098,2010
+Reltio,2,2021-11-04,Data management & analytics,Redwood City,United States,North America,2011,0.237,2021,11,4,0,10,8.438818565400844,0,1.0986122886681098,2010
+Spotter,2,2022-02-16,Fintech,Los Angeles,United States,North America,2019,0.231,2022,2,1,0,3,8.658008658008658,0,1.0986122886681098,2010
+Vestiaire Collective,2,2021-03-01,E-commerce & direct-to-consumer,Paris,France,Europe,2009,0.663,2021,3,1,0,12,3.0165912518853695,0,1.0986122886681098,2000
+Wave,2,2021-09-07,Fintech,Dakar,Senegal,Africa,2018,0.2,2021,9,3,0,3,10.0,0,1.0986122886681098,2010
+ZenBusiness,2,2021-11-09,Fintech,Austin,United States,North America,2015,0.275,2021,11,4,0,6,7.2727272727272725,0,1.0986122886681098,2010
+Bowery Farming,2,2021-05-25,Other,New York,United States,North America,2015,0.497,2021,5,2,0,6,4.0241448692152915,0,1.0986122886681098,2010
+Greenlight,2,2020-09-24,Fintech,Atlanta,United States,North America,2014,0.557,2020,9,3,0,6,3.5906642728904843,0,1.0986122886681098,2010
+KeepTruckin,2,2019-04-23,"Supply chain, logistics, & delivery",San Francisco,United States,North America,2013,0.417,2019,4,2,0,6,4.796163069544365,0,1.0986122886681098,2010
+Odoo,2,2021-07-29,Internet software & services,Louvain-la-Neuve,Belgium,Europe,2005,0.229,2021,7,3,0,16,8.73362445414847,0,1.0986122886681098,2000
+Skydance Media,2,2020-02-11,Other,Santa Monica,United States,North America,2010,0.275,2020,2,1,0,10,7.2727272727272725,0,1.0986122886681098,2010
+Uptake,2,2015-10-27,Artificial intelligence,Chicago,United States,North America,2014,0.218,2015,10,4,0,1,9.174311926605505,0,1.0986122886681098,2010
+MoMo,2,2021-12-10,Fintech,Ho Chi Minh City,Vietnam,Asia,2013,0.434,2021,12,4,0,8,4.6082949308755765,0,1.0986122886681098,2010
+Algolia,2,2021-07-28,Internet software & services,San Francisco,United States,North America,2012,0.334,2021,7,3,0,9,5.988023952095808,0,1.0986122886681098,2010
+Pattern,2,2021-10-06,Internet software & services,Lehi,United States,North America,2013,0.277,2021,10,4,0,8,7.2202166064981945,0,1.0986122886681098,2010
+Spinny,2,2021-11-24,E-commerce & direct-to-consumer,Gurugram,India,Asia,2015,0.509,2021,11,4,0,6,3.9292730844793713,0,1.0986122886681098,2010
+Trulioo,2,2021-06-07,Cybersecurity,Vancouver,Canada,North America,2011,0.474,2021,6,2,0,10,4.219409282700422,0,1.0986122886681098,2010
+Zume,2,2018-11-01,Consumer & retail,Mountain View,United States,North America,2015,0.423,2018,11,4,0,3,4.7281323877068555,0,1.0986122886681098,2010
+AIWAYS,2,2018-04-16,Auto & transportation,Shanghai,China,Asia,2017,0.792,2018,4,2,0,1,2.525252525252525,0,1.0986122886681098,2010
+Bitso,2,2021-05-05,Fintech,Mexico City,Mexico,North America,2014,0.378,2021,5,2,0,7,5.291005291005291,0,1.0986122886681098,2010
+BloomReach,2,2022-02-23,Artificial intelligence,Mountain View,United States,North America,2009,0.422,2022,2,1,0,13,4.739336492890995,0,1.0986122886681098,2000
+Current,2,2021-04-27,Fintech,New York,United States,North America,2015,0.402,2021,4,2,0,6,4.975124378109452,0,1.0986122886681098,2010
+Dialpad,2,2020-10-06,Internet software & services,San Francisco,United States,North America,2011,0.4,2020,10,4,0,9,5.0,0,1.0986122886681098,2010
+G7 Networks,2,2022-02-15,"Supply chain, logistics, & delivery",Beijing,China,Asia,2006,0.71,2022,2,1,0,16,2.8169014084507045,0,1.0986122886681098,2000
+Gympass,2,2019-06-12,Internet software & services,New York,United States,North America,2012,0.525,2019,6,2,0,7,3.8095238095238093,0,1.0986122886681098,2010
+MUSINSA,2,2019-11-11,E-commerce & direct-to-consumer,Seoul,South Korea,Asia,2001,0.287,2019,11,4,0,18,6.968641114982579,0,1.0986122886681098,2000
+NuCom Group,2,2018-02-22,Other,Unterfoehring,Germany,Europe,2016,0.55,2018,2,1,0,2,3.6363636363636362,0,1.0986122886681098,2010
+Reify Health,2,2021-08-10,Health,Boston,United States,North America,2012,0.259,2021,8,3,0,9,7.722007722007722,0,1.0986122886681098,2010
+Diamond Foundry,2,2021-03-29,Other,San Francisco,United States,North America,2012,0.351,2021,3,1,0,9,5.698005698005699,0,1.0986122886681098,2010
+FullStory,2,2021-08-04,Internet software & services,Atlanta,United States,North America,2014,0.172,2021,8,3,0,7,11.627906976744187,0,1.0986122886681098,2010
+Lightricks,2,2019-07-31,Artificial intelligence,Jerusalem,Israel,Asia,2013,0.305,2019,7,3,0,6,6.557377049180328,0,1.0986122886681098,2010
+Opentrons,2,2021-09-23,Hardware,New York,United States,North America,2016,0.24,2021,9,3,0,5,8.333333333333334,0,1.0986122886681098,2010
+ZocDoc,2,2015-08-20,Health,New York,United States,North America,2007,0.374,2015,8,3,0,8,5.347593582887701,0,1.0986122886681098,2000
+Accelerant,2,2022-01-12,Other,Colchester,United Kingdom,Europe,2018,0.193,2022,1,1,0,4,10.362694300518134,0,1.0986122886681098,2010
+Huaqin Telecom Technology,2,2019-10-08,Mobile & telecommunications,Shanghai,China,Asia,2005,0.298,2019,10,4,0,14,6.7114093959731544,0,1.0986122886681098,2000
+Addepar,2,2021-06-15,Fintech,Mountain View,United States,North America,2009,0.676,2021,6,2,0,12,2.9585798816568047,0,1.0986122886681098,2000
+YITU Technology,2,2018-03-08,Artificial intelligence,Shanghai,China,Asia,2012,0.401,2018,3,1,0,6,4.987531172069825,0,1.0986122886681098,2010
+CloudWalk,2,2021-09-08,Fintech,Sao Paulo,Brazil,South America,2015,0.345,2021,9,3,0,6,5.797101449275363,0,1.0986122886681098,2010
+Retool,2,2021-12-22,Internet software & services,San Francisco,United States,North America,2000,0.096,2021,12,4,0,21,20.833333333333332,0,1.0986122886681098,2000
+Volocopter,2,2022-03-04,Auto & transportation,Bruchsal,Germany,Europe,2011,0.599,2022,3,1,0,11,3.33889816360601,0,1.0986122886681098,2010
+Acorns,2,2022-03-09,Fintech,Irvine,United States,North America,2012,0.507,2022,3,1,0,10,3.9447731755424065,0,1.0986122886681098,2010
+Aledade,2,2021-01-19,Health,Bethesda,United States,North America,2014,0.295,2021,1,1,0,7,6.779661016949153,0,1.0986122886681098,2010
+CoinSwitch Kuber,2,2021-10-06,Fintech,Bangalore,India,Asia,2017,0.301,2021,10,4,0,4,6.644518272425249,0,1.0986122886681098,2010
+ConcertAI,2,2022-03-29,Artificial Intelligence,Boston,United States,North America,2018,0.3,2022,3,1,0,4,6.666666666666667,0,1.0986122886681098,2010
+Eightfold.ai,2,2020-10-27,Internet software & services,Santa Clara,United States,North America,2016,0.397,2020,10,4,0,4,5.037783375314861,0,1.0986122886681098,2010
+FirstCry,2,2020-02-07,E-commerce & direct-to-consumer,Pune,India,Asia,2010,0.441,2020,2,1,0,10,4.535147392290249,0,1.0986122886681098,2010
+Forto,2,2021-06-21,"Supply chain, logistics, & delivery",Berlin,Germany,Europe,2016,0.593,2021,6,2,0,5,3.3726812816188874,0,1.0986122886681098,2010
+GoCardless,2,2022-02-08,Fintech,London,United Kingdom,Europe,2011,0.529,2022,2,1,0,11,3.7807183364839316,0,1.0986122886681098,2010
+InVision,2,2017-11-01,Internet software & services,New York,United States,North America,2011,0.349,2017,11,4,0,6,5.730659025787966,0,1.0986122886681098,2010
+Jeeves,2,2022-03-14,Fintech,Orlando,United States,North America,2019,0.268,2022,3,1,0,3,7.462686567164178,0,1.0986122886681098,2010
+Medable,2,2021-10-26,Internet software & services,Palo Alto,United States,North America,2013,0.507,2021,10,4,0,8,3.9447731755424065,0,1.0986122886681098,2010
+Moveworks,2,2021-06-30,Artificial intelligence,Mountain View,United States,North America,2016,0.305,2021,6,2,0,5,6.557377049180328,0,1.0986122886681098,2010
+MX Technologies,2,2021-01-13,Fintech,Lehi,United States,North America,2010,0.45,2021,1,1,0,11,4.444444444444445,0,1.0986122886681098,2010
+PayFit,2,2022-01-06,Fintech,London,United Kingdom,Europe,2016,0.496,2022,1,1,0,6,4.032258064516129,0,1.0986122886681098,2010
+ReCharge,2,2021-05-06,Fintech,Los Angeles,United States,North America,2017,0.277,2021,5,2,0,4,7.2202166064981945,0,1.0986122886681098,2010
+Roofstock,2,2022-03-10,Fintech,Oakland,United States,North America,2015,0.365,2022,3,1,0,7,5.47945205479452,0,1.0986122886681098,2010
+Urban Company,2,2021-04-27,E-commerce & direct-to-consumer,Gurgaon,India,Asia,2014,0.371,2021,4,2,0,7,5.390835579514825,0,1.0986122886681098,2010
+Rokt,2,2021-12-16,Internet software & services,New York,United States,North America,2012,0.487,2021,12,4,0,9,4.106776180698152,0,1.0986122886681098,2010
+Starling Bank,2,2021-03-08,Fintech,London,United Kingdom,Europe,2014,0.791,2021,3,1,0,7,2.5284450063211126,0,1.0986122886681098,2010
+Ankorstore,2,2022-01-10,E-commerce & direct-to-consumer,Paris,France,Europe,2019,0.422,2022,1,1,0,3,4.739336492890995,0,1.0986122886681098,2010
+4Paradigm,2,2018-12-19,Artificial intelligence,Beijing,China,Asia,2015,1.0,2018,12,4,0,3,2.0,0,1.0986122886681098,2010
+Advance Intelligence Group,2,2021-09-23,Artificial intelligence,Unknown,Singapore,Asia,2016,0.536,2021,9,3,0,5,3.731343283582089,0,1.0986122886681098,2010
+Aiven,2,2021-10-18,Internet software & services,Helsinki,Finland,Europe,2016,0.21,2021,10,4,0,5,9.523809523809524,0,1.0986122886681098,2010
+Akulaku,2,2022-02-15,E-commerce & direct-to-consumer,Jakarta,Indonesia,Asia,2014,0.438,2022,2,1,0,8,4.566210045662101,0,1.0986122886681098,2010
+Apeel Sciences,2,2020-05-26,Other,Goleta,United States,North America,2012,0.64,2020,5,2,0,8,3.125,0,1.0986122886681098,2010
+AppsFlyer,2,2020-01-21,Mobile & telecommunications,San Francisco,United States,North America,2011,0.293,2020,1,1,0,9,6.825938566552901,0,1.0986122886681098,2010
+Avant,2,2012-12-17,Artificial intelligence,Chicago,United States,North America,2012,0.658,2012,12,4,0,0,3.03951367781155,0,1.0986122886681098,2010
+Aviatrix,2,2021-09-08,Internet software & services,Santa Clara,United States,North America,2014,0.341,2021,9,3,0,7,5.865102639296187,0,1.0986122886681098,2010
+BlaBlaCar,2,2015-09-16,Auto & transportation,Paris,France,Europe,2006,0.449,2015,9,3,0,9,4.4543429844097995,0,1.0986122886681098,2000
+Black Sesame Technologies,2,2021-09-22,Artificial intelligence,Shanghai,China,Asia,2016,0.115,2021,9,3,0,5,17.391304347826086,0,1.0986122886681098,2010
+Bunq,2,2021-06-18,Fintech,Amsterdam,Netherlands,Europe,2013,0.281,2021,6,2,0,8,7.117437722419928,0,1.0986122886681098,2010
+Calm,2,2019-02-06,Consumer & retail,San Francisco,United States,North America,2012,0.218,2019,2,1,0,7,9.174311926605505,0,1.0986122886681098,2010
+Chipper Cash,2,2021-05-31,Fintech,San Francisco,United States,North America,2017,0.302,2021,5,2,0,4,6.622516556291391,0,1.0986122886681098,2010
+Clearco,2,2021-04-20,Fintech,Toronto,Canada,North America,2015,0.433,2021,4,2,0,6,4.618937644341801,0,1.0986122886681098,2010
+ClickHouse,2,2021-10-28,Data management & analytics,Portola Valley,United States,North America,2021,0.3,2021,10,4,0,0,6.666666666666667,0,1.0986122886681098,2020
+Clip,2,2021-06-10,Fintech,Mexico City,Mexico,North America,2012,0.381,2021,6,2,0,9,5.2493438320209975,0,1.0986122886681098,2010
+Cloudinary,2,2022-02-15,Internet software & services,Santa Clara,United States,North America,2011,0.1,2022,2,1,0,11,20.0,0,1.0986122886681098,2010
+Deliverr,2,2021-11-22,"Supply chain, logistics, & delivery",San Francisco,United States,North America,2017,0.456,2021,11,4,0,4,4.385964912280701,0,1.0986122886681098,2010
+Divvy Homes,2,2021-08-13,Fintech,San Francisco,United States,North America,2017,0.37,2021,8,3,0,4,5.405405405405405,0,1.0986122886681098,2010
+Dremio,2,2021-01-06,Data management & analytics,Santa Clara,United States,North America,2015,0.41,2021,1,1,0,6,4.878048780487805,0,1.0986122886681098,2010
+Druva,2,2019-06-20,Data management & analytics,Sunnyvale,United States,North America,2007,0.475,2019,6,2,0,12,4.2105263157894735,0,1.0986122886681098,2000
+Everlaw,2,2020-03-10,Internet software & services,Oakland,United States,North America,2010,0.299,2020,3,1,0,10,6.688963210702341,0,1.0986122886681098,2010
+Exotec,2,2022-01-17,Hardware,Croix,France,Europe,2015,0.45,2022,1,1,0,7,4.444444444444445,0,1.0986122886681098,2010
+Formlabs,2,2018-08-01,Hardware,Somerville,United States,North America,2011,0.251,2018,8,3,0,7,7.968127490039841,0,1.0986122886681098,2010
+Guoquan Shihui,2,2021-03-17,Consumer & retail,Shanghai,China,Asia,2017,0.523,2021,3,1,0,4,3.8240917782026767,0,1.0986122886681098,2010
+Hive,2,2021-04-21,Artificial intelligence,San Francisco,United States,North America,2013,0.121,2021,4,2,0,8,16.528925619834713,0,1.0986122886681098,2010
+HuiMin,2,2016-09-05,E-commerce & direct-to-consumer,Beijing,China,Asia,2013,0.517,2016,9,3,0,3,3.8684719535783363,0,1.0986122886681098,2010
+ISN,2,2020-12-17,"Supply chain, logistics, & delivery",Dallas,United States,North America,2001,0.37,2020,12,4,0,19,5.208333333333333,0,1.0986122886681098,2000
+Iterable,2,2021-06-15,Internet software & services,San Francisco,United States,North America,2013,0.342,2021,6,2,0,8,5.847953216374268,0,1.0986122886681098,2010
+Kajabi,2,2021-05-04,Internet software & services,Irvine,United States,North America,2010,0.55,2021,5,2,0,11,3.6363636363636362,0,1.0986122886681098,2010
+Kaseya,2,2019-03-27,Cybersecurity,Miami,United States,North America,2000,0.545,2019,3,1,0,19,3.6697247706422016,0,1.0986122886681098,2000
+Keep,2,2020-05-19,Mobile & telecommunications,Beijing,China,Asia,2014,0.614,2020,5,2,0,6,3.257328990228013,0,1.0986122886681098,2010
+KRY,2,2021-04-27,Health,Stockholm,Sweden,Europe,2014,0.569,2021,4,2,0,7,3.5149384885764503,0,1.0986122886681098,2010
+Loggi,2,2019-06-05,"Supply chain, logistics, & delivery",Sao Paulo,Brazil,South America,2013,0.507,2019,6,2,0,6,3.9447731755424065,0,1.0986122886681098,2010
+LTK,2,2021-11-22,Internet software & services,Dallas,United States,North America,2011,0.315,2021,11,4,0,10,6.349206349206349,0,1.0986122886681098,2010
+Lunar,2,2021-07-12,Fintech,Aarhus,Denmark,Europe,2015,0.448,2021,7,3,0,6,4.464285714285714,0,1.0986122886681098,2010
+Mafengwo,2,2019-05-23,Travel,Beijing,China,Asia,2010,0.503,2019,5,2,0,9,3.9761431411530817,0,1.0986122886681098,2010
+Magic Leap,2,2014-10-21,Hardware,Plantation,United States,North America,2010,3.0,2014,10,4,0,4,0.6666666666666666,0,1.0986122886681098,2010
+Misfits Market,2,2021-04-21,E-commerce & direct-to-consumer,Pennsauken,United States,North America,2018,0.527,2021,4,2,0,3,3.795066413662239,0,1.0986122886681098,2010
+Modern Treasury,2,2021-10-06,Fintech,San Francisco,United States,North America,2018,0.183,2021,10,4,0,3,10.92896174863388,0,1.0986122886681098,2010
+MURAL,2,2021-07-20,Internet software & services,San Francisco,United States,North America,2011,0.192,2021,7,3,0,10,10.416666666666666,0,1.0986122886681098,2010
+Mynt,2,2021-11-01,Fintech,Taguig City,Philippines,Asia,2015,0.475,2021,11,4,0,6,4.2105263157894735,0,1.0986122886681098,2010
+Neo4j,2,2021-06-17,Data management & analytics,San Mateo,United States,North America,2007,0.408,2021,6,2,0,14,4.901960784313726,0,1.0986122886681098,2000
+Netlify,2,2021-11-17,Internet software & services,San Francisco,United States,North America,2014,0.202,2021,11,4,0,7,9.900990099009901,0,1.0986122886681098,2010
+OCSiAl,2,2019-03-04,Other,Leudelange,Luxembourg,Europe,2012,0.285,2019,3,1,0,7,7.017543859649123,0,1.0986122886681098,2010
+Opay,2,2021-08-23,Fintech,Lagos,Nigeria,Africa,2018,0.57,2021,8,3,0,3,3.5087719298245617,0,1.0986122886681098,2010
+Pipe,2,2021-05-19,Fintech,Miami,United States,North America,2019,0.566,2021,5,2,0,2,3.53356890459364,0,1.0986122886681098,2010
+Preferred Networks,2,2018-05-17,Artificial intelligence,Tokyo,Japan,Asia,2014,0.147,2018,5,2,0,4,13.60544217687075,0,1.0986122886681098,2010
+Quora,2,2017-04-21,Internet software & services,Mountain View,United States,North America,2009,0.226,2017,4,2,0,8,8.849557522123893,0,1.0986122886681098,2000
+Redis Labs,2,2020-08-25,Data management & analytics,Mountain View,United States,North America,2011,0.356,2020,8,3,0,9,5.617977528089888,0,1.0986122886681098,2010
+SmartNews,2,2019-08-05,Mobile & telecommunications,Tokyo,Japan,Asia,2012,0.41,2019,8,3,0,7,4.878048780487805,0,1.0986122886681098,2010
+Spring Health,2,2021-09-16,Health,New York,United States,North America,2016,0.296,2021,9,3,0,5,6.756756756756757,0,1.0986122886681098,2010
+StarkWare,2,2021-11-17,Cybersecurity,Netanya,Israel,Asia,2018,0.161,2021,11,4,0,3,12.422360248447205,0,1.0986122886681098,2010
+SWORD Health,2,2021-11-22,Health,New York,United States,North America,2015,0.296,2021,11,4,0,6,6.756756756756757,0,1.0986122886681098,2010
+Tier,2,2021-10-25,Travel,Berlin,Germany,Europe,2018,0.587,2021,10,4,0,3,3.4071550255536627,0,1.0986122886681098,2010
+Trendy Group International,2,2012-02-13,Consumer & retail,Kowloon,Hong Kong,Asia,1999,0.2,2012,2,1,0,13,10.0,0,1.0986122886681098,1990
+Unqork,2,2020-10-06,Fintech,New York,United States,North America,2017,0.365,2020,10,4,0,3,5.47945205479452,0,1.0986122886681098,2010
+VerbIT,2,2021-06-08,Artificial intelligence,New York,United States,North America,2016,0.432,2021,6,2,0,5,4.62962962962963,0,1.0986122886681098,2010
+Virta Health,2,2020-12-02,Health,San Francisco,United States,North America,2015,0.373,2020,12,4,0,5,5.361930294906166,0,1.0986122886681098,2010
+Xinchao Media,2,2018-04-09,Internet software & services,Chengdu,China,Asia,2007,0.768,2018,4,2,0,11,2.6041666666666665,0,1.0986122886681098,2000
+Xingyun Group,2,2020-09-24,E-commerce & direct-to-consumer,Shenzhen,China,Asia,2015,0.95,2020,9,3,0,5,2.1052631578947367,0,1.0986122886681098,2010
+XtalPi,2,2021-08-11,Artificial intelligence,Shenzhen,China,Asia,2014,0.786,2021,8,3,0,7,2.544529262086514,0,1.0986122886681098,2010
+Zilch,2,2021-11-10,Fintech,London,United Kingdom,Europe,2018,0.339,2021,11,4,0,3,5.899705014749262,0,1.0986122886681098,2010
+56PINGTAI,1,2021-01-25,"Supply chain, logistics, & delivery",Shanghai,China,Asia,2013,0.188,2021,1,1,0,8,5.319148936170213,0,0.6931471805599453,2010
+Alzheon,1,2020-09-30,Health,Framingham,United States,North America,2013,0.094,2020,9,3,0,7,10.638297872340425,0,0.6931471805599453,2010
+Aprogen,1,2019-05-31,Health,Seongnam-Si,South Korea,Asia,2000,0.062,2019,5,2,0,19,16.129032258064516,0,0.6931471805599453,2000
+Axtria,1,2021-05-13,Data management & analytics,Berkeley Heights,United States,North America,2009,0.206,2021,5,2,0,12,4.8543689320388355,0,0.6931471805599453,2000
+Cell C,1,2017-08-07,Mobile & telecommunications,Midrand,South Africa,Africa,2000,0.547,2017,8,3,0,17,1.8281535648994514,0,0.6931471805599453,2000
+China Cloud,1,2018-06-11,Hardware,Wuxi,China,Asia,2010,0.523,2018,6,2,0,8,1.9120458891013383,0,0.6931471805599453,2010
+CredAvenue,1,2022-03-07,Fintech,Chennai,India,Asia,2017,0.227,2022,3,1,0,5,4.405286343612334,0,0.6931471805599453,2010
+DeepBlue Technology,1,2018-04-16,Artificial intelligence,Shanghai,China,Asia,2014,0.079,2018,4,2,0,4,12.658227848101266,0,0.6931471805599453,2010
+dMed Biopharmaceutical,1,2021-07-12,Health,Shanghai,China,Asia,2016,0.214,2021,7,3,0,5,4.672897196261682,0,0.6931471805599453,2010
+Einride,1,2021-12-31,Auto & transportation,Stockholm,Sweden,Europe,2016,0.151,2021,12,4,0,5,6.622516556291391,0,0.6931471805599453,2010
+EQRx,1,2021-01-11,Health,Cambridge,United States,North America,2020,0.7,2021,1,1,0,1,1.4285714285714286,0,0.6931471805599453,2020
+Everly Health,1,2020-12-03,E-commerce & direct-to-consumer,Austin,United States,North America,2015,0.231,2020,12,4,0,5,4.329004329004329,0,0.6931471805599453,2010
+Fair,1,2018-12-20,Auto & transportation,Santa Monica,United States,North America,2016,2.0,2018,12,4,0,2,0.5,0,0.6931471805599453,2010
+Flipboard,1,2015-07-22,Internet software & services,Palo Alto,United States,North America,2010,0.211,2015,7,3,0,5,4.739336492890995,0,0.6931471805599453,2010
+Globality,1,2019-01-22,Artificial intelligence,Menlo Park,United States,North America,2015,0.31,2019,1,1,0,4,3.2258064516129035,0,0.6931471805599453,2010
+Hosjoy,1,2018-10-18,E-commerce & direct-to-consumer,Nanjing,China,Asia,2009,0.139,2018,10,4,0,9,7.194244604316546,0,0.6931471805599453,2000
+Huisuanzhang,1,2021-05-24,Fintech,Beijing,China,Asia,2015,0.227,2021,5,2,0,6,4.405286343612334,0,0.6931471805599453,2010
+HuJiang,1,2015-10-29,Edtech,Shanghai,China,Asia,2001,0.223,2015,10,4,0,14,4.484304932735426,0,0.6931471805599453,2000
+Hyperchain,1,2021-04-11,Fintech,Hangzhou,China,Asia,2016,0.249,2021,4,2,0,5,4.016064257028113,0,0.6931471805599453,2010
+iTutorGroup,1,2015-11-18,Edtech,Shanghai,China,Asia,1998,0.315,2015,11,4,0,17,3.1746031746031744,0,0.6931471805599453,1990
+JimuBox,1,2015-04-21,Fintech,Beijing,China,Asia,2013,0.131,2015,4,2,0,2,7.633587786259541,0,0.6931471805599453,2010
+Juma Peisong,1,2018-11-26,"Supply chain, logistics, & delivery",Chengdu,China,Asia,2011,0.281,2018,11,4,0,7,3.558718861209964,0,0.6931471805599453,2010
+Justworks,1,2020-01-28,Internet software & services,New York,United States,North America,2012,0.143,2020,1,1,0,8,6.993006993006993,0,0.6931471805599453,2010
+Keenon Robotics,1,2021-09-15,"Supply chain, logistics, & delivery",Shanghai,China,Asia,2010,0.229,2021,9,3,0,11,4.366812227074235,0,0.6931471805599453,2010
+Kuaigou Dache,1,2018-07-13,"Supply chain, logistics, & delivery",Tianjin,China,Asia,2014,0.65,2018,7,3,0,4,1.5384615384615383,0,0.6931471805599453,2010
+LifeMiles,1,2015-07-13,Other,Bogota,Colombia,South America,2011,0.344,2015,7,3,0,4,2.906976744186047,0,0.6931471805599453,2010
+LinkSure Network,1,2015-01-01,Mobile & telecommunications,Shanghai,China,Asia,2013,0.052,2015,1,1,0,2,19.23076923076923,0,0.6931471805599453,2010
+MobiKwik,1,2021-10-13,Fintech,Gurugram,India,Asia,2009,0.249,2021,10,4,0,12,4.016064257028113,0,0.6931471805599453,2000
+Modernizing Medicine,1,2017-05-10,Health,Boca Raton,United States,North America,2010,0.394,2017,5,2,0,7,2.5380710659898478,0,0.6931471805599453,2010
+OVH,1,2016-08-15,Other,Roubaix,France,Europe,1999,1.0,2016,8,3,0,17,1.0,0,0.6931471805599453,1990
+Phenom People,1,2021-04-07,Internet software & services,Ambler,United States,North America,2011,0.163,2021,4,2,0,10,6.134969325153374,0,0.6931471805599453,2010
+Pipa Coding,1,2021-03-25,Edtech,Beijing,China,Asia,2017,0.268,2021,3,1,0,4,3.731343283582089,0,0.6931471805599453,2010
+Qingting FM,1,2021-06-02,Internet software & services,Shanghai,China,Asia,2011,0.164,2021,6,2,0,10,6.097560975609756,0,0.6931471805599453,2010
+Rad Power Bikes,1,2021-10-28,Auto & transportation,Seattle,United States,North America,2007,0.329,2021,10,4,0,14,3.03951367781155,0,0.6931471805599453,2000
+Shukun Technology,1,2021-08-16,Artificial Intelligence,Beijing,China,Asia,2017,0.211,2021,8,3,0,4,4.739336492890995,0,0.6931471805599453,2010
+Shulan Health,1,2021-03-01,Health,Hangzhou,China,Asia,2015,0.043,2021,3,1,0,6,23.255813953488374,0,0.6931471805599453,2010
+SITECH DEV,1,2019-05-16,Other,Guiyang,China,Asia,2017,0.37,2019,5,2,0,2,5.208333333333333,0,0.6931471805599453,2010
+Snapdeal,1,2014-05-21,E-commerce & direct-to-consumer,New Delhi,India,Asia,2008,2.0,2014,5,2,0,6,0.5,0,0.6931471805599453,2000
+SumUp,1,2019-07-16,Fintech,London,United Kingdom,Europe,2011,1.0,2019,7,3,0,8,1.0,0,0.6931471805599453,2010
+TalkingData,1,2021-01-06,Mobile & telecommunications,Beijing,China,Asia,2013,0.31,2021,1,1,0,8,3.2258064516129035,0,0.6931471805599453,2010
+TUNGEE,1,2021-12-15,Artificial Intelligence,Guangzhou,China,Asia,2016,0.171,2021,12,4,0,5,5.847953216374268,0,0.6931471805599453,2010
+UISEE Technology,1,2021-01-25,"Supply chain, logistics, & delivery",Beijing,China,Asia,2016,0.154,2021,1,1,0,5,6.4935064935064934,0,0.6931471805599453,2010
+Valgen Medtech,1,2021-05-06,Health,Hangzhou,China,Asia,2015,0.188,2021,5,2,0,6,5.319148936170213,0,0.6931471805599453,2010
+Vectra Networks,1,2021-04-29,Artificial intelligence,San Jose,United States,North America,2011,0.352,2021,4,2,0,10,2.8409090909090913,0,0.6931471805599453,2010
+Venafi,1,2020-12-10,Cybersecurity,Salt Lake City,United States,North America,2000,0.174,2020,12,4,0,20,5.74712643678161,0,0.6931471805599453,2000
+Wacai,1,2018-07-18,Mobile & telecommunications,Hangzhou,China,Asia,2009,0.369,2018,7,3,0,9,2.710027100271003,0,0.6931471805599453,2000
+WeBull,1,2021-02-18,Fintech,Changsha,China,Asia,2016,0.23,2021,2,1,0,5,4.3478260869565215,0,0.6931471805599453,2010
+WTOIP,1,2018-04-08,Internet software & services,Guangzhou,China,Asia,2013,0.307,2018,4,2,0,5,3.257328990228013,0,0.6931471805599453,2010
+Xiaobing,1,2021-07-12,Fintech,Beijing,China,Asia,2020,0.37,2021,7,3,0,1,5.208333333333333,0,0.6931471805599453,2020
+Xiaoe Tech,1,2021-06-15,Internet software & services,Shenzhen,China,Asia,2015,0.149,2021,6,2,0,6,6.7114093959731544,0,0.6931471805599453,2010
+Yiguo,1,2016-11-09,"Supply chain, logistics, & delivery",Shanghai,China,Asia,2005,0.8,2016,11,4,0,11,1.25,0,0.6931471805599453,2000
+Yimidida,1,2019-01-14,"Supply chain, logistics, & delivery",Shanghai,China,Asia,2015,0.554,2019,1,1,0,4,1.8050541516245486,0,0.6931471805599453,2010
+Yipin Shengxian,1,2019-03-11,E-commerce & direct-to-consumer,Hefei,China,Asia,2017,0.658,2019,3,1,0,2,1.519756838905775,0,0.6931471805599453,2010
+Ynsect,1,2019-02-21,Other,Evry,France,Europe,2011,0.393,2019,2,1,0,8,2.544529262086514,0,0.6931471805599453,2010
+Hello TransTech,1,2018-06-01,Auto & transportation,Shanghai,China,Asia,2016,2.0,2018,6,2,0,2,0.5,0,0.6931471805599453,2010
+Miaoshou Doctor,1,2019-06-27,E-commerce & direct-to-consumer,Beijing,China,Asia,2015,0.947,2019,6,2,0,4,1.0559662090813096,0,0.6931471805599453,2010
+ECARX,1,2020-10-26,Auto & transportation,Wuhan,China,Asia,2016,0.394,2020,10,4,0,4,2.5380710659898478,0,0.6931471805599453,2010
+Eat Just,1,2017-11-30,Consumer & retail,San Francisco,United States,North America,2011,0.44,2017,11,4,0,6,2.272727272727273,0,0.6931471805599453,2010
+Trumid,1,2020-07-15,Fintech,New York,United States,North America,2014,0.66,2020,7,3,0,6,1.5151515151515151,0,0.6931471805599453,2010
+Qualia,1,2020-12-21,Fintech,San Francisco,United States,North America,2015,0.16,2020,12,4,0,5,6.25,0,0.6931471805599453,2010
+Beisen,1,2021-05-11,Internet software & services,Beijing,China,Asia,2002,0.388,2021,5,2,0,19,2.5773195876288657,0,0.6931471805599453,2000
+Earnix,1,2021-02-21,Fintech,Giv'atayim,Israel,Asia,2001,0.098,2021,2,1,0,20,10.204081632653061,0,0.6931471805599453,2000
+Kujiale,1,2019-10-25,Internet software & services,Hangzhou,China,Asia,2011,0.235,2019,10,4,0,8,4.25531914893617,0,0.6931471805599453,2010
+Orca Security,1,2021-03-23,Cybersecurity,Portland,United States,North America,2019,0.632,2021,3,1,0,2,1.5822784810126582,0,0.6931471805599453,2010
+Apus Group,1,2015-01-16,Mobile & telecommunications,Beijing,China,Asia,2014,0.116,2015,1,1,0,1,8.620689655172413,0,0.6931471805599453,2010
+Forte Labs,1,2021-05-12,Fintech,San Francisco,United States,North America,2018,0.91,2021,5,2,0,3,1.0989010989010988,0,0.6931471805599453,2010
+CureFit,1,2021-11-10,Health,Bengaluru,India,Asia,2016,0.665,2021,11,4,0,5,1.5037593984962405,0,0.6931471805599453,2010
+DT Dream,1,2017-06-08,Data management & analytics,Hangzhou,China,Asia,2015,0.267,2017,6,2,0,2,3.745318352059925,0,0.6931471805599453,2010
+fabric,1,2022-02-24,E-commerce & direct-to-consumer,Bellevue,United States,North America,2017,0.294,2022,2,1,0,5,3.4013605442176873,0,0.6931471805599453,2010
+JOLLY Information Technology,1,2018-05-29,E-commerce & direct-to-consumer,Hangzhou,China,Asia,2008,0.096,2018,5,2,0,10,10.416666666666666,0,0.6931471805599453,2000
+K Health,1,2021-01-19,Health,New York,United States,North America,2016,0.271,2021,1,1,0,5,3.6900369003690034,0,0.6931471805599453,2010
+Mofang Living,1,2016-04-13,E-commerce & direct-to-consumer,Shanghai,China,Asia,2009,0.65,2016,4,2,0,7,1.5384615384615383,0,0.6931471805599453,2000
+Spendesk,1,2022-01-18,Fintech,Paris,France,Europe,2015,0.314,2022,1,1,0,7,3.1847133757961785,0,0.6931471805599453,2010
+TaxBit,1,2021-08-04,Fintech,Draper,United States,North America,2018,0.236,2021,8,3,0,3,4.237288135593221,0,0.6931471805599453,2010
+XiaoZhu,1,2017-11-01,Travel,Beijing,China,Asia,2012,0.572,2017,11,4,0,5,1.7482517482517483,0,0.6931471805599453,2010
+Yijiupi,1,2018-09-20,Consumer & retail,Beijing,China,Asia,2014,0.511,2018,9,3,0,4,1.9569471624266144,0,0.6931471805599453,2010
+YunQuNa,1,2021-06-29,"Supply chain, logistics, & delivery",Shanghai,China,Asia,2015,0.207,2021,6,2,0,6,4.830917874396135,0,0.6931471805599453,2010
+Bordrin Motors,1,2019-06-03,Auto & transportation,Shanghai,China,Asia,2016,0.362,2019,6,2,0,3,2.7624309392265194,0,0.6931471805599453,2010
+Aleo,1,2022-02-07,Cybersecurity,San Francisco,United States,North America,2019,0.228,2022,2,1,0,3,4.385964912280701,0,0.6931471805599453,2010
+Coocaa,1,2018-03-16,Hardware,Shenzhen,China,Asia,2006,0.218,2018,3,1,0,12,4.587155963302752,0,0.6931471805599453,2000
+Gymshark,1,2020-08-14,E-commerce & direct-to-consumer,Solihull,United Kingdom,Europe,2012,0.262,2020,8,3,0,8,3.8167938931297707,0,0.6931471805599453,2010
+M1 Finance,1,2021-07-14,Fintech,Chicago,United States,North America,2015,0.323,2021,7,3,0,6,3.095975232198142,0,0.6931471805599453,2010
+Ouyeel,1,2019-06-27,Internet software & services,Shanghai,China,Asia,2015,0.432,2019,6,2,0,4,2.314814814814815,0,0.6931471805599453,2010
+SonderMind,1,2021-07-28,Health,Denver,United States,North America,2014,0.183,2021,7,3,0,7,5.46448087431694,0,0.6931471805599453,2010
+Astranis Space Technologies,1,2021-04-14,Mobile & telecommunications,San Francisco,United States,North America,2015,0.303,2021,4,2,0,6,3.3003300330033003,0,0.6931471805599453,2010
+Away,1,2019-05-15,E-commerce & direct-to-consumer,New York,United States,North America,2015,0.181,2019,5,2,0,4,5.524861878453039,0,0.6931471805599453,2010
+Cabify,1,2018-01-22,Auto & transportation,Madrid,Spain,Europe,2011,0.407,2018,1,1,0,7,2.4570024570024573,0,0.6931471805599453,2010
+Clarify Health,1,2022-04-05,Health,San Francisco,United States,North America,2015,0.328,2022,4,2,0,7,3.048780487804878,0,0.6931471805599453,2010
+Coda,1,2021-07-08,Internet software & services,Mountain View,United States,North America,2014,0.24,2021,7,3,0,7,4.166666666666667,0,0.6931471805599453,2010
+Deezer,1,2018-08-02,Internet software & services,Paris,France,Europe,2007,0.532,2018,8,3,0,11,1.8796992481203008,0,0.6931471805599453,2000
+Degreed,1,2021-04-13,Edtech,Pleasanton,United States,North America,2012,0.318,2021,4,2,0,9,3.144654088050314,0,0.6931471805599453,2010
+Deliverect,1,2022-01-24,Fintech,Ghent,Belgium,Europe,2018,0.237,2022,1,1,0,4,4.219409282700422,0,0.6931471805599453,2010
+Envoy,1,2022-01-11,Internet software & services,San Francisco,United States,North America,2013,0.17,2022,1,1,0,9,5.88235294117647,0,0.6931471805599453,2010
+Epidemic Sound,1,2021-03-11,Internet software & services,Stockholm,Sweden,Europe,2009,0.509,2021,3,1,0,12,1.9646365422396856,0,0.6931471805599453,2000
+Figment,1,2021-12-20,Internet software & services,Toronto,Canada,North America,2018,0.165,2021,12,4,0,3,6.0606060606060606,0,0.6931471805599453,2010
+Firebolt,1,2022-01-26,Data management & analytics,Tel Aviv,Israel,Asia,2019,0.264,2022,1,1,0,3,3.7878787878787876,0,0.6931471805599453,2010
+Five Star Business Finance,1,2021-03-26,Other,Chennai,India,Asia,1984,0.456,2021,3,1,1,37,2.1929824561403506,0,0.6931471805599453,1980
+GupShup,1,2021-04-08,Internet software & services,San Francisco,United States,North America,2011,0.384,2021,4,2,0,10,2.6041666666666665,0,0.6931471805599453,2010
+Kong,1,2020-12-31,Internet software & services,San Francisco,United States,North America,2007,0.169,2020,12,4,0,13,5.9171597633136095,0,0.6931471805599453,2000
+Koudai,1,2014-10-23,E-commerce & direct-to-consumer,Beijing,China,Asia,2010,0.368,2014,10,4,0,4,2.717391304347826,0,0.6931471805599453,2010
+Panther Labs,1,2021-12-02,Cybersecurity,San Francisco,United States,North America,2018,0.141,2021,12,4,0,3,7.092198581560284,0,0.6931471805599453,2010
+Papa,1,2021-11-04,Health,Miami,United States,North America,2016,0.241,2021,11,4,0,5,4.149377593360996,0,0.6931471805599453,2010
+Pristyn Care,1,2021-12-07,Health,Gurugram,India,Asia,2018,0.177,2021,12,4,0,3,5.649717514124294,0,0.6931471805599453,2010
+Rebel Foods,1,2021-10-07,E-commerce & direct-to-consumer,Pune,India,Asia,2011,0.521,2021,10,4,0,10,1.9193857965451055,0,0.6931471805599453,2010
+Salt Security,1,2022-02-10,Cybersecurity,Palo Alto,United States,North America,2016,0.271,2022,2,1,0,6,3.6900369003690034,0,0.6931471805599453,2010
+Scalable Capital,1,2021-06-08,Fintech,Munich,Germany,Europe,2014,0.314,2021,6,2,0,7,3.1847133757961785,0,0.6931471805599453,2010
+SparkCognition,1,2022-01-25,Artificial intelligence,Austin,United States,North America,2013,0.286,2022,1,1,0,9,3.4965034965034967,0,0.6931471805599453,2010
+Stash,1,2021-02-03,Fintech,New York,United States,North America,2015,0.426,2021,2,1,0,6,2.347417840375587,0,0.6931471805599453,2010
+Symphony,1,2017-05-16,Fintech,New York,United States,North America,2014,0.511,2017,5,2,0,3,1.9569471624266144,0,0.6931471805599453,2010
+Tripledot,1,2022-02-14,Mobile & telecommunications,London,United Kingdom,Europe,2017,0.202,2022,2,1,0,5,4.9504950495049505,0,0.6931471805599453,2010
+VideoAmp,1,2021-10-21,Internet software & services,Los Angeles,United States,North America,2014,0.382,2021,10,4,0,7,2.6178010471204187,0,0.6931471805599453,2010
+Yidian Zixun,1,2017-10-17,Mobile & telecommunications,Beijing,China,Asia,2021,0.151,2017,10,4,0,0,6.622516556291391,0,0.6931471805599453,2020
+Yotpo,1,2021-03-18,Internet software & services,New York,United States,North America,2011,0.436,2021,3,1,0,10,2.293577981651376,0,0.6931471805599453,2010
+Neon,1,2022-02-14,Fintech,Sao Paulo,Brazil,South America,2016,0.72,2022,2,1,0,6,1.3888888888888888,0,0.6931471805599453,2010
+Veepee,1,2007-07-02,E-commerce & direct-to-consumer,La Plaine Saint-Denis,France,Europe,2001,0.37,2007,7,3,0,6,5.208333333333333,0,0.6931471805599453,2000
+Alloy,1,2021-09-30,Fintech,New York,United States,North America,2015,0.156,2021,9,3,0,6,6.410256410256411,0,0.6931471805599453,2010
+Epirus,1,2022-02-14,Other,Hawthorne,United States,North America,2018,0.287,2022,2,1,0,4,3.4843205574912894,0,0.6931471805599453,2010
+Klook,1,2018-08-07,Travel,Central,Hong Kong,Asia,2014,0.722,2018,8,3,0,4,1.3850415512465375,0,0.6931471805599453,2010
+Yaoshibang,1,2021-06-15,Health,Guangzhou,China,Asia,2015,0.496,2021,6,2,0,6,2.0161290322580645,0,0.6931471805599453,2010
+Signifyd,1,2021-04-15,Fintech,San Jose,United States,North America,2011,0.39,2021,4,2,0,10,2.564102564102564,0,0.6931471805599453,2010
+Motorway,1,2021-11-29,E-commerce & direct-to-consumer,London,United Kingdom,Europe,2017,0.276,2021,11,4,0,4,3.623188405797101,0,0.6931471805599453,2010
+RIDI,1,2022-01-24,E-commerce & direct-to-consumer,Seoul,South Korea,Asia,2008,0.178,2022,1,1,0,14,5.617977528089888,0,0.6931471805599453,2000
+Athletic Greens,1,2022-01-25,Health,New York,United States,North America,2010,0.115,2022,1,1,0,12,8.695652173913043,0,0.6931471805599453,2010
+GPclub,1,2018-10-22,Other,Seoul,South Korea,Asia,2003,0.067,2018,10,4,0,15,14.925373134328357,0,0.6931471805599453,2000
+Grove Collaborative,1,2019-09-06,E-commerce & direct-to-consumer,San Francisco,United States,North America,2016,0.475,2019,9,3,0,3,2.1052631578947367,0,0.6931471805599453,2010
+Tongdun Technology,1,2019-04-25,Cybersecurity,Hangzhou,China,Asia,2013,0.252,2019,4,2,0,6,3.9682539682539684,0,0.6931471805599453,2010
+Unisound,1,2018-07-19,Artificial intelligence,Beijing,China,Asia,2012,0.361,2018,7,3,0,6,2.770083102493075,0,0.6931471805599453,2010
+Betterment,1,2021-09-29,Fintech,New York,United States,North America,2010,0.335,2021,9,3,0,11,2.9850746268656714,0,0.6931471805599453,2010
+Cava Group,1,2021-04-27,Other,Washington,United States,North America,2010,0.738,2021,4,2,0,11,1.3550135501355014,0,0.6931471805599453,2010
+CoinTracker,1,2022-01-27,Fintech,San Francisco,United States,North America,2017,0.102,2022,1,1,0,5,9.803921568627452,0,0.6931471805599453,2010
+DistroKid,1,2021-08-16,Internet software & services,New York,United States,North America,2013,0.37,2021,8,3,0,8,5.208333333333333,0,0.6931471805599453,2010
+Domestika,1,2022-01-27,Internet software & services,Berkeley,United States,North America,2012,0.13,2022,1,1,0,10,7.692307692307692,0,0.6931471805599453,2010
+Flock Freight,1,2021-10-20,"Supply chain, logistics, & delivery",Encinitas,United States,North America,2015,0.399,2021,10,4,0,6,2.506265664160401,0,0.6931471805599453,2010
+InSightec,1,2020-03-06,Health,Tirat Carmel,Israel,Asia,1999,0.633,2020,3,1,0,21,1.5797788309636651,0,0.6931471805599453,1990
+Island,1,2022-03-23,Internet software & services,Dallas,United States,North America,2020,0.215,2022,3,1,0,2,4.651162790697675,0,0.6931471805599453,2020
+iTrustCapital,1,2022-01-11,Fintech,Long Beach,United States,North America,2018,0.128,2022,1,1,0,4,7.8125,0,0.6931471805599453,2010
+Konfio,1,2021-09-29,Fintech,Mexico City,Mexico,North America,2013,0.378,2021,9,3,0,8,2.6455026455026456,0,0.6931471805599453,2010
+LinkTree,1,2022-03-16,Internet software & services,Melbourne,Australia,Oceania,2016,0.166,2022,3,1,0,6,6.024096385542168,0,0.6931471805599453,2010
+Loadsmart,1,2022-02-01,"Supply chain, logistics, & delivery",New York,United States,North America,2014,0.336,2022,2,1,0,8,2.976190476190476,0,0.6931471805599453,2010
+Lukka,1,2022-01-14,Fintech,New York,United States,North America,2014,0.201,2022,1,1,0,8,4.975124378109452,0,0.6931471805599453,2010
+Manner,1,2020-12-24,Other,Shanghai,China,Asia,2015,0.01,2020,12,4,0,5,100.0,0,0.6931471805599453,2010
+The Brandtech Group,1,2019-11-19,Other,New York,United States,North America,2015,0.61,2019,11,4,0,4,1.639344262295082,0,0.6931471805599453,2010
+TravelPerk,1,2022-01-12,Travel,Barcelona,Spain,Europe,2015,0.408,2022,1,1,0,7,2.450980392156863,0,0.6931471805599453,2010
+YugaByte,1,2021-10-28,Data management & analytics,Sunnyvale,United States,North America,2016,0.291,2021,10,4,0,5,3.436426116838488,0,0.6931471805599453,2010
+Intercom,1,2018-03-27,Internet software & services,San Francisco,United States,North America,2011,0.241,2018,3,1,0,7,4.149377593360996,0,0.6931471805599453,2010
+OVO Energy,1,2019-02-14,Other,Bristol,United Kingdom,Europe,2009,0.324,2019,2,1,0,10,3.0864197530864197,0,0.6931471805599453,2000
+BigID,1,2020-12-16,Cybersecurity,New York,United States,North America,2015,0.246,2020,12,4,0,5,4.065040650406504,0,0.6931471805599453,2010
+CaptivateIQ,1,2022-01-26,Fintech,San Francisco,United States,North America,2014,0.165,2022,1,1,0,8,6.0606060606060606,0,0.6931471805599453,2010
+Flipdish,1,2022-01-13,Internet software & services,Dublin,Ireland,Europe,2015,0.157,2022,1,1,0,7,6.369426751592357,0,0.6931471805599453,2010
+Honor Technology,1,2021-10-05,Internet software & services,San Francisco,United States,North America,2014,0.325,2021,10,4,0,7,3.0769230769230766,0,0.6931471805599453,2010
+Incode Technologies,1,2021-12-07,Cybersecurity,San Francisco,United States,North America,2015,0.257,2021,12,4,0,6,3.8910505836575875,0,0.6931471805599453,2010
+Kuaikan Manhua,1,2017-12-01,Internet software & services,Beijing,China,Asia,2014,0.594,2017,12,4,0,3,1.6835016835016836,0,0.6931471805599453,2010
+Marshmallow,1,2021-09-08,Fintech,London,United Kingdom,Europe,2017,0.116,2021,9,3,0,4,8.620689655172413,0,0.6931471805599453,2010
+Mythical Games,1,2021-11-04,Internet software & services,Sherman Oaks,United States,North America,2018,0.26,2021,11,4,0,3,3.846153846153846,0,0.6931471805599453,2010
+Route,1,2022-01-21,"Supply chain, logistics, & delivery",Lehi,United States,North America,2018,0.482,2022,1,1,0,4,2.074688796680498,0,0.6931471805599453,2010
+Tackle.io,1,2021-12-21,Internet software & services,Boise,United States,North America,2016,0.148,2021,12,4,0,5,6.756756756756757,0,0.6931471805599453,2010
+Nexii,1,2021-09-08,Other,Vancouver,Canada,North America,2020,0.045,2021,9,3,0,1,22.22222222222222,0,0.6931471805599453,2020
+GalaxySpace,1,2020-11-17,Mobile & telecommunications,Beijing,China,Asia,2016,0.014,2020,11,4,0,4,71.42857142857143,0,0.6931471805599453,2010
+Insider,1,2022-02-28,Internet software & services,Istanbul,Turkey,Europe,2012,0.167,2022,2,1,0,10,5.988023952095808,0,0.6931471805599453,2010
+Spiber,1,2021-09-08,Other,Tsuruoka,Japan,Asia,2007,0.52,2021,9,3,0,14,1.923076923076923,0,0.6931471805599453,2000
+Ada Support,1,2021-05-07,Artificial intelligence,Toronto,Canada,North America,2016,0.191,2021,5,2,0,5,5.2356020942408374,0,0.6931471805599453,2010
+AgentSync,1,2021-12-07,Fintech,Denver,United States,North America,2018,0.111,2021,12,4,0,3,9.00900900900901,0,0.6931471805599453,2010
+Alation,1,2021-06-03,Internet software & services,Redwood City,United States,North America,2012,0.192,2021,6,2,0,9,5.208333333333333,0,0.6931471805599453,2010
+BigPanda,1,2022-01-12,Artificial intelligence,Mountain View,United States,North America,2012,0.317,2022,1,1,0,10,3.1545741324921135,0,0.6931471805599453,2010
+CarDekho,1,2021-10-13,E-commerce & direct-to-consumer,Jaipur,India,Asia,2008,0.448,2021,10,4,0,13,2.232142857142857,0,0.6931471805599453,2000
+Copado,1,2021-09-13,Data management & analytics,Chicago,United States,North America,2013,0.271,2021,9,3,0,8,3.6900369003690034,0,0.6931471805599453,2010
+DailyPay,1,2021-05-18,Fintech,New York,United States,North America,2016,0.189,2021,5,2,0,5,5.291005291005291,0,0.6931471805599453,2010
+FloQast,1,2021-07-21,Fintech,Los Angeles,United States,North America,2013,0.23,2021,7,3,0,8,4.3478260869565215,0,0.6931471805599453,2010
+Gem,1,2021-09-28,Internet software & services,San Francisco,United States,North America,2017,0.148,2021,9,3,0,4,6.756756756756757,0,0.6931471805599453,2010
+GrubMarket,1,2021-09-14,E-commerce & direct-to-consumer,San Francisco,United States,North America,2013,0.382,2021,9,3,0,8,2.6178010471204187,0,0.6931471805599453,2010
+Helium Systems,1,2022-02-22,Internet software & services,San Francisco,United States,North America,2013,0.365,2022,2,1,0,9,2.73972602739726,0,0.6931471805599453,2010
+Inari,1,2021-05-12,Other,Cambridge,United States,North America,2016,0.337,2021,5,2,0,5,2.9673590504451037,0,0.6931471805599453,2010
+Jokr,1,2021-12-02,E-commerce & direct-to-consumer,New York,United States,North America,2021,0.43,2021,12,4,0,0,2.3255813953488373,0,0.6931471805599453,2020
+LivSpace,1,2022-02-08,E-commerce & direct-to-consumer,Bengaluru,India,Asia,2015,0.427,2022,2,1,0,7,2.34192037470726,0,0.6931471805599453,2010
+Merama,1,2021-12-09,E-commerce & direct-to-consumer,Mexico City,Mexico,North America,2020,0.345,2021,12,4,0,1,2.8985507246376816,0,0.6931471805599453,2020
+MindTickle,1,2021-08-03,Internet software & services,San Francisco,United States,North America,2012,0.281,2021,8,3,0,9,3.558718861209964,0,0.6931471805599453,2010
+MyGlamm,1,2021-11-10,E-commerce & direct-to-consumer,Mumbai,India,Asia,2015,0.31,2021,11,4,0,6,3.2258064516129035,0,0.6931471805599453,2010
+Oda,1,2021-06-02,E-commerce & direct-to-consumer,Oslo,Norway,Europe,2013,0.337,2021,6,2,0,8,2.9673590504451037,0,0.6931471805599453,2010
+Offchain Labs,1,2021-08-31,Internet software & services,Princeton,United States,North America,2018,0.124,2021,8,3,0,3,8.064516129032258,0,0.6931471805599453,2010
+Phantom,1,2022-01-31,Fintech,San Francisco,United States,North America,2021,0.118,2022,1,1,0,1,8.474576271186441,0,0.6931471805599453,2020
+Pilot.com,1,2021-03-26,Fintech,San Francisco,United States,North America,2016,0.161,2021,3,1,0,5,6.211180124223603,0,0.6931471805599453,2010
+Prime Medicine,1,2021-07-13,Health,Cambridge,United States,North America,2019,0.315,2021,7,3,0,2,3.1746031746031744,0,0.6931471805599453,2010
+Public,1,2021-02-17,Fintech,New York,United States,North America,2008,0.309,2021,2,1,0,13,3.236245954692557,0,0.6931471805599453,2000
+Qumulo,1,2020-07-16,Data management & analytics,Seattle,United States,North America,2012,0.347,2020,7,3,0,8,2.8818443804034586,0,0.6931471805599453,2010
+Rohlik,1,2021-07-01,"Supply chain, logistics, & delivery",Prague,Czech Republic,Europe,2019,0.38,2021,7,3,0,2,2.6315789473684212,0,0.6931471805599453,2010
+SeekOut,1,2022-01-12,Internet software & services,Bellevue,United States,North America,2017,0.189,2022,1,1,0,5,5.291005291005291,0,0.6931471805599453,2010
+SmartMore,1,2021-06-24,Artificial Intelligence,Shenzhen,China,Asia,2019,0.3,2021,6,2,0,2,3.3333333333333335,0,0.6931471805599453,2010
+Tealium,1,2021-02-03,Internet software & services,San Diego,United States,North America,2008,0.264,2021,2,1,0,13,3.7878787878787876,0,0.6931471805599453,2000
+UpGrad,1,2021-08-09,Edtech,Mumbai,India,Asia,2015,0.194,2021,8,3,0,6,5.154639175257731,0,0.6931471805599453,2010
+Workhuman,1,2020-06-23,Internet software & services,Dublin,Ireland,Europe,1999,0.009,2020,6,2,0,21,111.11111111111111,0,0.6931471805599453,1990
+Xpressbees,1,2022-02-09,"Supply chain, logistics, & delivery",Pune,India,Asia,2012,0.573,2022,2,1,0,10,1.7452006980802794,0,0.6931471805599453,2010
+L&P Cosmetic,1,2016-01-01,Consumer & retail,Seoul,South Korea,Asia,2009,0.033,2016,1,1,0,7,30.3030303030303,0,0.6931471805599453,2000
+Mininglamp Technology,1,2019-03-27,Artificial intelligence,Beijing,China,Asia,2014,0.787,2019,3,1,0,5,1.2706480304955527,0,0.6931471805599453,2010
+Luoji Siwei,1,2017-07-20,Edtech,Beijing,China,Asia,2012,0.144,2017,7,3,0,5,6.944444444444445,0,0.6931471805599453,2010
+IRL,1,2021-06-15,Internet software & services,San Francisco,United States,North America,2017,0.197,2021,6,2,0,4,5.0761421319796955,0,0.6931471805599453,2010
+Modern Health,1,2021-02-11,Health,San Francisco,United States,North America,2017,0.167,2021,2,1,0,4,5.988023952095808,0,0.6931471805599453,2010
+Tuhu,1,2018-09-15,Auto & transportation,Shanghai,China,Asia,2011,0.875,2018,9,3,0,7,1.1428571428571428,0,0.6931471805599453,2010
+CloudBees,1,2021-12-09,Data management & analytics,San Jose,United States,North America,2010,0.236,2021,12,4,0,11,4.237288135593221,0,0.6931471805599453,2010
+Elemy,1,2021-10-06,Health,San Francisco,United States,North America,2019,0.323,2021,10,4,0,2,3.095975232198142,0,0.6931471805599453,2010
+Guideline,1,2021-06-16,Fintech,San Mateo,United States,North America,2015,0.339,2021,6,2,0,6,2.949852507374631,0,0.6931471805599453,2010
+Happy Money,1,2022-02-08,Fintech,Tustin,United States,North America,2009,0.192,2022,2,1,0,13,5.208333333333333,0,0.6931471805599453,2000
+Rebellion Defense,1,2021-09-16,Artificial intelligence,Washington DC,United States,North America,2019,0.15,2021,9,3,0,2,6.666666666666667,0,0.6931471805599453,2010
+STORD,1,2021-09-13,"Supply chain, logistics, & delivery",Atlanta,United States,North America,2015,0.205,2021,9,3,0,6,4.878048780487805,0,0.6931471805599453,2010
+At-Bay,1,2021-07-27,Fintech,Mountain View,United States,North America,2016,0.292,2021,7,3,0,5,3.4246575342465757,0,0.6931471805599453,2010
+TELD,1,2019-12-16,Fintech,Qingdao,China,Asia,2014,0.396,2019,12,4,0,5,2.525252525252525,0,0.6931471805599453,2010
+Acko General Insurance,1,2021-10-28,Fintech,Bengaluru,India,Asia,2016,0.458,2021,10,4,0,5,2.1834061135371177,0,0.6931471805599453,2010
+apna,1,2021-09-15,Internet software & services,Bengaluru,India,Asia,2019,0.193,2021,9,3,0,2,5.181347150259067,0,0.6931471805599453,2010
+Beyond Identity,1,2022-02-22,Cybersecurity,New York,United States,North America,2019,0.205,2022,2,1,0,3,4.878048780487805,0,0.6931471805599453,2010
+Carousell,1,2021-09-15,E-commerce & direct-to-consumer,Unknown,Singapore,Asia,2012,0.288,2021,9,3,0,9,3.4722222222222223,0,0.6931471805599453,2010
+Chief,1,2022-03-31,Other,New York,United States,North America,2019,0.14,2022,3,1,0,3,7.142857142857142,0,0.6931471805599453,2010
+CoinDCX,1,2021-08-10,Fintech,Maharashtra,India,Asia,2017,0.109,2021,8,3,0,4,9.174311926605505,0,0.6931471805599453,2010
+Daily Harvest,1,2021-11-16,E-commerce & direct-to-consumer,New York,United States,North America,2014,0.12,2021,11,4,0,7,8.333333333333334,0,0.6931471805599453,2010
+Enpal,1,2021-10-18,Internet software & services,Berlin,Germany,Europe,2017,0.304,2021,10,4,0,4,3.2894736842105265,0,0.6931471805599453,2010
+eSentire,1,2022-02-22,Cybersecurity,Waterloo,Canada,North America,2001,0.186,2022,2,1,0,21,5.376344086021505,0,0.6931471805599453,2000
+Firefly Aerospace,1,2021-05-04,Other,Cedar Park,United States,North America,2014,0.172,2021,5,2,0,7,5.813953488372094,0,0.6931471805599453,2010
+Fundbox,1,2021-11-30,Fintech,San Francisco,United States,North America,2013,0.404,2021,11,4,0,8,2.4752475247524752,0,0.6931471805599453,2010
+G2,1,2021-06-22,Internet software & services,Chicago,United States,North America,2012,0.258,2021,6,2,0,9,3.875968992248062,0,0.6931471805599453,2010
+Gaussian Robotics,1,2021-11-10,Hardware,Shanghai,China,Asia,2013,0.325,2021,11,4,0,8,3.0769230769230766,0,0.6931471805599453,2010
+GetYourGuide,1,2019-05-16,Travel,Berlin,Germany,Europe,2009,0.656,2019,5,2,0,10,1.524390243902439,0,0.6931471805599453,2000
+GlobalBees,1,2021-12-28,E-commerce & direct-to-consumer,New Delhi,India,Asia,2021,0.185,2021,12,4,0,0,5.405405405405405,0,0.6931471805599453,2020
+Ivalua,1,2019-05-21,Fintech,Redwood City,United States,North America,2000,0.134,2019,5,2,0,19,7.462686567164178,0,0.6931471805599453,2000
+Juanpi,1,2016-04-14,E-commerce & direct-to-consumer,Wuhan,China,Asia,2012,0.136,2016,4,2,0,4,7.352941176470588,0,0.6931471805599453,2010
+Karat,1,2021-10-13,Internet software & services,Seattle,United States,North America,2014,0.169,2021,10,4,0,7,5.9171597633136095,0,0.6931471805599453,2010
+LEAD School,1,2022-01-13,Edtech,Andheri,India,Asia,2012,0.166,2022,1,1,0,10,6.024096385542168,0,0.6931471805599453,2010
+Nexthink,1,2021-02-08,Data management & analytics,Prilly,Switzerland,Europe,2004,0.346,2021,2,1,0,17,2.8901734104046244,0,0.6931471805599453,2000
+People.ai,1,2021-08-11,Internet software & services,San Francisco,United States,North America,2017,0.2,2021,8,3,0,4,5.0,0,0.6931471805599453,2010
+Pharmapacks,1,2020-11-12,E-commerce & direct-to-consumer,Islandia,United States,North America,2010,0.433,2020,11,4,0,10,2.3094688221709005,0,0.6931471805599453,2010
+Rightway,1,2021-03-30,Health,New York,United States,North America,2017,0.13,2021,3,1,0,4,7.692307692307692,0,0.6931471805599453,2010
+Sennder,1,2021-01-14,"Supply chain, logistics, & delivery",Berlin,Germany,Europe,2015,0.34,2021,1,1,0,6,2.941176470588235,0,0.6931471805599453,2010
+Sisense,1,2020-01-09,Data management & analytics,New York,United States,North America,2004,0.274,2020,1,1,0,16,3.64963503649635,0,0.6931471805599453,2000
+Staffbase,1,2022-03-15,Internet software & services,Chemnitz,Germany,Europe,2014,0.307,2022,3,1,0,8,3.257328990228013,0,0.6931471805599453,2010
+Sunbit,1,2021-05-20,Fintech,Los Angeles,United States,North America,2016,0.21,2021,5,2,0,5,4.761904761904762,0,0.6931471805599453,2010
+TangoMe,1,2014-03-20,Mobile & telecommunications,Mountain View,United States,North America,2009,0.361,2014,3,1,0,5,2.770083102493075,0,0.6931471805599453,2000
+The Bank of London,1,2021-11-30,Fintech,London,United Kingdom,Europe,2018,0.09,2021,11,4,0,3,11.11111111111111,0,0.6931471805599453,2010
+Zego,1,2021-03-09,Fintech,London,United Kingdom,Europe,2016,0.202,2021,3,1,0,5,4.9504950495049505,0,0.6931471805599453,2010
+Nxin,1,2018-09-18,Internet software & services,Beijing,China,Asia,2015,0.053,2018,9,3,0,3,18.867924528301888,0,0.6931471805599453,2010
+Mamaearth,1,2021-12-28,E-commerce & direct-to-consumer,Gurgaon,India,Asia,2016,0.111,2021,12,4,0,5,9.00900900900901,0,0.6931471805599453,2010
+Radius Payment Solutions,1,2017-11-27,Fintech,Crewe,United Kingdom,Europe,1990,0.2,2017,11,4,0,27,5.0,0,0.6931471805599453,1990
+Rivigo,1,2019-07-11,"Supply chain, logistics, & delivery",Gurgaon,India,Asia,2014,0.247,2019,7,3,0,5,4.048582995951417,0,0.6931471805599453,2010
+Rubicon,1,2017-08-25,Other,Atlanta,United States,North America,2008,0.223,2017,8,3,0,9,4.484304932735426,0,0.6931471805599453,2000
+Socar,1,2020-10-16,Auto & transportation,Jeju-do,South Korea,Asia,2012,0.408,2020,10,4,0,8,2.450980392156863,0,0.6931471805599453,2010
+MobileCoin,1,2021-07-07,Fintech,San Francisco,United States,North America,2018,0.107,2021,7,3,0,3,9.345794392523365,0,0.6931471805599453,2010
+Density,1,2021-11-10,Hardware,San Francisco,United States,North America,2014,0.217,2021,11,4,0,7,4.6082949308755765,0,0.6931471805599453,2010
+Instabase,1,2019-10-21,Data management & analytics,San Francisco,United States,North America,2015,0.132,2019,10,4,0,4,7.575757575757575,0,0.6931471805599453,2010
+Jiuxian,1,2015-07-30,E-commerce & direct-to-consumer,Beijing,China,Asia,2009,0.25,2015,7,3,0,6,4.0,0,0.6931471805599453,2000
+Matrixport,1,2021-06-01,Fintech,Unknown,Singapore,Asia,2019,0.1,2021,6,2,0,2,10.0,0,0.6931471805599453,2010
+Mixpanel,1,2021-11-15,Internet software & services,San Francisco,United States,North America,2009,0.277,2021,11,4,0,12,3.6101083032490973,0,0.6931471805599453,2000
+Sendbird,1,2021-04-06,Mobile & telecommunications,San Mateo,United States,North America,2013,0.221,2021,4,2,0,8,4.524886877828054,0,0.6931471805599453,2010
+OrCam Technologies,1,2018-02-20,Artificial intelligence,Jerusalem,Israel,Asia,2010,0.086,2018,2,1,0,8,11.627906976744187,0,0.6931471805599453,2010
+Leap Motor,1,2018-11-20,Auto & transportation,Hangzhou,China,Asia,2015,1.0,2018,11,4,0,3,1.0,0,0.6931471805599453,2010
+1KMXC,1,2021-08-30,Hardware,Hangzhou,China,Asia,2014,0.086,2021,8,3,0,7,11.627906976744187,0,0.6931471805599453,2010
+58 Daojia,1,2015-10-12,Internet software & services,Beijing,China,Asia,2014,0.3,2015,10,4,0,1,3.3333333333333335,0,0.6931471805599453,2010
+Agile Robots,1,2021-09-09,Hardware,Munich,Germany,Europe,2018,0.24,2021,9,3,0,3,4.166666666666667,0,0.6931471805599453,2010
+Aibee,1,2021-04-13,Artificial intelligence,Beijing,China,Asia,2017,0.273,2021,4,2,0,4,3.663003663003663,0,0.6931471805599453,2010
+Aircall,1,2021-06-23,Internet software & services,New York,United States,North America,2014,0.226,2021,6,2,0,7,4.424778761061947,0,0.6931471805599453,2010
+Ajaib,1,2021-10-04,Fintech,Jakarta,Indonesia,Asia,2018,0.245,2021,10,4,0,3,4.081632653061225,0,0.6931471805599453,2010
+Alto Pharmacy,1,2020-01-30,Health,San Francisco,United States,North America,2015,0.524,2020,1,1,0,5,1.9083969465648853,0,0.6931471805599453,2010
+Amagi,1,2022-03-16,Internet software & services,Bengaluru,India,Asia,2008,0.24,2022,3,1,0,14,4.166666666666667,0,0.6931471805599453,2000
+Amount,1,2021-05-17,Fintech,Chicago,United States,North America,2019,0.243,2021,5,2,0,2,4.11522633744856,0,0.6931471805599453,2010
+Amperity,1,2021-07-13,Artificial intelligence,Seattle,United States,North America,2016,0.187,2021,7,3,0,5,5.347593582887701,0,0.6931471805599453,2010
+Anyscale,1,2021-12-07,Artificial Intelligence,Berkeley,United States,North America,2019,0.16,2021,12,4,0,2,6.25,0,0.6931471805599453,2010
+Aptos,1,2022-03-15,Internet software & services,Palo Alto,United States,North America,2021,0.2,2022,3,1,0,1,5.0,0,0.6931471805599453,2020
+Aqua Security,1,2021-03-10,Cybersecurity,Ramat Gan,Israel,Asia,2015,0.265,2021,3,1,0,6,3.773584905660377,0,0.6931471805599453,2010
+Assembly,1,2021-09-21,Internet software & services,Culver City,United States,North America,2019,0.37,2021,9,3,0,2,5.208333333333333,0,0.6931471805599453,2010
+Assent,1,2022-01-06,"Supply chain, logistics, & delivery",Ottawa,Canada,North America,2010,0.534,2022,1,1,0,12,1.8726591760299625,0,0.6931471805599453,2010
+Augury,1,2021-10-26,Artificial intelligence,New York,United States,North America,2011,0.294,2021,10,4,0,10,3.4013605442176873,0,0.6931471805599453,2010
+Axelar,1,2022-02-15,Internet software & services,Waterloo,Canada,North America,2020,0.064,2022,2,1,0,2,15.625,0,0.6931471805599453,2020
+Axiom Space,1,2021-02-16,Other,Houston,United States,North America,2016,0.15,2021,2,1,0,5,6.666666666666667,0,0.6931471805599453,2010
+Banma Network Technologies,1,2018-09-13,Auto & transportation,Shanghai,China,Asia,2015,0.697,2018,9,3,0,3,1.4347202295552368,0,0.6931471805599453,2010
+BeiBei,1,2015-01-22,E-commerce & direct-to-consumer,Hangzhou,China,Asia,2011,0.224,2015,1,1,0,4,4.464285714285714,0,0.6931471805599453,2010
+BenevolentAI,1,2015-06-02,Artificial intelligence,London,United Kingdom,Europe,2013,0.292,2015,6,2,0,2,3.4246575342465757,0,0.6931471805599453,2010
+Berlin Brands Group,1,2021-09-01,E-commerce & direct-to-consumer,Berlin,Germany,Europe,2005,0.8,2021,9,3,0,16,1.25,0,0.6931471805599453,2000
+Betterfly,1,2022-02-01,Artificial intelligence,Santiago,Chile,South America,2018,0.205,2022,2,1,0,4,4.878048780487805,0,0.6931471805599453,2010
+BitFury,1,2018-11-06,Hardware,Amsterdam,Netherlands,Europe,2011,0.17,2018,11,4,0,7,5.88235294117647,0,0.6931471805599453,2010
+BlackBuck,1,2021-07-22,"Supply chain, logistics, & delivery",Bengaluru,India,Asia,2015,0.352,2021,7,3,0,6,2.8409090909090913,0,0.6931471805599453,2010
+Bluecore,1,2021-08-05,Artificial intelligence,New York,United States,North America,2013,0.238,2021,8,3,0,8,4.201680672268908,0,0.6931471805599453,2010
+BlueVoyant,1,2022-02-23,Cybersecurity,New York,United States,North America,2017,0.526,2022,2,1,0,5,1.9011406844106462,0,0.6931471805599453,2010
+bolttech,1,2021-07-01,Fintech,Unknown,Singapore,Asia,2018,0.21,2021,7,3,0,3,4.761904761904762,0,0.6931471805599453,2010
+Boom Supersonic,1,2020-12-16,Other,Englewood,United States,North America,2014,0.241,2020,12,4,0,6,4.149377593360996,0,0.6931471805599453,2010
+Bringg,1,2021-06-16,"Supply chain, logistics, & delivery",Tel Aviv,Israel,Asia,2013,0.185,2021,6,2,0,8,5.405405405405405,0,0.6931471805599453,2010
+C2FO,1,2019-08-07,Fintech,Leawood,United States,North America,2008,0.538,2019,8,3,0,11,1.858736059479554,0,0.6931471805599453,2000
+Cadence,1,2021-12-14,Health,New York,United States,North America,2020,0.141,2021,12,4,0,1,7.092198581560284,0,0.6931471805599453,2020
+CAIS,1,2022-01-11,Fintech,New York,United States,North America,2009,0.406,2022,1,1,0,13,2.463054187192118,0,0.6931471805599453,2000
+Cameo,1,2021-03-30,Internet software & services,Chicago,United States,North America,2016,0.165,2021,3,1,0,5,6.0606060606060606,0,0.6931471805599453,2010
+Capsule,1,2021-04-28,Health,New York,United States,North America,2016,0.57,2021,4,2,0,5,1.7543859649122808,0,0.6931471805599453,2010
+CargoX,1,2021-10-21,"Supply chain, logistics, & delivery",Sao Paulo,Brazil,South America,2015,0.39,2021,10,4,0,6,2.564102564102564,0,0.6931471805599453,2010
+Carro,1,2021-06-14,E-commerce & direct-to-consumer,Unknown,Singapore,Asia,2015,0.595,2021,6,2,0,6,1.680672268907563,0,0.6931471805599453,2010
+Carson Group,1,2021-07-14,Fintech,Lincoln,United States,North America,2012,0.37,2021,7,3,0,9,5.208333333333333,0,0.6931471805599453,2010
+CHEQ,1,2022-02-22,Cybersecurity,New York,United States,North America,2014,0.182,2022,2,1,0,8,5.4945054945054945,0,0.6931471805599453,2010
+Chronosphere,1,2021-10-07,Data management & analytics,New York,United States,North America,2019,0.254,2021,10,4,0,2,3.937007874015748,0,0.6931471805599453,2010
+Cider,1,2021-09-02,E-commerce & direct-to-consumer,Unknown,Hong Kong,Asia,2020,0.14,2021,9,3,0,1,7.142857142857142,0,0.6931471805599453,2020
+Clara,1,2021-12-06,Fintech,Mexico City,Mexico,North America,2020,0.109,2021,12,4,0,1,9.174311926605505,0,0.6931471805599453,2020
+Clearcover,1,2021-04-13,Fintech,Chicago,United States,North America,2016,0.305,2021,4,2,0,5,3.278688524590164,0,0.6931471805599453,2010
+CommerceIQ,1,2022-03-21,Artificial Intelligence,Palo Alto,United States,North America,2012,0.196,2022,3,1,0,10,5.1020408163265305,0,0.6931471805599453,2010
+Contrast Security,1,2021-11-09,Cybersecurity,Los Altos,United States,North America,2014,0.269,2021,11,4,0,7,3.717472118959108,0,0.6931471805599453,2010
+Darwinbox,1,2022-01-25,Internet software & services,Hyderabad,India,Asia,2015,0.107,2022,1,1,0,7,9.345794392523365,0,0.6931471805599453,2010
+Dental Monitoring,1,2021-10-21,Health,Paris,France,Europe,2014,0.232,2021,10,4,0,7,4.310344827586206,0,0.6931471805599453,2010
+DianRong,1,2017-08-02,E-commerce & direct-to-consumer,Shanghai,China,Asia,2012,0.549,2017,8,3,0,5,1.8214936247723132,0,0.6931471805599453,2010
+Drata,1,2021-11-08,Cybersecurity,San Diego,United States,North America,2020,0.128,2021,11,4,0,1,7.8125,0,0.6931471805599453,2020
+DriveNets,1,2021-01-27,Internet software & services,Ra'anana,Israel,Asia,2015,0.325,2021,1,1,0,6,3.0769230769230766,0,0.6931471805599453,2010
+Dune Analytics,1,2022-02-02,Data management & analytics,Oslo,Norway,Europe,2018,0.079,2022,2,1,0,4,12.658227848101266,0,0.6931471805599453,2010
+Dxy.cn,1,2018-04-10,Health,Hangzhou,China,Asia,2000,0.682,2018,4,2,0,18,1.4662756598240467,0,0.6931471805599453,2000
+EBANX,1,2019-10-16,Fintech,Curitiba,Brazil,South America,2012,0.46,2019,10,4,0,7,2.1739130434782608,0,0.6931471805599453,2010
+EcoFlow,1,2021-06-10,Hardware,Shenzhen,China,Asia,2017,0.105,2021,6,2,0,4,9.523809523809524,0,0.6931471805599453,2010
+Electric,1,2022-03-29,Cybersecurity,New York,United States,North America,2016,0.209,2022,3,1,0,6,4.784688995215311,0,0.6931471805599453,2010
+Emerging Markets Property Group,1,2020-04-28,Other,Dubai,United Arab Emirates,Asia,2015,0.279,2020,4,2,0,5,3.584229390681003,0,0.6931471805599453,2010
+Esusu,1,2022-01-27,Fintech,New York,United States,North America,2015,0.145,2022,1,1,0,7,6.8965517241379315,0,0.6931471805599453,2010
+Evidation,1,2021-03-22,Health,San Mateo,United States,North America,2012,0.259,2021,3,1,0,9,3.861003861003861,0,0.6931471805599453,2010
+Expel,1,2021-11-18,Cybersecurity,Herndon,United States,North America,2016,0.258,2021,11,4,0,5,3.875968992248062,0,0.6931471805599453,2010
+Fabric,1,2021-10-26,"Supply chain, logistics, & delivery",New York,United States,North America,2015,0.294,2021,10,4,0,6,3.4013605442176873,0,0.6931471805599453,2010
+Feedzai,1,2021-03-24,Artificial intelligence,San Mateo,United States,North America,2009,0.277,2021,3,1,0,12,3.6101083032490973,0,0.6931471805599453,2000
+Fever Labs,1,2022-01-26,Internet software & services,New York,United States,North America,2012,0.299,2022,1,1,0,10,3.3444816053511706,0,0.6931471805599453,2010
+Fiture,1,2021-04-14,Health,Chengdu,China,Asia,2019,0.391,2021,4,2,0,2,2.557544757033248,0,0.6931471805599453,2010
+FLASH,1,2022-03-16,Fintech,Austin,United States,North America,2011,0.314,2022,3,1,0,11,3.1847133757961785,0,0.6931471805599453,2010
+Flash Express,1,2021-02-01,"Supply chain, logistics, & delivery",Bangkok,Thailand,Asia,2017,0.35,2021,2,1,0,4,2.857142857142857,0,0.6931471805599453,2010
+FlashEx,1,2018-08-27,"Supply chain, logistics, & delivery",Beijing,China,Asia,2014,0.359,2018,8,3,0,4,2.785515320334262,0,0.6931471805599453,2010
+Fractal Analytics,1,2022-01-05,Data management & analytics,Mumbai,India,Asia,2000,0.685,2022,1,1,0,22,1.4598540145985401,0,0.6931471805599453,2000
+Freshbooks,1,2021-08-10,Fintech,Toronto,Canada,North America,2004,0.156,2021,8,3,0,17,6.410256410256411,0,0.6931471805599453,2000
+FXiaoKe,1,2015-07-02,Mobile & telecommunications,Beijing,China,Asia,2011,0.283,2015,7,3,0,4,3.53356890459364,0,0.6931471805599453,2010
+Gauntlet Networks,1,2022-03-07,Fintech,New York,United States,North America,2018,0.045,2022,3,1,0,4,22.22222222222222,0,0.6931471805599453,2010
+Geek+,1,2018-11-21,Hardware,Beijing,China,Asia,2015,0.439,2018,11,4,0,3,2.277904328018223,0,0.6931471805599453,2010
+Gelato,1,2021-08-16,E-commerce & direct-to-consumer,Oslo,Norway,Europe,2007,0.269,2021,8,3,0,14,3.717472118959108,0,0.6931471805599453,2000
+Glia,1,2022-03-21,Fintech,New York,United States,North America,2012,0.152,2022,3,1,0,10,6.578947368421053,0,0.6931471805599453,2010
+GO1,1,2021-07-19,Internet software & services,Brisbane,Australia,Oceania,2015,0.284,2021,7,3,0,6,3.5211267605633805,0,0.6931471805599453,2010
+Groq,1,2021-04-14,Artificial intelligence,Mountain View,United States,North America,2016,0.362,2021,4,2,0,5,2.7624309392265194,0,0.6931471805599453,2010
+Hailo,1,2021-10-12,Artificial intelligence,Tel Aviv,Israel,Asia,2017,0.221,2021,10,4,0,4,4.524886877828054,0,0.6931471805599453,2010
+Haomao.AI,1,2021-12-22,Artificial Intelligence,Beijing,China,Asia,2019,0.157,2021,12,4,0,2,6.369426751592357,0,0.6931471805599453,2010
+Hasura,1,2022-02-22,Internet software & services,Bengaluru,India,Asia,2017,0.137,2022,2,1,0,5,7.2992700729927,0,0.6931471805599453,2010
+HAYDON,1,2021-09-24,Consumer & retail,Shanghai,China,Asia,2020,0.1,2021,9,3,0,1,10.0,0,0.6931471805599453,2020
+Heyday,1,2021-11-16,E-commerce & direct-to-consumer,Chicago,United States,North America,2017,0.8,2021,11,4,0,4,1.25,0,0.6931471805599453,2010
+HMD Global,1,2018-05-21,Mobile & telecommunications,Espoo,Finland,Europe,2016,0.33,2018,5,2,0,2,3.0303030303030303,0,0.6931471805599453,2010
+Hotmart,1,2020-03-17,E-commerce & direct-to-consumer,Amsterdam,Netherlands,Europe,2011,0.127,2020,3,1,0,9,7.874015748031496,0,0.6931471805599453,2010
+Huike Group,1,2018-05-24,Edtech,Beijing,China,Asia,2010,0.302,2018,5,2,0,8,3.3112582781456954,0,0.6931471805599453,2010
+Human Interest,1,2021-08-04,Fintech,San Francisco,United States,North America,2015,0.337,2021,8,3,0,6,2.9673590504451037,0,0.6931471805599453,2010
+Ibotta,1,2019-08-06,Fintech,Denver,United States,North America,2011,0.093,2019,8,3,0,8,10.75268817204301,0,0.6931471805599453,2010
+iCarbonX,1,2016-04-12,Artificial intelligence,Shenzhen,China,Asia,2015,0.2,2016,4,2,0,1,5.0,0,0.6931471805599453,2010
+iFood,1,2018-11-13,"Supply chain, logistics, & delivery",Osasco,Brazil,South America,2011,0.592,2018,11,4,0,7,1.6891891891891893,0,0.6931471805599453,2010
+InFarm,1,2021-12-16,Other,Berlin,Germany,Europe,2013,0.6,2021,12,4,0,8,1.6666666666666667,0,0.6931471805599453,2010
+Infobip,1,2020-07-30,Mobile & telecommunications,Vodnjan,Croatia,Europe,2006,0.2,2020,7,3,0,14,5.0,0,0.6931471805599453,2000
+Injective Protocol,1,2021-04-20,Fintech,New York,United States,North America,2018,0.017,2021,4,2,0,3,58.8235294117647,0,0.6931471805599453,2010
+Intellifusion,1,2019-03-22,Artificial intelligence,Shenzhen,China,Asia,2014,0.173,2019,3,1,0,5,5.780346820809249,0,0.6931471805599453,2010
+Interos,1,2021-07-22,Fintech,Arlington,United States,North America,2005,0.135,2021,7,3,0,16,7.4074074074074066,0,0.6931471805599453,2000
+Iodine Software,1,2021-12-01,Data management & analytics,Austin,United States,North America,2010,0.37,2021,12,4,0,11,5.208333333333333,0,0.6931471805599453,2010
+JoyTunes,1,2021-06-21,Edtech,Tel Aviv,Israel,Asia,2011,0.092,2021,6,2,0,10,10.869565217391305,0,0.6931471805599453,2010
+Kendra Scott,1,2016-12-21,Consumer & retail,Austin,United States,North America,2002,0.37,2016,12,4,0,14,5.208333333333333,0,0.6931471805599453,2000
+Kitopi,1,2021-07-01,"Supply chain, logistics, & delivery",Dubai,United Arab Emirates,Asia,2018,0.504,2021,7,3,0,3,1.9841269841269842,0,0.6931471805599453,2010
+KnowBox,1,2019-05-30,Edtech,Beijing,China,Asia,2014,0.306,2019,5,2,0,5,3.2679738562091503,0,0.6931471805599453,2010
+Kopi Kenangan,1,2021-12-27,Consumer & retail,Jakarta,Indonesia,Asia,2017,0.333,2021,12,4,0,4,3.003003003003003,0,0.6931471805599453,2010
+Lamabang,1,2015-03-06,E-commerce & direct-to-consumer,Shenzhen,China,Asia,2011,0.13,2015,3,1,0,4,7.692307692307692,0,0.6931471805599453,2010
+LayerZero Labs,1,2022-03-30,Internet software & services,New York,United States,North America,2021,0.143,2022,3,1,0,1,6.993006993006993,0,0.6931471805599453,2020
+Lessen,1,2021-11-30,Internet software & services,Scottsdale,United States,North America,2019,0.205,2021,11,4,0,2,4.878048780487805,0,0.6931471805599453,2010
+LetsGetChecked,1,2021-06-07,Health,Dublin,Ireland,Europe,2015,0.263,2021,6,2,0,6,3.8022813688212924,0,0.6931471805599453,2010
+Licious,1,2021-10-05,E-commerce & direct-to-consumer,Bengaluru,India,Asia,2015,0.489,2021,10,4,0,6,2.044989775051125,0,0.6931471805599453,2010
+LinkDoc Technology,1,2018-07-05,Health,Beijing,China,Asia,2014,0.253,2018,7,3,0,4,3.952569169960474,0,0.6931471805599453,2010
+Locus Robotics,1,2021-02-17,Hardware,Wilmington,United States,North America,2014,0.299,2021,2,1,0,7,3.3444816053511706,0,0.6931471805599453,2010
+Lookout,1,2013-10-10,Cybersecurity,San Francisco,United States,North America,2007,0.282,2013,10,4,0,6,3.546099290780142,0,0.6931471805599453,2000
+Lydia,1,2021-12-08,Fintech,Paris,France,Europe,2011,0.263,2021,12,4,0,10,3.8022813688212924,0,0.6931471805599453,2010
+MadeiraMadeira,1,2021-01-07,E-commerce & direct-to-consumer,Parana,Brazil,South America,2009,0.336,2021,1,1,0,12,2.976190476190476,0,0.6931471805599453,2000
+Maimai,1,2017-11-15,Mobile & telecommunications,Beijing,China,Asia,2013,0.3,2017,11,4,0,4,3.3333333333333335,0,0.6931471805599453,2010
+Mammoth Biosciences,1,2021-09-09,Health,Brisbane,United States,North America,2017,0.265,2021,9,3,0,4,3.773584905660377,0,0.6931471805599453,2010
+Masterworks,1,2021-10-05,Fintech,New York,United States,North America,2017,0.11,2021,10,4,0,4,9.090909090909092,0,0.6931471805599453,2010
+Maven Clinic,1,2021-08-17,Health,New York,United States,North America,2014,0.202,2021,8,3,0,7,4.9504950495049505,0,0.6931471805599453,2010
+MediaMath,1,2018-07-10,Internet software & services,New York,United States,North America,2007,0.325,2018,7,3,0,11,3.0769230769230766,0,0.6931471805599453,2000
+Meero,1,2019-06-18,Artificial intelligence,Paris,France,Europe,2016,0.293,2019,6,2,0,3,3.4129692832764507,0,0.6931471805599453,2010
+Mensa Brands,1,2021-11-16,Other,Bengaluru,India,Asia,2021,0.218,2021,11,4,0,0,4.587155963302752,0,0.6931471805599453,2020
+Mia.com,1,2015-09-08,E-commerce & direct-to-consumer,Beijing,China,Asia,2011,0.232,2015,9,3,0,4,4.310344827586206,0,0.6931471805599453,2010
+Minio,1,2022-01-26,Data management & analytics,Palo Alto,United States,North America,2014,0.126,2022,1,1,0,8,7.936507936507937,0,0.6931471805599453,2010
+Mobvoi,1,2017-04-06,Consumer & retail,Beijing,China,Asia,2012,0.252,2017,4,2,0,5,3.9682539682539684,0,0.6931471805599453,2010
+Moka,1,2021-11-02,Internet software & services,Beijing,China,Asia,2015,0.144,2021,11,4,0,6,6.944444444444445,0,0.6931471805599453,2010
+Momenta,1,2018-10-17,Artificial intelligence,Beijing,China,Asia,2016,1.0,2018,10,4,0,2,1.0,0,0.6931471805599453,2010
+Morning Consult,1,2021-06-08,Internet software & services,Washington DC,United States,North America,2014,0.091,2021,6,2,0,7,10.989010989010989,0,0.6931471805599453,2010
+Movile,1,2018-07-12,Mobile & telecommunications,Sao Paulo,Brazil,South America,1998,0.588,2018,7,3,0,20,1.7006802721088436,0,0.6931471805599453,1990
+Mux,1,2021-04-30,Internet software & services,San Francisco,United States,North America,2015,0.174,2021,4,2,0,6,5.74712643678161,0,0.6931471805599453,2010
+Nature's Fynd,1,2021-07-19,Other,Chicago,United States,North America,2012,0.463,2021,7,3,0,9,2.159827213822894,0,0.6931471805599453,2010
+Newlink Group,1,2020-07-10,E-commerce & direct-to-consumer,Beijing,China,Asia,2016,0.655,2020,7,3,0,4,1.5267175572519083,0,0.6931471805599453,2010
+News Break,1,2021-01-07,Internet software & services,Mountain View,United States,North America,2015,0.151,2021,1,1,0,6,6.622516556291391,0,0.6931471805599453,2010
+Newsela,1,2021-02-25,Internet software & services,New York,United States,North America,2013,0.172,2021,2,1,0,8,5.813953488372094,0,0.6931471805599453,2010
+NIUM,1,2021-07-13,Fintech,Unknown,Singapore,Asia,2014,0.285,2021,7,3,0,7,3.5087719298245617,0,0.6931471805599453,2010
+NoBroker,1,2021-11-23,Internet software & services,Bengaluru,India,Asia,2014,0.424,2021,11,4,0,7,2.358490566037736,0,0.6931471805599453,2010
+Noname Security,1,2021-12-15,Cybersecurity,Palo Alto,United States,North America,2020,0.22,2021,12,4,0,1,4.545454545454546,0,0.6931471805599453,2020
+Numbrs,1,2019-08-22,Fintech,Zurich,Switzerland,Europe,1999,0.105,2019,8,3,0,20,9.523809523809524,0,0.6931471805599453,1990
+Omada Health,1,2022-02-23,Health,San Francisco,United States,North America,2011,0.449,2022,2,1,0,11,2.2271714922048997,0,0.6931471805599453,2010
+Omio,1,2018-10-23,Travel,Berlin,Germany,Europe,2013,0.396,2018,10,4,0,5,2.525252525252525,0,0.6931471805599453,2010
+ONE,1,2021-12-08,Internet software & services,Unknown,Singapore,Asia,2011,0.515,2021,12,4,0,10,1.941747572815534,0,0.6931471805599453,2010
+OpenWeb,1,2021-11-09,Internet software & services,New York,United States,North America,2012,0.223,2021,11,4,0,9,4.484304932735426,0,0.6931471805599453,2010
+Orbbec Technology,1,2018-05-21,Hardware,Shenzhen,China,Asia,2013,0.2,2018,5,2,0,5,5.0,0,0.6931471805599453,2010
+Orca Bio,1,2020-06-17,Health,Menlo Park,United States,North America,2016,0.192,2020,6,2,0,4,5.208333333333333,0,0.6931471805599453,2010
+Orchard,1,2021-09-09,Fintech,New York,United States,North America,2017,0.252,2021,9,3,0,4,3.9682539682539684,0,0.6931471805599453,2010
+Owkin,1,2021-11-18,Artificial Intelligence,New York,United States,North America,2016,0.254,2021,11,4,0,5,3.937007874015748,0,0.6931471805599453,2010
+PandaDoc,1,2021-09-22,Internet software & services,San Francisco,United States,North America,2016,0.051,2021,9,3,0,5,19.607843137254903,0,0.6931471805599453,2010
+Pat McGrath Labs,1,2018-07-16,Consumer & retail,New York,United States,North America,2016,0.06,2018,7,3,0,2,16.666666666666668,0,0.6931471805599453,2010
+PatSnap,1,2021-03-16,Internet software & services,Unknown,Singapore,Asia,2007,0.352,2021,3,1,0,14,2.8409090909090913,0,0.6931471805599453,2000
+Payhawk,1,2022-02-14,Fintech,London,United Kingdom,Europe,2018,0.239,2022,2,1,0,4,4.184100418410042,0,0.6931471805599453,2010
+Pentera,1,2022-01-11,Cybersecurity,Petah Tikva,Israel,Asia,2015,0.19,2022,1,1,0,7,5.2631578947368425,0,0.6931471805599453,2010
+Pet Circle,1,2021-12-06,E-commerce & direct-to-consumer,Alexandria,Australia,Oceania,2011,0.125,2021,12,4,0,10,8.0,0,0.6931471805599453,2010
+PicsArt,1,2021-08-26,Mobile & telecommunications,San Francisco,United States,North America,2011,0.195,2021,8,3,0,10,5.128205128205128,0,0.6931471805599453,2010
+PLACE,1,2021-11-17,Internet software & services,Bellingham,United States,North America,2020,0.1,2021,11,4,0,1,10.0,0,0.6931471805599453,2020
+Placer.ai,1,2022-01-12,Artificial intelligence,Los Altos,United States,North America,2016,0.166,2022,1,1,0,6,6.024096385542168,0,0.6931471805599453,2010
+Playco,1,2020-09-21,Other,Tokyo,Japan,Asia,2020,0.14,2020,9,3,0,0,7.142857142857142,0,0.6931471805599453,2020
+Poizon,1,2019-04-29,Mobile & telecommunications,Shanghai,China,Asia,2015,0.37,2019,4,2,0,4,5.208333333333333,0,0.6931471805599453,2010
+PPRO,1,2021-01-19,Fintech,London,United Kingdom,Europe,2006,0.37,2021,1,1,0,15,2.7027027027027026,0,0.6931471805599453,2000
+Printful,1,2021-05-24,Other,Charlotte,United States,North America,2016,0.13,2021,5,2,0,5,7.692307692307692,0,0.6931471805599453,2010
+Quantum Metric,1,2021-01-07,Data management & analytics,Colorado Springs,United States,North America,2015,0.226,2021,1,1,0,6,4.424778761061947,0,0.6931471805599453,2010
+Quizlet,1,2020-05-13,Edtech,San Francisco,United States,North America,2005,0.062,2020,5,2,0,15,16.129032258064516,0,0.6931471805599453,2000
+RapidAPI,1,2022-03-23,Internet software & services,San Francisco,United States,North America,2015,0.273,2022,3,1,0,7,3.663003663003663,0,0.6931471805599453,2010
+Razor,1,2021-11-08,Consumer & retail,Berlin,Germany,Europe,2020,0.167,2021,11,4,0,1,5.988023952095808,0,0.6931471805599453,2020
+Red Ventures,1,2015-01-07,Other,Fort Mill,United States,North America,2000,0.25,2015,1,1,0,15,4.0,0,0.6931471805599453,2000
+REEF Technology,1,2018-12-10,"Supply chain, logistics, & delivery",Miami,United States,North America,2015,2.0,2018,12,4,0,3,0.5,0,0.6931471805599453,2010
+ReliaQuest,1,2021-12-01,Cybersecurity,Tampa,United States,North America,2007,0.33,2021,12,4,0,14,3.0303030303030303,0,0.6931471805599453,2000
+Revolution Precrafted,1,2017-10-23,Other,Manila,Philippines,Asia,2015,0.015,2017,10,4,0,2,66.66666666666667,0,0.6931471805599453,2010
+Rothy's,1,2021-12-21,Consumer & retail,San Francisco,United States,North America,2016,0.484,2021,12,4,0,5,2.066115702479339,0,0.6931471805599453,2010
+SaltPay,1,2021-04-09,Fintech,London,United Kingdom,Europe,2019,1.0,2021,4,2,0,2,1.0,0,0.6931471805599453,2010
+Savage X Fenty,1,2021-02-10,E-commerce & direct-to-consumer,El Segundo,United States,North America,2018,0.31,2021,2,1,0,3,3.2258064516129035,0,0.6931471805599453,2010
+Scalapay,1,2022-02-23,Fintech,Milan,Italy,Europe,2019,0.416,2022,2,1,0,3,2.4038461538461537,0,0.6931471805599453,2010
+Scandit,1,2022-02-09,"Supply chain, logistics, & delivery",Zurich,Switzerland,Europe,2009,0.273,2022,2,1,0,13,3.663003663003663,0,0.6931471805599453,2000
+Sentry,1,2021-02-18,Other,San Francisco,United States,North America,2011,0.127,2021,2,1,0,10,7.874015748031496,0,0.6931471805599453,2010
+Shield AI,1,2021-08-24,Artificial intelligence,San Diego,United States,North America,2015,0.328,2021,8,3,0,6,3.048780487804878,0,0.6931471805599453,2010
+Shift Technology,1,2021-05-06,Artificial intelligence,Paris,France,Europe,2014,0.545,2021,5,2,0,7,1.8348623853211008,0,0.6931471805599453,2010
+ShipBob,1,2021-06-29,"Supply chain, logistics, & delivery",Chicago,United States,North America,2014,0.331,2021,6,2,0,7,3.021148036253776,0,0.6931471805599453,2010
+Shippo,1,2021-06-02,"Supply chain, logistics, & delivery",San Francisco,United States,North America,2013,0.154,2021,6,2,0,8,6.4935064935064934,0,0.6931471805599453,2010
+Sidecar Health,1,2021-01-26,Fintech,El Segundo,United States,North America,2018,0.163,2021,1,1,0,3,6.134969325153374,0,0.6931471805599453,2010
+Sift,1,2021-04-22,Artificial intelligence,San Francisco,United States,North America,2011,0.157,2021,4,2,0,10,6.369426751592357,0,0.6931471805599453,2010
+Skydio,1,2021-02-25,"Supply chain, logistics, & delivery",Redwood City,United States,North America,2014,0.34,2021,2,1,0,7,2.941176470588235,0,0.6931471805599453,2010
+Slice,1,2021-11-28,Fintech,Bengaluru,India,Asia,2015,0.249,2021,11,4,0,6,4.016064257028113,0,0.6931471805599453,2010
+SmartAsset,1,2021-06-24,Fintech,New York,United States,North America,2012,0.161,2021,6,2,0,9,6.211180124223603,0,0.6931471805599453,2010
+SMS Assist,1,2016-06-07,Internet software & services,Chicago,United States,North America,2003,0.255,2016,6,2,0,13,3.9215686274509802,0,0.6931471805599453,2000
+SnapLogic,1,2021-12-13,Internet software & services,San Mateo,United States,North America,2006,0.371,2021,12,4,0,15,2.6954177897574123,0,0.6931471805599453,2000
+Snorkel AI,1,2021-08-09,Artificial intelligence,Palo Alto,United States,North America,2019,0.135,2021,8,3,0,2,7.4074074074074066,0,0.6931471805599453,2010
+Solo.io,1,2021-10-07,Internet software & services,Cambridge,United States,North America,2017,0.172,2021,10,4,0,4,5.813953488372094,0,0.6931471805599453,2010
+SoundHound,1,2018-05-03,Artificial intelligence,Santa Clara,United States,North America,2005,0.215,2018,5,2,0,13,4.651162790697675,0,0.6931471805599453,2000
+Splashtop,1,2021-01-27,Internet software & services,San Jose,United States,North America,2006,0.114,2021,1,1,0,15,8.771929824561402,0,0.6931471805599453,2000
+Standard,1,2021-02-17,Artificial intelligence,San Francisco,United States,North America,2017,0.239,2021,2,1,0,4,4.184100418410042,0,0.6931471805599453,2010
+Stytch,1,2021-11-18,Cybersecurity,San Francisco,United States,North America,2020,0.126,2021,11,4,0,1,7.936507936507937,0,0.6931471805599453,2020
+Swile,1,2021-10-11,Fintech,Montpellier,France,Europe,2016,0.326,2021,10,4,0,5,3.067484662576687,0,0.6931471805599453,2010
+Tarana Wireless,1,2022-03-23,Mobile & telecommunications,Milpitas,United States,North America,2009,0.376,2022,3,1,0,13,2.6595744680851063,0,0.6931471805599453,2000
+TechStyle Fashion Group,1,2014-08-29,E-commerce & direct-to-consumer,El Segundo,United States,North America,2010,0.336,2014,8,3,0,4,2.976190476190476,0,0.6931471805599453,2010
+TensTorrent,1,2021-05-05,Artificial intelligence,Toronto,Canada,North America,2016,0.235,2021,5,2,0,5,4.25531914893617,0,0.6931471805599453,2010
+TERMINUS Technology,1,2018-10-25,Hardware,Beijing,China,Asia,2015,0.623,2018,10,4,0,3,1.6051364365971108,0,0.6931471805599453,2010
+Tezign,1,2021-11-02,Internet software & services,Shanghai,China,Asia,2015,0.151,2021,11,4,0,6,6.622516556291391,0,0.6931471805599453,2010
+The Zebra,1,2021-04-12,E-commerce & direct-to-consumer,Austin,United States,North America,2012,0.257,2021,4,2,0,9,3.8910505836575875,0,0.6931471805599453,2010
+Thirty Madison,1,2021-06-02,Health,New York,United States,North America,1993,0.21,2021,6,2,0,28,4.761904761904762,0,0.6931471805599453,1990
+Thought Machine,1,2021-11-29,Fintech,London,United Kingdom,Europe,2014,0.403,2021,11,4,0,7,2.4813895781637716,0,0.6931471805599453,2010
+Timescale,1,2022-02-22,Internet software & services,New York,United States,North America,2015,0.181,2022,2,1,0,7,5.524861878453039,0,0.6931471805599453,2010
+Tractable,1,2021-06-16,Artificial intelligence,London,United Kingdom,Europe,2014,0.12,2021,6,2,0,7,8.333333333333334,0,0.6931471805599453,2010
+Tresata,1,2018-10-10,Fintech,Charlotte,United States,North America,2011,0.051,2018,10,4,0,7,19.607843137254903,0,0.6931471805599453,2010
+TrialSpark,1,2021-09-30,Health,New York,United States,North America,2014,0.156,2021,9,3,0,7,6.410256410256411,0,0.6931471805599453,2010
+TrueLayer,1,2021-09-21,Fintech,London,United Kingdom,Europe,2016,0.271,2021,9,3,0,5,3.6900369003690034,0,0.6931471805599453,2010
+Unico,1,2021-08-03,Artificial intelligence,Sao Paulo,Brazil,South America,2007,0.237,2021,8,3,0,14,4.219409282700422,0,0.6931471805599453,2000
+Vagaro,1,2021-11-03,Internet software & services,Dublin,United States,North America,2009,0.163,2021,11,4,0,12,6.134969325153374,0,0.6931471805599453,2000
+Vedantu,1,2021-09-29,Edtech,Bengaluru,India,Asia,2014,0.292,2021,9,3,0,7,3.4246575342465757,0,0.6931471805599453,2010
+Veev,1,2022-02-24,Internet software & services,San Mateo,United States,North America,2008,0.585,2022,2,1,0,14,1.7094017094017095,0,0.6931471805599453,2000
+Vise,1,2021-05-18,Fintech,New York,United States,North America,2016,0.128,2021,5,2,0,5,7.8125,0,0.6931471805599453,2010
+Visier,1,2021-06-29,Internet software & services,Vancouver,Canada,North America,2010,0.217,2021,6,2,0,11,4.6082949308755765,0,0.6931471805599453,2010
+VOI,1,2021-12-21,Travel,Stockholm,Sweden,Europe,2018,0.516,2021,12,4,0,3,1.937984496124031,0,0.6931471805599453,2010
+Vox Media,1,2015-08-12,Internet software & services,Washington,United States,North America,2011,0.308,2015,8,3,0,4,3.2467532467532467,0,0.6931471805599453,2010
+VTS,1,2019-05-07,Internet software & services,New York,United States,North America,2012,0.187,2019,5,2,0,7,5.347593582887701,0,0.6931471805599453,2010
+Watershed,1,2022-02-08,Internet software & services,San Francisco,United States,North America,2019,0.07,2022,2,1,0,3,14.285714285714285,0,0.6931471805599453,2010
+Weights & Biases,1,2021-10-13,Internet software & services,San Francisco,United States,North America,2017,0.2,2021,10,4,0,4,5.0,0,0.6931471805599453,2010
+WeLab,1,2017-11-08,Fintech,Unknown,Hong Kong,Asia,2013,0.871,2017,11,4,0,4,1.148105625717566,0,0.6931471805599453,2010
+Womai,1,2015-10-12,E-commerce & direct-to-consumer,Beijing,China,Asia,2009,0.33,2015,10,4,0,6,3.0303030303030303,0,0.6931471805599453,2000
+Wrapbook,1,2021-11-10,Fintech,New York,United States,North America,2018,0.131,2021,11,4,0,3,7.633587786259541,0,0.6931471805599453,2010
+Xendit,1,2021-09-14,Fintech,Jakarta,Indonesia,Asia,2014,0.215,2021,9,3,0,7,4.651162790697675,0,0.6931471805599453,2010
+XForcePlus,1,2021-06-01,Internet software & services,Shanghai,China,Asia,2015,0.2,2021,6,2,0,6,5.0,0,0.6931471805599453,2010
+YH Global,1,2017-09-21,"Supply chain, logistics, & delivery",Shenzhen,China,Asia,1997,0.182,2017,9,3,0,20,5.4945054945054945,0,0.6931471805599453,1990
+YipitData,1,2021-12-06,Internet software & services,New York,United States,North America,2008,0.492,2021,12,4,0,13,2.032520325203252,0,0.6931471805599453,2000
+Yunxuetang,1,2021-03-29,Edtech,Suzhou,China,Asia,2011,0.389,2021,3,1,0,10,2.570694087403599,0,0.6931471805599453,2010
+Zhaogang,1,2017-06-29,E-commerce & direct-to-consumer,Shanghai,China,Asia,2012,0.379,2017,6,2,0,5,2.638522427440633,0,0.6931471805599453,2010
+Zhuan Zhuan,1,2017-04-18,E-commerce & direct-to-consumer,Beijing,China,Asia,2015,0.99,2017,4,2,0,2,1.0101010101010102,0,0.6931471805599453,2010
+Zihaiguo,1,2021-05-06,Consumer & retail,Chongqing,China,Asia,2018,0.08,2021,5,2,0,3,12.5,0,0.6931471805599453,2010
+Zopa,1,2021-10-19,Fintech,London,United Kingdom,Europe,2005,0.792,2021,10,4,0,16,1.2626262626262625,0,0.6931471805599453,2000
+Zwift,1,2020-09-16,E-commerce & direct-to-consumer,Long Beach,United States,North America,2014,0.62,2020,9,3,0,6,1.6129032258064517,0,0.6931471805599453,2010

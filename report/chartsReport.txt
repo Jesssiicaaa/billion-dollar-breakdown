@@ -1,0 +1,11 @@
+Loaded 1,074 rows. Generating charts...
+
+  Saved: report/phase1/chart1_valuation_distribution.png
+  Saved: report/phase1/chart2_top_countries.png
+  Saved: report/phase1/chart3_industry_breakdown.png
+  Saved: report/phase1/chart4_funding_vs_valuation.png
+  Saved: report/phase1/chart5_unicorns_per_year.png
+  Saved: report/phase1/chart6_continent_share.png
+
+All 6 charts saved to: report/phase1/
+Next step → phase1_step4_findings.py

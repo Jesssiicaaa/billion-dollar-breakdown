@@ -1,0 +1,197 @@
+
+=================================================================
+  1. BASIC INFO
+=================================================================
+  File     : data/unicorn_companies.csv
+  Rows     : 1,074
+  Columns  : 9
+  Memory   : 402.1 KB
+
+=================================================================
+  2. COLUMNS — DTYPES & SAMPLE VALUES
+=================================================================
+  Column                         Dtype        Sample Value
+  -----------------------------------------------------------------
+  Company                        object       Bytedance
+  Valuation ($Billions)          int64        180
+  Date Joined                    object       07/04/2017
+  Industry                       object       Artificial intelligence
+  City                           object       Beijing
+  Country                        object       China
+  Continent                      object       Asia
+  Year Founded                   int64        2012
+  Funding ($ Billions)           float64      8.0
+
+=================================================================
+  3. MISSING VALUES
+=================================================================
+  Column                          Missing       %
+  -----------------------------------------------------------------
+  City                                 16    1.5%
+  Funding ($ Billions)                 12    1.1%
+
+=================================================================
+  4. DUPLICATE ROWS
+=================================================================
+  Exact duplicate rows: 0
+
+=================================================================
+  5. NUMERIC COLUMNS — DESCRIPTIVE STATS
+=================================================================
+       Valuation ($Billions)  Year Founded  Funding ($ Billions)
+count                1074.00        1074.0               1062.00
+mean                    3.46        2012.9                  0.56
+std                     8.55           5.7                  0.81
+min                     1.00        1919.0                  0.00
+25%                     1.00        2011.0                  0.22
+50%                     2.00        2014.0                  0.37
+75%                     3.00        2016.0                  0.61
+max                   180.00        2021.0                 14.00
+
+=================================================================
+  6. CATEGORICAL COLUMNS — VALUE COUNTS (top 10)
+=================================================================
+
+  [Company]  —  1073 unique values
+  -----------------------------------------------------------------
+  Bolt                                     2    0.2%  ████████████████████
+  Bytedance                                1    0.1%  ██████████
+  Yidian Zixun                             1    0.1%  ██████████
+  Klook                                    1    0.1%  ██████████
+  Epirus                                   1    0.1%  ██████████
+  Alloy                                    1    0.1%  ██████████
+  Veepee                                   1    0.1%  ██████████
+  Neon                                     1    0.1%  ██████████
+  Yotpo                                    1    0.1%  ██████████
+  VideoAmp                                 1    0.1%  ██████████
+
+  [Date Joined]  —  639 unique values
+  -----------------------------------------------------------------
+  13/07/2021                               9    0.8%  ████████████████████
+  15/09/2021                               7    0.7%  ███████████████
+  10/11/2021                               7    0.7%  ███████████████
+  22/02/2022                               7    0.7%  ███████████████
+  28/10/2021                               6    0.6%  █████████████
+  13/10/2021                               6    0.6%  █████████████
+  16/03/2021                               6    0.6%  █████████████
+  11/01/2022                               6    0.6%  █████████████
+  01/06/2021                               5    0.5%  ███████████
+  23/02/2022                               5    0.5%  ███████████
+
+  [Industry]  —  16 unique values
+  -----------------------------------------------------------------
+  Fintech                                224   20.9%  ████████████████████
+  Internet software & services           205   19.1%  ██████████████████
+  E-commerce & direct-to-consumer        111   10.3%  █████████
+  Health                                  74    6.9%  ██████
+  Artificial intelligence                 73    6.8%  ██████
+  Other                                   58    5.4%  █████
+  Supply chain, logistics, & delivery     57    5.3%  █████
+  Cybersecurity                           50    4.7%  ████
+  Data management & analytics             41    3.8%  ███
+  Mobile & telecommunications             38    3.5%  ███
+
+  [City]  —  256 unique values
+  -----------------------------------------------------------------
+  San Francisco                          152   14.2%  ████████████████████
+  New York                               103    9.6%  █████████████
+  Beijing                                 63    5.9%  ████████
+  Shanghai                                44    4.1%  █████
+  London                                  34    3.2%  ████
+  Bengaluru                               29    2.7%  ███
+  Shenzhen                                19    1.8%  ██
+  Paris                                   19    1.8%  ██
+  Palo Alto                               18    1.7%  ██
+  Berlin                                  17    1.6%  ██
+
+  [Country]  —  46 unique values
+  -----------------------------------------------------------------
+  United States                          562   52.3%  ████████████████████
+  China                                  173   16.1%  ██████
+  India                                   65    6.1%  ██
+  United Kingdom                          43    4.0%  █
+  Germany                                 26    2.4%  
+  France                                  24    2.2%  
+  Israel                                  20    1.9%  
+  Canada                                  19    1.8%  
+  Brazil                                  16    1.5%  
+  Singapore                               12    1.1%  
+
+  [Continent]  —  6 unique values
+  -----------------------------------------------------------------
+  North America                          589   54.8%  ████████████████████
+  Asia                                   310   28.9%  ██████████
+  Europe                                 143   13.3%  ████
+  South America                           21    2.0%  
+  Oceania                                  8    0.7%  
+  Africa                                   3    0.3%  
+
+=================================================================
+  7. DATE COLUMN — FORMAT CHECK
+=================================================================
+  Column   : 'Date Joined'
+  Dtype    : object  (stored as string — needs parsing)
+
+  Sample values:
+    07/04/2017
+    01/12/2012
+    03/07/2018
+    23/01/2014
+    12/12/2011
+    08/01/2018
+    02/05/2019
+    30/12/2014
+    20/12/2017
+    05/02/2019
+
+  Parse test (dayfirst=True): 1,074 succeeded, 0 failed
+  Date range: 2007-07-02 → 2022-04-05
+
+=================================================================
+  8. YEAR FOUNDED — OUTLIER CHECK
+=================================================================
+  Min: 1919   Max: 2021
+
+  Companies founded before 1990 (3 found):
+                   Company  Year Founded
+      Otto Bock HealthCare          1919
+       Promasidor Holdings          1979
+Five Star Business Finance          1984
+
+=================================================================
+  9. VALUATION — SKEW & OUTLIER CHECK
+=================================================================
+  Mean   : $3.46B
+  Median : $2.00B
+  Skew   : 12.72  (>1 = right-skewed, needs log transform for ML)
+
+  Top 10 most valuable:
+     Company  Valuation ($Billions)                            Industry        Country
+   Bytedance                    180             Artificial intelligence          China
+      SpaceX                    100                               Other  United States
+       SHEIN                    100     E-commerce & direct-to-consumer          China
+      Stripe                     95                             Fintech  United States
+      Klarna                     46                             Fintech         Sweden
+       Canva                     40        Internet software & services      Australia
+Checkout.com                     40                             Fintech United Kingdom
+   Instacart                     39 Supply chain, logistics, & delivery  United States
+   JUUL Labs                     38                   Consumer & retail  United States
+  Databricks                     38         Data management & analytics  United States
+
+=================================================================
+  10. DATA QUALITY ISSUES — SUMMARY FOR PHASE 2
+=================================================================
+  Column                         Issue
+  -----------------------------------------------------------------
+  Date Joined                    Stored as string — must be parsed to datetime
+  City                           16 missing values — fill with 'Unknown'
+  Funding ($ Billions)           12 missing values — fill with median
+  Year Founded                   3 pre-1990 outliers — flag but keep
+  Valuation ($Billions)          Skew = 12.72 — log-transform before ML regression
+  Column names                   Contain spaces & special chars — rename to snake_case
+  Industry                       Check for near-duplicate categories (e.g. case differences)
+
+=================================================================
+  Inspection complete. No data was modified.
+  Next step → phase1_step2_profile.py
+=================================================================

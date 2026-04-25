@@ -1,0 +1,67 @@
+Loaded 1,074 rows from data/unicorn_companies_clean.csv
+Connected to sql/unicorn.db
+
+Created table: unicorns
+  Rows inserted: 1,074
+
+Created table: industry_summary
+  Rows inserted: 16
+
+── Sample queries ──
+
+Top 10 most valuable unicorns:
+     company        country                            industry  valuation_b
+   Bytedance          China             Artificial intelligence          180
+      SpaceX  United States                               Other          100
+       SHEIN          China     E-commerce & direct-to-consumer          100
+      Stripe  United States                             Fintech           95
+      Klarna         Sweden                             Fintech           46
+       Canva      Australia        Internet software & services           40
+Checkout.com United Kingdom                             Fintech           40
+   Instacart  United States Supply chain, logistics, & delivery           39
+   JUUL Labs  United States                   Consumer & retail           38
+  Databricks  United States         Data management & analytics           38 
+
+Top 8 countries by unicorn count:
+       country  unicorn_count  avg_valuation_b
+ United States            562             3.44
+         China            173             4.02
+         India             65             3.02
+United Kingdom             43             4.53
+       Germany             26             2.77
+        France             24             2.29
+        Israel             20             1.95
+        Canada             19             2.58 
+
+Industry funding efficiency (valuation per $1B raised):
+                           industry  companies  avg_funding_efficiency  avg_years_to_unicorn
+       Internet software & services        205                   28.51                   7.9
+        Mobile & telecommunications         38                    9.28                   6.4
+                              Other         58                    9.26                   7.8
+                            Fintech        224                    9.11                   6.5
+                           Hardware         34                    8.03                   5.9
+                  Consumer & retail         25                    7.89                   8.1
+        Data management & analytics         41                    6.77                   8.1
+            Artificial intelligence         73                    6.47                   6.0
+                             Health         74                    6.29                   8.2
+    E-commerce & direct-to-consumer        111                    6.07                   6.4
+                      Cybersecurity         50                    6.04                   6.8
+            Artificial Intelligence         11                    5.99                   5.4
+                             Edtech         28                    5.75                   7.7
+              Auto & transportation         31                    4.29                   5.0
+Supply chain, logistics, & delivery         57                    3.85                   6.9
+                             Travel         14                    3.46                   6.6 
+
+High-value unicorns (>=$10B) by continent:
+    continent  high_value_count  total  pct_high_value
+North America                34    589             5.8
+         Asia                16    310             5.2
+       Europe                10    143             7.0
+      Oceania                 1      8            12.5
+South America                 0     21             0.0
+       Africa                 0      3             0.0
+
+Indexes created on: industry, country, continent, year_joined
+
+Saved → sql/unicorn.db
+Tables: unicorns, industry_summary

@@ -1,0 +1,7 @@
+Loaded 1,074 rows
+Base sheets written.
+Styling applied.
+
+Saved → excel/unicorn_analysis.xlsx
+Sheets: Raw Data | Industry Summary | Country Summary | Continent Summary | Yearly Trends
+Charts: bar chart (industry) + line chart (yearly trends)
