@@ -1,0 +1,16 @@
+country,continent,unicorn_count,avg_valuation_b,total_valuation_b,avg_years_to_unicorn,high_value_count
+United States,North America,562,3.44,1933.0,6.8,33
+China,Asia,173,4.02,696.0,5.8,11
+India,Asia,65,3.02,196.0,7.7,3
+United Kingdom,Europe,43,4.53,195.0,7.9,5
+Germany,Europe,26,2.77,72.0,9.2,1
+France,Europe,24,2.29,55.0,7.4,0
+Israel,Asia,20,1.95,39.0,7.4,0
+Canada,North America,19,2.58,49.0,10.0,0
+Brazil,South America,16,2.31,37.0,7.9,0
+Singapore,Asia,12,1.75,21.0,6.9,0
+South Korea,Asia,12,3.42,41.0,10.3,0
+Australia,Oceania,8,7.0,56.0,7.9,1
+Hong Kong,Asia,6,3.0,18.0,5.7,1
+Indonesia,Asia,6,4.67,28.0,5.5,1
+Mexico,North America,6,2.67,16.0,5.0,0

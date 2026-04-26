@@ -1,0 +1,60 @@
+continent,industry,companies,avg_valuation_b
+Africa,Fintech,2,2.0
+Africa,Mobile & telecommunications,1,1.0
+Asia,E-commerce & direct-to-consumer,54,4.31
+Asia,Fintech,38,2.47
+Asia,Internet software & services,31,1.9
+Asia,"Supply chain, logistics, & delivery",26,2.88
+Asia,Artificial intelligence,22,10.05
+Asia,Auto & transportation,20,3.15
+Asia,Mobile & telecommunications,19,2.21
+Asia,Edtech,19,3.95
+Asia,Hardware,18,3.11
+Asia,Health,15,2.0
+Asia,Other,14,1.5
+Asia,Consumer & retail,12,3.67
+Asia,Travel,7,4.0
+Asia,Cybersecurity,7,2.43
+Asia,Data management & analytics,4,1.25
+Asia,Artificial Intelligence,4,1.0
+Europe,Fintech,47,5.38
+Europe,E-commerce & direct-to-consumer,18,2.94
+Europe,Internet software & services,15,2.47
+Europe,Other,11,2.82
+Europe,Health,8,2.75
+Europe,Auto & transportation,7,3.14
+Europe,"Supply chain, logistics, & delivery",6,2.17
+Europe,Data management & analytics,6,3.67
+Europe,Artificial intelligence,6,1.5
+Europe,Travel,5,1.2
+Europe,Mobile & telecommunications,5,1.8
+Europe,Hardware,5,3.4
+Europe,Consumer & retail,2,1.5
+Europe,Edtech,1,3.0
+Europe,Cybersecurity,1,3.0
+North America,Internet software & services,154,2.94
+North America,Fintech,129,3.92
+North America,Health,51,2.86
+North America,Artificial intelligence,43,3.0
+North America,Cybersecurity,42,2.6
+North America,E-commerce & direct-to-consumer,33,3.79
+North America,Other,31,6.32
+North America,Data management & analytics,31,3.52
+North America,"Supply chain, logistics, & delivery",21,3.81
+North America,Mobile & telecommunications,12,3.0
+North America,Hardware,11,2.36
+North America,Consumer & retail,11,5.36
+North America,Edtech,8,2.75
+North America,Artificial Intelligence,6,1.67
+North America,Auto & transportation,4,3.5
+North America,Travel,2,6.0
+Oceania,Internet software & services,5,9.2
+Oceania,Fintech,2,4.5
+Oceania,E-commerce & direct-to-consumer,1,1.0
+South America,Fintech,6,2.67
+South America,E-commerce & direct-to-consumer,5,2.8
+South America,"Supply chain, logistics, & delivery",4,2.25
+South America,Other,2,2.0
+South America,Artificial intelligence,2,1.0
+South America,Mobile & telecommunications,1,1.0
+South America,Artificial Intelligence,1,2.0

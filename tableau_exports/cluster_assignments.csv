@@ -1,0 +1,1075 @@
+Company,Industry,Country,Continent,Valuation (B USD),Funding (B USD),Years to Unicorn,Cluster ID,Cluster Archetype
+Bytedance,Artificial intelligence,China,Asia,180,8.0,5,0,Mega-unicorns
+SpaceX,Other,United States,North America,100,7.0,10,0,Mega-unicorns
+SHEIN,E-commerce & direct-to-consumer,China,Asia,100,2.0,10,0,Mega-unicorns
+Stripe,Fintech,United States,North America,95,2.0,4,0,Mega-unicorns
+Klarna,Fintech,Sweden,Europe,46,4.0,6,0,Mega-unicorns
+Canva,Internet software & services,Australia,Oceania,40,0.572,6,0,Mega-unicorns
+Checkout.com,Fintech,United Kingdom,Europe,40,2.0,7,0,Mega-unicorns
+Instacart,"Supply chain, logistics, & delivery",United States,North America,39,3.0,2,0,Mega-unicorns
+JUUL Labs,Consumer & retail,United States,North America,38,14.0,2,0,Mega-unicorns
+Databricks,Data management & analytics,United States,North America,38,3.0,6,0,Mega-unicorns
+Revolut,Fintech,United Kingdom,Europe,33,2.0,3,1,Steady growers
+Epic Games,Other,United States,North America,32,7.0,27,0,Mega-unicorns
+FTX,Fintech,Bahamas,North America,32,2.0,3,1,Steady growers
+Fanatics,E-commerce & direct-to-consumer,United States,North America,27,4.0,10,0,Mega-unicorns
+Chime,Fintech,United States,North America,25,2.0,6,1,Steady growers
+BYJU's,Edtech,India,Asia,22,4.0,9,0,Mega-unicorns
+J&T Express,"Supply chain, logistics, & delivery",Indonesia,Asia,20,5.0,6,0,Mega-unicorns
+Xiaohongshu,E-commerce & direct-to-consumer,China,Asia,20,0.918,3,1,Steady growers
+Miro,Internet software & services,United States,North America,18,0.476,11,0,Mega-unicorns
+Yuanfudao,Edtech,China,Asia,17,4.0,5,0,Mega-unicorns
+Rapyd,Fintech,United Kingdom,Europe,15,0.77,3,1,Steady growers
+Discord,Internet software & services,United States,North America,15,0.979,6,1,Steady growers
+Genki Forest,Consumer & retail,China,Asia,15,0.721,4,1,Steady growers
+goPuff,E-commerce & direct-to-consumer,United States,North America,15,3.0,7,1,Steady growers
+Blockchain.com,Fintech,United Kingdom,Europe,14,0.49,10,0,Mega-unicorns
+Plaid,Fintech,United States,North America,13,0.734,6,1,Steady growers
+Devoted Health,Health,United States,North America,13,2.0,1,1,Steady growers
+OpenSea,E-commerce & direct-to-consumer,United States,North America,13,0.427,4,1,Steady growers
+Grammarly,Internet software & services,United States,North America,13,0.4,10,0,Mega-unicorns
+Argo AI,Artificial intelligence,United States,North America,12,4.0,3,1,Steady growers
+Northvolt,Other,Sweden,Europe,12,4.0,3,1,Steady growers
+Faire,Artificial intelligence,United States,North America,12,1.0,2,1,Steady growers
+Airtable,Internet software & services,United States,North America,12,1.0,5,1,Steady growers
+Brex,Fintech,United States,North America,12,1.0,1,1,Steady growers
+Getir,E-commerce & direct-to-consumer,Turkey,Europe,12,2.0,6,1,Steady growers
+Biosplice Therapeutics,Health,United States,North America,12,0.799,10,0,Mega-unicorns
+Bitmain,Hardware,China,Asia,12,0.765,3,1,Steady growers
+GoodLeap,Internet software & services,United States,North America,12,0.8,18,0,Mega-unicorns
+Xingsheng Selected,E-commerce & direct-to-consumer,China,Asia,12,5.0,11,0,Mega-unicorns
+ZongMu Technology,Auto & transportation,China,Asia,11,0.376,8,1,Steady growers
+Bolt,Auto & transportation,Estonia,Europe,11,1.0,5,1,Steady growers
+Swiggy,"Supply chain, logistics, & delivery",India,Asia,11,5.0,4,1,Steady growers
+Weilong Foods,Consumer & retail,China,Asia,11,0.558,22,0,Mega-unicorns
+Global Switch,Hardware,United Kingdom,Europe,11,5.0,18,0,Mega-unicorns
+Bolt,Fintech,United States,North America,11,1.0,7,1,Steady growers
+Celonis,Data management & analytics,Germany,Europe,11,1.0,7,1,Steady growers
+Zuoyebang,Edtech,China,Asia,10,3.0,4,1,Steady growers
+Ripple,Fintech,United States,North America,10,0.294,7,1,Steady growers
+OYO Rooms,Travel,India,Asia,10,3.0,6,1,Steady growers
+OutSystems,Internet software & services,United States,North America,10,0.572,17,0,Mega-unicorns
+ServiceTitan,Internet software & services,United States,North America,10,1.0,6,1,Steady growers
+Alchemy,Fintech,United States,North America,10,0.564,4,1,Steady growers
+Chehaoduo,E-commerce & direct-to-consumer,China,Asia,10,4.0,1,1,Steady growers
+Digital Currency Group,Fintech,United States,North America,10,1.0,6,1,Steady growers
+Figma,Internet software & services,United States,North America,10,0.333,8,1,Steady growers
+Gusto,Fintech,United States,North America,10,0.691,4,1,Steady growers
+Lalamove,"Supply chain, logistics, & delivery",Hong Kong,Asia,10,2.0,6,1,Steady growers
+Notion Labs,Internet software & services,United States,North America,10,0.343,4,1,Steady growers
+reddit,Internet software & services,United States,North America,10,1.0,12,0,Mega-unicorns
+Talkdesk,Internet software & services,United States,North America,10,0.497,7,1,Steady growers
+Thrasio,Other,United States,North America,10,2.0,2,1,Steady growers
+Dunamu,Fintech,South Korea,Asia,9,0.071,9,0,Mega-unicorns
+Yanolja,Travel,South Korea,Asia,9,2.0,14,0,Mega-unicorns
+Pony.ai,Artificial intelligence,United States,North America,9,1.0,2,1,Steady growers
+Nuro,Auto & transportation,United States,North America,9,2.0,3,1,Steady growers
+Snyk,Cybersecurity,United States,North America,9,1.0,5,1,Steady growers
+Kavak,E-commerce & direct-to-consumer,Mexico,North America,9,2.0,4,1,Steady growers
+N26,Fintech,Germany,Europe,9,2.0,6,1,Steady growers
+Klaviyo,Internet software & services,United States,North America,9,0.679,8,1,Steady growers
+Niantic,Mobile & telecommunications,United States,North America,9,0.77,2,1,Steady growers
+Tanium,Cybersecurity,United States,North America,9,0.775,8,1,Steady growers
+Dream11,Internet software & services,India,Asia,8,2.0,12,0,Mega-unicorns
+DJI Innovations,Hardware,China,Asia,8,0.105,9,0,Mega-unicorns
+Netskope,Cybersecurity,United States,North America,8,1.0,6,1,Steady growers
+Razorpay,Fintech,India,Asia,8,0.742,7,1,Steady growers
+Dapper Labs,Fintech,Canada,North America,8,0.607,3,1,Steady growers
+Lacework,Cybersecurity,United States,North America,8,2.0,6,1,Steady growers
+Tipalti,Fintech,United States,North America,8,0.549,10,1,Steady growers
+Hopin,Internet software & services,United Kingdom,Europe,8,1.0,1,1,Steady growers
+Caris Life Sciences,Health,United States,North America,8,1.0,25,0,Mega-unicorns
+Ramp,Fintech,United States,North America,8,0.66,2,1,Steady growers
+Tempus,Health,United States,North America,8,0.82,3,1,Steady growers
+Fireblocks,Fintech,United States,North America,8,1.0,3,1,Steady growers
+Flexport,"Supply chain, logistics, & delivery",United States,North America,8,2.0,5,1,Steady growers
+National Stock Exchange of India,Fintech,India,Asia,7,0.297,22,0,Mega-unicorns
+Meicai,Mobile & telecommunications,China,Asia,7,1.0,2,1,Steady growers
+Impossible Foods,Consumer & retail,United States,North America,7,2.0,8,1,Steady growers
+CRED,Fintech,India,Asia,7,0.922,3,1,Steady growers
+Attentive,Mobile & telecommunications,United States,North America,7,0.863,4,1,Steady growers
+Ola Cabs,Auto & transportation,India,Asia,7,4.0,4,1,Steady growers
+Rippling,Internet software & services,United States,North America,7,0.447,3,1,Steady growers
+Carta,Fintech,United States,North America,7,1.0,7,1,Steady growers
+Toss,Fintech,South Korea,Asia,7,0.844,5,1,Steady growers
+Ziroom,E-commerce & direct-to-consumer,China,Asia,7,2.0,7,1,Steady growers
+Scale AI,Artificial intelligence,United States,North America,7,0.603,1,1,Steady growers
+Gong,Artificial intelligence,United States,North America,7,0.583,5,1,Steady growers
+TripActions,Travel,United States,North America,7,0.912,3,1,Steady growers
+1Password,Cybersecurity,Canada,North America,7,0.92,16,0,Mega-unicorns
+Automation Anywhere,Artificial intelligence,United States,North America,7,0.849,15,0,Mega-unicorns
+Gemini,Fintech,United States,North America,7,0.424,6,1,Steady growers
+ConsenSys,Fintech,United States,North America,7,0.66,7,1,Steady growers
+Ro,Health,United States,North America,7,1.0,3,1,Steady growers
+Black Unicorn Factory,Other,United States,North America,6,0.645,1,1,Steady growers
+Easyhome,Consumer & retail,China,Asia,6,2.0,19,0,Mega-unicorns
+WeDoctor,Health,China,Asia,6,1.0,5,1,Steady growers
+SVOLT,Auto & transportation,China,Asia,6,3.0,2,1,Steady growers
+Airwallex,Fintech,Australia,Oceania,6,0.802,4,1,Steady growers
+Deel,Fintech,United States,North America,6,0.629,3,1,Steady growers
+Mambu,Fintech,Netherlands,Europe,6,0.448,10,1,Steady growers
+Mollie,Fintech,Netherlands,Europe,6,0.928,16,0,Mega-unicorns
+Doctolib,Health,France,Europe,6,0.815,6,1,Steady growers
+FiveTran,Data management & analytics,United States,North America,6,0.728,8,1,Steady growers
+Postman,Internet software & services,United States,North America,6,0.433,6,1,Steady growers
+Back Market,E-commerce & direct-to-consumer,France,Europe,6,1.0,7,1,Steady growers
+Cityblock Health,Health,United States,North America,6,0.891,3,1,Steady growers
+DataRobot,Artificial intelligence,United States,North America,6,1.0,7,1,Steady growers
+Personio,Internet software & services,Germany,Europe,6,0.524,6,1,Steady growers
+RELEX Solutions,"Supply chain, logistics, & delivery",Finland,Europe,6,0.803,17,0,Mega-unicorns
+Vice Media,Internet software & services,United States,North America,6,1.0,17,0,Mega-unicorns
+Workato,Internet software & services,United States,North America,6,0.415,8,1,Steady growers
+Upgrade,Fintech,United States,North America,6,0.587,2,1,Steady growers
+Lianjia,E-commerce & direct-to-consumer,China,Asia,6,1.0,15,0,Mega-unicorns
+Hinge Health,Health,United States,North America,6,0.826,6,1,Steady growers
+Lyra Health,Health,United States,North America,6,0.91,5,1,Steady growers
+Benchling,Internet software & services,United States,North America,6,0.412,9,1,Steady growers
+Better.com,Fintech,United States,North America,6,0.405,2,1,Steady growers
+iCapital Network,Fintech,United States,North America,6,0.729,8,1,Steady growers
+Wiz,Cybersecurity,Israel,Asia,6,0.6,1,1,Steady growers
+DailyHunt,Internet software & services,India,Asia,5,0.869,13,0,Mega-unicorns
+Howden Group Holdings,Other,United Kingdom,Europe,5,0.187,26,0,Mega-unicorns
+Meesho,Internet software & services,India,Asia,5,1.0,6,1,Steady growers
+Meizu Technology,Hardware,China,Asia,5,0.943,11,0,Mega-unicorns
+CloudWalk Technology,Artificial intelligence,China,Asia,5,0.514,3,1,Steady growers
+Royole Corporation,Hardware,China,Asia,5,0.492,3,1,Steady growers
+Monzo,Fintech,United Kingdom,Europe,5,1.0,3,1,Steady growers
+Socure,Cybersecurity,United States,North America,5,0.644,9,1,Steady growers
+VIPKid,Edtech,China,Asia,5,1.0,3,1,Steady growers
+Vinted,E-commerce & direct-to-consumer,Lithuania,Europe,5,0.562,11,1,Steady growers
+Lendable,Fintech,United Kingdom,Europe,5,0.286,7,1,Steady growers
+UBTECH Robotics,Hardware,China,Asia,5,0.943,4,1,Steady growers
+Anduril,Artificial intelligence,United States,North America,5,0.691,2,1,Steady growers
+Checkr,Internet software & services,United States,North America,5,0.559,5,1,Steady growers
+Color,Health,United States,North America,5,0.497,8,1,Steady growers
+Dataiku,Internet software & services,United States,North America,5,0.647,6,1,Steady growers
+BetterUp,Internet software & services,United States,North America,5,0.567,8,1,Steady growers
+Pleo,Fintech,Denmark,Europe,5,0.428,6,1,Steady growers
+Trade Republic,Fintech,Germany,Europe,5,0.996,6,1,Steady growers
+Chipone,Hardware,China,Asia,5,1.0,13,0,Mega-unicorns
+Collibra,Data management & analytics,Belgium,Europe,5,0.596,11,1,Steady growers
+Rappi,"Supply chain, logistics, & delivery",Colombia,South America,5,2.0,3,1,Steady growers
+6Sense,Artificial intelligence,United States,North America,5,0.426,8,1,Steady growers
+Cerebral,Health,United States,North America,5,0.462,1,1,Steady growers
+Creditas,Fintech,Brazil,South America,5,0.824,8,1,Steady growers
+OneTrust,Internet software & services,United States,North America,5,0.926,3,1,Steady growers
+QuintoAndar,E-commerce & direct-to-consumer,Brazil,South America,5,0.755,7,1,Steady growers
+C6 Bank,Fintech,Brazil,South America,5,2.0,2,1,Steady growers
+Cockroach Labs,Data management & analytics,United States,North America,5,0.633,6,1,Steady growers
+Hopper,Travel,Canada,North America,5,0.599,14,0,Mega-unicorns
+Icertis,Artificial intelligence,United States,North America,5,0.371,10,1,Steady growers
+Moon Active,Mobile & telecommunications,Israel,Asia,5,0.425,9,1,Steady growers
+OfBusiness,E-commerce & direct-to-consumer,India,Asia,5,0.734,6,1,Steady growers
+Ola Electric Mobility,Auto & transportation,India,Asia,5,0.761,0,1,Steady growers
+Pine Labs,Fintech,India,Asia,5,0.903,22,0,Mega-unicorns
+Qonto,Fintech,France,Europe,5,0.704,6,1,Steady growers
+SambaNova Systems,Data management & analytics,United States,North America,5,1.0,4,1,Steady growers
+United Imaging Healthcare,Health,China,Asia,5,0.503,6,1,Steady growers
+WM Motor,Auto & transportation,China,Asia,5,4.0,4,1,Steady growers
+ZEPZ,Fintech,United Kingdom,Europe,5,0.655,11,1,Steady growers
+Abogen,Health,China,Asia,4,1.0,2,1,Steady growers
+Greensill,Fintech,United Kingdom,Europe,4,2.0,7,1,Steady growers
+HyalRoute,Mobile & telecommunications,Singapore,Asia,4,0.263,5,1,Steady growers
+Radiology Partners,Health,United States,North America,4,1.0,6,1,Steady growers
+Yello Mobile,Mobile & telecommunications,South Korea,Asia,4,0.216,2,1,Steady growers
+Turing,Internet software & services,United States,North America,4,0.128,3,1,Steady growers
+Lenskart,E-commerce & direct-to-consumer,India,Asia,4,0.776,11,1,Steady growers
+Kraken,Fintech,United States,North America,4,0.119,8,1,Steady growers
+Horizon Robotics,Artificial intelligence,China,Asia,4,2.0,4,1,Steady growers
+MoonPay,Fintech,United States,North America,4,0.555,2,1,Steady growers
+Celsius Network,Fintech,United States,North America,4,0.864,4,1,Steady growers
+ChargeBee Technologies,Fintech,United States,North America,4,0.468,10,1,Steady growers
+Coalition,Cybersecurity,United States,North America,4,0.505,4,1,Steady growers
+Commure,Internet software & services,United States,North America,4,0.542,4,1,Steady growers
+Flock Safety,Hardware,United States,North America,4,0.381,4,1,Steady growers
+Handshake,Internet software & services,United States,North America,4,0.434,7,1,Steady growers
+Highspot,Internet software & services,United States,North America,4,0.643,8,1,Steady growers
+Indigo Ag,Artificial intelligence,United States,North America,4,1.0,3,1,Steady growers
+Mirakl,E-commerce & direct-to-consumer,France,Europe,4,0.948,9,1,Steady growers
+Rec Room,Internet software & services,United States,North America,4,0.294,5,1,Steady growers
+Tekion,Internet software & services,United States,North America,4,0.435,4,1,Steady growers
+Otto Bock HealthCare,Health,Germany,Europe,4,0.0,98,0,Mega-unicorns
+Outreach,Internet software & services,United States,North America,4,0.489,8,1,Steady growers
+WeRide,Auto & transportation,China,Asia,4,1.0,3,1,Steady growers
+Applied Intuition,Data management & analytics,United States,North America,4,0.352,3,1,Steady growers
+Course Hero,Edtech,United States,North America,4,0.477,14,0,Mega-unicorns
+Relativity,Internet software & services,United States,North America,4,0.125,20,0,Mega-unicorns
+Whoop,E-commerce & direct-to-consumer,United States,North America,4,0.404,8,1,Steady growers
+Arctic Wolf Networks,Cybersecurity,United States,North America,4,0.498,8,1,Steady growers
+GOAT,E-commerce & direct-to-consumer,United States,North America,4,0.493,5,1,Steady growers
+Noom,Health,United States,North America,4,0.657,15,0,Mega-unicorns
+Papaya Global,Internet software & services,United States,North America,4,0.44,5,1,Steady growers
+Redwood Materials,Other,United States,North America,4,0.792,4,1,Steady growers
+ShareChat,Internet software & services,India,Asia,4,1.0,6,1,Steady growers
+Sorare,E-commerce & direct-to-consumer,France,Europe,4,0.739,2,1,Steady growers
+VAST Data,Data management & analytics,United States,North America,4,0.263,4,1,Steady growers
+Articulate,Edtech,United States,North America,4,2.0,6,1,Steady growers
+Dutchie,E-commerce & direct-to-consumer,United States,North America,4,0.603,4,1,Steady growers
+FalconX,Fintech,United States,North America,4,0.324,3,1,Steady growers
+Guild Education,Internet software & services,United States,North America,4,0.379,4,1,Steady growers
+Chainalysis,Fintech,United States,North America,4,0.367,6,1,Steady growers
+dbt Labs,Data management & analytics,United States,North America,4,0.414,5,1,Steady growers
+Globalization Partners,Internet software & services,United States,North America,4,0.35,10,1,Steady growers
+Intarcia Therapeutics,Health,United States,North America,4,1.0,19,0,Mega-unicorns
+Relativity Space,Other,United States,North America,4,1.0,4,1,Steady growers
+StockX,E-commerce & direct-to-consumer,United States,North America,4,0.495,3,1,Steady growers
+ThoughtSpot,Internet software & services,United States,North America,4,0.664,6,1,Steady growers
+SSENSE,E-commerce & direct-to-consumer,Canada,North America,4,0.37,18,0,Mega-unicorns
+BitPanda,Fintech,Austria,Europe,4,0.546,7,1,Steady growers
+Dataminr,Artificial intelligence,United States,North America,4,1.0,9,1,Steady growers
+Weee!,"Supply chain, logistics, & delivery",United States,North America,4,0.864,6,1,Steady growers
+Medlinker,Health,China,Asia,4,0.761,4,1,Steady growers
+Hozon Auto,Auto & transportation,China,Asia,4,2.0,8,1,Steady growers
+Aurora Solar,Internet software & services,United States,North America,4,0.523,8,1,Steady growers
+Branch,Mobile & telecommunications,United States,North America,4,0.667,4,1,Steady growers
+BrowserStack,Internet software & services,Ireland,Europe,4,0.25,10,1,Steady growers
+Cerebras Systems,Hardware,United States,North America,4,0.72,2,1,Steady growers
+ClickUp,Internet software & services,United States,North America,4,0.535,3,1,Steady growers
+Clubhouse,Mobile & telecommunications,United States,North America,4,0.11,1,1,Steady growers
+Farmers Business Network,Other,United States,North America,4,0.87,6,1,Steady growers
+Houzz,E-commerce & direct-to-consumer,United States,North America,4,0.614,6,1,Steady growers
+MEGVII,Artificial intelligence,China,Asia,4,1.0,6,1,Steady growers
+Melio,Fintech,United States,North America,4,0.504,3,1,Steady growers
+Next Insurance,Fintech,United States,North America,4,0.881,3,1,Steady growers
+Olive,Internet software & services,United States,North America,4,0.856,8,1,Steady growers
+Patreon,Internet software & services,United States,North America,4,0.413,7,1,Steady growers
+PointClickCare,Internet software & services,Canada,North America,4,0.23,21,0,Mega-unicorns
+Rubrik,Data management & analytics,United States,North America,4,0.553,3,1,Steady growers
+Vuori,E-commerce & direct-to-consumer,United States,North America,4,0.445,6,1,Steady growers
+Webflow,Internet software & services,United States,North America,4,0.335,9,1,Steady growers
+Yuga Labs,Fintech,United States,North America,4,0.45,1,1,Steady growers
+Zapier,Internet software & services,United States,North America,4,0.001,10,0,Mega-unicorns
+Dadi Cinema,Other,China,Asia,3,0.154,10,0,Mega-unicorns
+Kurly,"Supply chain, logistics, & delivery",South Korea,Asia,3,0.77,7,1,Steady growers
+Moglix,E-commerce & direct-to-consumer,Singapore,Asia,3,0.471,6,1,Steady growers
+OpenAI,Artificial intelligence,United States,North America,3,1.0,4,1,Steady growers
+Upstox,Fintech,India,Asia,3,0.054,11,0,Mega-unicorns
+Vista Global,Other,United Arab Emirates,Asia,3,0.418,13,0,Mega-unicorns
+Yixia,Mobile & telecommunications,China,Asia,3,0.775,4,1,Steady growers
+Automattic,Internet software & services,United States,North America,3,0.859,8,1,Steady growers
+OakNorth Bank,Fintech,United Kingdom,Europe,3,1.0,2,1,Steady growers
+Worldcoin,Fintech,United States,North America,3,0.125,2,1,Steady growers
+Hive Box,"Supply chain, logistics, & delivery",China,Asia,3,1.0,3,1,Steady growers
+Trax,Artificial intelligence,Singapore,Asia,3,1.0,9,1,Steady growers
+MessageBird,Mobile & telecommunications,Netherlands,Europe,3,1.0,9,1,Steady growers
+Cohesity,Data management & analytics,United States,North America,3,0.66,5,1,Steady growers
+Cybereason,Cybersecurity,United States,North America,3,0.714,7,1,Steady growers
+A24 Films,Other,United States,North America,3,0.225,10,1,Steady growers
+Acronis,Cybersecurity,Switzerland,Europe,3,0.408,16,0,Mega-unicorns
+Aura,Cybersecurity,United States,North America,3,0.5,2,1,Steady growers
+BYTON,Auto & transportation,China,Asia,3,1.0,2,1,Steady growers
+Cato Networks,Cybersecurity,Israel,Asia,3,0.532,5,1,Steady growers
+Digit Insurance,Fintech,India,Asia,3,0.531,5,1,Steady growers
+Fetch Rewards,E-commerce & direct-to-consumer,United States,North America,3,0.582,7,1,Steady growers
+Games24x7,Internet software & services,India,Asia,3,0.075,16,0,Mega-unicorns
+GoStudent,Edtech,Austria,Europe,3,0.685,4,1,Steady growers
+Immutable,Fintech,Australia,Oceania,3,0.28,4,1,Steady growers
+Infra.Market,E-commerce & direct-to-consumer,India,Asia,3,0.274,5,1,Steady growers
+Side,Internet software & services,United States,North America,3,0.314,4,1,Steady growers
+SiFive,Hardware,United States,North America,3,0.366,7,1,Steady growers
+Somatus,Health,United States,North America,3,0.465,6,1,Steady growers
+Sysdig,Cybersecurity,United States,North America,3,0.73,8,1,Steady growers
+Uniphore,Artificial intelligence,United States,North America,3,0.607,14,0,Mega-unicorns
+Varo Bank,Fintech,United States,North America,3,0.987,6,1,Steady growers
+Vercel,Internet software & services,United States,North America,3,0.313,6,1,Steady growers
+Oura,Health,Finland,Europe,3,0.148,9,1,Steady growers
+Unacademy,Edtech,India,Asia,3,0.789,5,1,Steady growers
+Axonius,Cybersecurity,United States,North America,3,0.395,4,1,Steady growers
+Clari,Internet software & services,United States,North America,3,0.496,9,1,Steady growers
+ManoMano,E-commerce & direct-to-consumer,France,Europe,3,0.706,8,1,Steady growers
+Pendo,Internet software & services,United States,North America,3,0.357,6,1,Steady growers
+Plume,Internet software & services,United States,North America,3,0.722,6,1,Steady growers
+JumpCloud,Data management & analytics,United States,North America,3,0.407,9,1,Steady growers
+Project44,"Supply chain, logistics, & delivery",United States,North America,3,0.818,7,1,Steady growers
+Sourcegraph,Internet software & services,United States,North America,3,0.248,8,1,Steady growers
+OwnBackup,Data management & analytics,United States,North America,3,0.507,6,1,Steady growers
+Starburst,Data management & analytics,United States,North America,3,0.414,22,0,Mega-unicorns
+Youxia Motors,Auto & transportation,China,Asia,3,1.0,4,1,Steady growers
+Zetwerk,Internet software & services,India,Asia,3,0.543,3,1,Steady growers
+Cars24,E-commerce & direct-to-consumer,India,Asia,3,1.0,5,1,Steady growers
+Ethos,Fintech,United States,North America,3,0.407,5,1,Steady growers
+Komodo Health,Health,United States,North America,3,0.314,6,1,Steady growers
+Nextiva,Internet software & services,United States,North America,3,0.2,13,0,Mega-unicorns
+o9 Solutions,Artificial intelligence,United States,North America,3,0.417,11,1,Steady growers
+Scopely,Mobile & telecommunications,United States,North America,3,0.999,8,1,Steady growers
+Sila Nanotechnologies,Other,United States,North America,3,0.88,8,1,Steady growers
+Via,Auto & transportation,United States,North America,3,0.777,8,1,Steady growers
+Transmit Security,Cybersecurity,Israel,Asia,3,0.583,7,1,Steady growers
+BlockDaemon,Fintech,United States,North America,3,0.398,5,1,Steady growers
+Convoy,"Supply chain, logistics, & delivery",United States,North America,3,0.666,3,1,Steady growers
+Dream Games,Mobile & telecommunications,Turkey,Europe,3,0.468,2,1,Steady growers
+Illumio,Cybersecurity,United States,North America,3,0.558,2,1,Steady growers
+MasterClass,Edtech,United States,North America,3,0.461,6,1,Steady growers
+Graphcore,Artificial intelligence,United Kingdom,Europe,3,0.682,2,1,Steady growers
+ApplyBoard,Edtech,Canada,North America,3,0.483,5,1,Steady growers
+Blockstream,Fintech,Canada,North America,3,0.299,7,1,Steady growers
+Cedar,Fintech,United States,North America,3,0.326,5,1,Steady growers
+ContentSquare,Internet software & services,France,Europe,3,0.812,9,1,Steady growers
+Eruditus Executive Education,Edtech,India,Asia,3,0.591,11,1,Steady growers
+Innovaccer,Health,United States,North America,3,0.379,7,1,Steady growers
+Ironclad,Internet software & services,United States,North America,3,0.334,8,1,Steady growers
+Skims,E-commerce & direct-to-consumer,United States,North America,3,0.399,2,1,Steady growers
+Thumbtack,E-commerce & direct-to-consumer,United States,North America,3,0.698,7,1,Steady growers
+Zipline,"Supply chain, logistics, & delivery",United States,North America,3,0.483,5,1,Steady growers
+BharatPe,Fintech,India,Asia,3,0.6,3,1,Steady growers
+DriveWealth,Fintech,United States,North America,3,0.551,9,1,Steady growers
+Flink Food,E-commerce & direct-to-consumer,Germany,Europe,3,1.0,0,1,Steady growers
+PsiQuantum,Hardware,United States,North America,3,0.665,5,1,Steady growers
+SpotOn,Fintech,United States,North America,3,0.628,4,1,Steady growers
+Gorillas,E-commerce & direct-to-consumer,Germany,Europe,3,1.0,1,1,Steady growers
+HighRadius,Fintech,United States,North America,3,0.475,14,0,Mega-unicorns
+Loft,E-commerce & direct-to-consumer,Brazil,South America,3,0.788,2,1,Steady growers
+Nuvemshop,E-commerce & direct-to-consumer,Brazil,South America,3,0.628,10,1,Steady growers
+Udaan,"Supply chain, logistics, & delivery",India,Asia,3,1.0,2,1,Steady growers
+Workrise,Internet software & services,United States,North America,3,0.722,5,1,Steady growers
+ActiveCampaign,Internet software & services,United States,North America,3,0.36,18,0,Mega-unicorns
+Age of Learning,Edtech,United States,North America,3,0.5,9,1,Steady growers
+Amber Group,Fintech,Hong Kong,Asia,3,0.328,6,1,Steady growers
+Anchorage Digital,Fintech,United States,North America,3,0.487,4,1,Steady growers
+BlockFi,Fintech,United States,North America,3,1.0,4,1,Steady growers
+Calendly,Internet software & services,United States,North America,3,0.351,8,1,Steady growers
+Carbon Health,Health,United States,North America,3,0.523,6,1,Steady growers
+Circle,Fintech,United States,North America,3,0.711,5,1,Steady growers
+CMR Surgical,Health,United Kingdom,Europe,3,0.975,5,1,Steady growers
+Contentful,Internet software & services,Germany,Europe,3,0.333,8,1,Steady growers
+Cross River Bank,Fintech,United States,North America,3,0.775,14,0,Mega-unicorns
+Delhivery,"Supply chain, logistics, & delivery",India,Asia,3,1.0,8,1,Steady growers
+FlixBus,Auto & transportation,Germany,Europe,3,1.0,6,1,Steady growers
+Flutterwave,Fintech,United States,North America,3,0.474,5,1,Steady growers
+Forter,Cybersecurity,United States,North America,3,0.525,7,1,Steady growers
+Grafana Labs,Internet software & services,United States,North America,3,0.535,7,1,Steady growers
+Groww,Fintech,India,Asia,3,0.393,4,1,Steady growers
+Inxeption,Fintech,United States,North America,3,0.187,5,1,Steady growers
+KK Group,E-commerce & direct-to-consumer,China,Asia,3,0.612,5,1,Steady growers
+Lattice,Internet software & services,United States,North America,3,0.329,6,1,Steady growers
+LaunchDarkly,Internet software & services,United States,North America,3,0.33,7,1,Steady growers
+Lucid,Internet software & services,United States,North America,3,0.17,11,1,Steady growers
+Outschool,Edtech,United States,North America,3,0.24,6,1,Steady growers
+Podium,Internet software & services,United States,North America,3,0.419,6,1,Steady growers
+Remote,Fintech,United States,North America,3,0.496,5,1,Steady growers
+Seismic,Internet software & services,United States,North America,3,0.427,8,1,Steady growers
+Sky Mavis,Internet software & services,Vietnam,Asia,3,0.311,2,1,Steady growers
+SouChe Holdings,E-commerce & direct-to-consumer,China,Asia,3,1.0,5,1,Steady growers
+TradingView,Fintech,United States,North America,3,0.339,10,1,Steady growers
+Traveloka,Travel,Indonesia,Asia,3,1.0,5,1,Steady growers
+wefox,Fintech,Germany,Europe,3,0.919,5,1,Steady growers
+Wildlife Studios,Other,Brazil,South America,3,0.18,8,1,Steady growers
+1047 Games,Internet software & services,United States,North America,2,0.127,4,1,Steady growers
+Baiwang,Fintech,China,Asia,2,0.224,4,1,Steady growers
+Boba,Fintech,United States,North America,2,0.045,4,1,Steady growers
+Bought By Many,Fintech,United Kingdom,Europe,2,0.477,9,1,Steady growers
+Cambridge Mobile Telematics,Mobile & telecommunications,United States,North America,2,0.503,8,1,Steady growers
+Carzone,E-commerce & direct-to-consumer,China,Asia,2,0.946,24,0,Mega-unicorns
+CFGI,Fintech,United States,North America,2,0.019,21,0,Mega-unicorns
+Cgtz,Fintech,China,Asia,2,0.536,3,1,Steady growers
+Changingedu,Edtech,China,Asia,2,0.188,3,1,Steady growers
+eDaili,E-commerce & direct-to-consumer,China,Asia,2,0.101,4,1,Steady growers
+ENOVATE,Auto & transportation,China,Asia,2,1.0,4,1,Steady growers
+Fenbi Education,Edtech,China,Asia,2,0.39,6,1,Steady growers
+Hesai Tech,Artificial intelligence,China,Asia,2,0.717,7,1,Steady growers
+Il Makiage,E-commerce & direct-to-consumer,United States,North America,2,0.029,4,1,Steady growers
+Iluvatar CoreX,Hardware,China,Asia,2,0.186,6,1,Steady growers
+Jusfoun Big Data,Data management & analytics,China,Asia,2,0.137,8,1,Steady growers
+Pagaya,Fintech,Israel,Asia,2,0.417,5,1,Steady growers
+PolicyBazaar,Fintech,India,Asia,2,0.634,11,1,Steady growers
+Promasidor Holdings,Consumer & retail,South Africa,Asia,2,0.556,37,0,Mega-unicorns
+Tubatu.com,E-commerce & direct-to-consumer,China,Asia,2,0.216,7,1,Steady growers
+Ximalaya FM,Mobile & telecommunications,China,Asia,2,0.071,5,1,Steady growers
+HEYTEA,Other,China,Asia,2,0.594,7,1,Steady growers
+BGL Group,Fintech,United Kingdom,Europe,2,0.696,25,0,Mega-unicorns
+Claroty,Cybersecurity,United States,North America,2,0.64,6,1,Steady growers
+Improbable,Other,United Kingdom,Europe,2,0.754,5,1,Steady growers
+InMobi,Mobile & telecommunications,India,Asia,2,0.221,7,1,Steady growers
+MindMaze,Health,Switzerland,Europe,2,0.34,4,1,Steady growers
+Ninja Van,"Supply chain, logistics, & delivery",Singapore,Asia,2,0.975,7,1,Steady growers
+Pantheon Systems,Internet software & services,United States,North America,2,0.2,11,1,Steady growers
+SellerX,E-commerce & direct-to-consumer,Germany,Europe,2,0.766,1,1,Steady growers
+AppDirect,E-commerce & direct-to-consumer,United States,North America,2,0.431,6,1,Steady growers
+BrewDog,Consumer & retail,United Kingdom,Europe,2,0.233,10,1,Steady growers
+Enflame,Hardware,China,Asia,2,0.472,3,1,Steady growers
+Tradeshift,Fintech,United States,North America,2,0.861,9,1,Steady growers
+HeartFlow,Health,United States,North America,2,0.568,10,1,Steady growers
+Extend,Fintech,United States,North America,2,0.32,17,0,Mega-unicorns
+Airbyte,Internet software & services,United States,North America,2,0.181,1,1,Steady growers
+Andela,Internet software & services,United States,North America,2,0.381,7,1,Steady growers
+Ascend Money,Fintech,Thailand,Asia,2,0.15,8,1,Steady growers
+Athelas,Health,United States,North America,2,0.15,6,1,Steady growers
+Built,Internet software & services,United States,North America,2,0.289,6,1,Steady growers
+candy.com,Fintech,United States,North America,2,0.1,0,1,Steady growers
+Cognite,Data management & analytics,Norway,Europe,2,0.225,5,1,Steady growers
+CoinList,Fintech,United States,North America,2,0.119,4,1,Steady growers
+Collective Health,Fintech,United States,North America,2,0.719,6,1,Steady growers
+Culture Amp,Internet software & services,Australia,Oceania,2,0.257,10,1,Steady growers
+Devo,Data management & analytics,United States,North America,2,0.381,10,1,Steady growers
+ElasticRun,"Supply chain, logistics, & delivery",India,Asia,2,0.435,6,1,Steady growers
+Gett,Auto & transportation,United Kingdom,Europe,2,0.828,6,1,Steady growers
+ID.me,Cybersecurity,United States,North America,2,0.142,11,1,Steady growers
+impact.com,Internet software & services,United States,North America,2,0.261,13,1,Steady growers
+Ledger,Hardware,France,Europe,2,0.466,7,1,Steady growers
+Lusha,Internet software & services,United States,North America,2,0.245,5,1,Steady growers
+Matillion,Data management & analytics,United Kingdom,Europe,2,0.31,10,1,Steady growers
+MOLOCO,Artificial intelligence,United States,North America,2,0.192,8,1,Steady growers
+Mu Sigma,Data management & analytics,United States,North America,2,0.211,9,1,Steady growers
+Next Silicon,Hardware,Israel,Asia,2,0.203,3,1,Steady growers
+NotCo,Artificial intelligence,Chile,South America,2,0.37,6,1,Steady growers
+Olist,E-commerce & direct-to-consumer,Brazil,South America,2,0.32,6,1,Steady growers
+Pacaso,Fintech,United States,North America,2,0.217,1,1,Steady growers
+Paradox,Internet software & services,United States,North America,2,0.253,5,1,Steady growers
+Persona,Cybersecurity,United States,North America,2,0.218,3,1,Steady growers
+SmartRecruiters,Internet software & services,United States,North America,2,0.225,11,1,Steady growers
+Snapdocs,Fintech,United States,North America,2,0.253,9,1,Steady growers
+Solugen,Other,United States,North America,2,0.435,5,1,Steady growers
+StoreDot,Other,Israel,Asia,2,0.19,10,1,Steady growers
+Strava,Internet software & services,United States,North America,2,0.152,11,1,Steady growers
+Temporal,Internet software & services,United States,North America,2,0.129,3,1,Steady growers
+TuJia,Travel,China,Asia,2,0.755,4,1,Steady growers
+Uplight,Other,United States,North America,2,0.37,2,1,Steady growers
+Veho,"Supply chain, logistics, & delivery",United States,North America,2,0.299,5,1,Steady growers
+Veriff,Artificial intelligence,Estonia,Europe,2,0.177,7,1,Steady growers
+Whatnot,E-commerce & direct-to-consumer,United States,North America,2,0.225,2,1,Steady growers
+Zenoti,Internet software & services,United States,North America,2,0.331,10,1,Steady growers
+Zeta,Fintech,United States,North America,2,0.34,6,1,Steady growers
+Loom,Internet software & services,United States,North America,2,0.204,5,1,Steady growers
+Mobile Premier League,Internet software & services,India,Asia,2,0.376,3,1,Steady growers
+Uala,Fintech,Argentina,South America,2,0.544,4,1,Steady growers
+Wenheyou,Other,China,Asia,2,0.09,8,1,Steady growers
+Star Charge,Auto & transportation,China,Asia,2,0.125,7,1,Steady growers
+ABL Space Systems,Other,United States,North America,2,0.419,4,1,Steady growers
+Afiniti,Artificial intelligence,Bermuda,North America,2,0.12,11,0,Mega-unicorns
+ASAPP,Artificial intelligence,United States,North America,2,0.38,7,1,Steady growers
+BitSight Technologies,Cybersecurity,United States,North America,2,0.401,8,1,Steady growers
+Cao Cao Mobility,Auto & transportation,China,Asia,2,0.744,3,1,Steady growers
+Capitolis,Fintech,United States,North America,2,0.282,5,1,Steady growers
+Carbon,Hardware,United States,North America,2,0.682,2,1,Steady growers
+Clio,Internet software & services,Canada,North America,2,0.386,13,1,Steady growers
+Cresta,Artificial intelligence,United States,North America,2,0.151,5,1,Steady growers
+Exabeam,Cybersecurity,United States,North America,2,0.39,8,1,Steady growers
+ezCater,"Supply chain, logistics, & delivery",United States,North America,2,0.421,12,1,Steady growers
+HomeLight,Fintech,United States,North America,2,0.219,9,1,Steady growers
+HoneyBook,Internet software & services,United States,North America,2,0.498,8,1,Steady growers
+Infinidat,Hardware,United States,North America,2,0.325,4,1,Steady growers
+Mercury,Fintech,United States,North America,2,0.152,2,1,Steady growers
+Paxos,Fintech,United States,North America,2,0.538,9,1,Steady growers
+SafetyCulture,Internet software & services,Australia,Oceania,2,0.222,17,0,Mega-unicorns
+SmartHR,Fintech,Japan,Asia,2,0.19,8,1,Steady growers
+Tonal,E-commerce & direct-to-consumer,United States,North America,2,0.45,6,1,Steady growers
+Truepill,Health,United States,North America,2,0.255,5,1,Steady growers
+Unite Us,Health,United States,North America,2,0.195,7,1,Steady growers
+Verkada,Cybersecurity,United States,North America,2,0.139,4,1,Steady growers
+Wayflyer,Fintech,Ireland,Europe,2,0.236,3,1,Steady growers
+Zhubajie,Internet software & services,China,Asia,2,0.445,9,1,Steady growers
+Transcarent,Health,United States,North America,2,0.298,2,1,Steady growers
+Trader Interactive,Other,United States,North America,2,0.624,4,1,Steady growers
+Glossier,Consumer & retail,United States,North America,2,0.266,5,1,Steady growers
+Hibob,Internet software & services,Israel,Asia,2,0.274,6,1,Steady growers
+Jobandtalent,Internet software & services,Spain,Europe,2,0.902,12,1,Steady growers
+Optimism,Internet software & services,United States,North America,2,0.179,3,1,Steady growers
+solarisBank,Fintech,Germany,Europe,2,0.403,5,1,Steady growers
+WEMAKEPRICE,E-commerce & direct-to-consumer,South Korea,Asia,2,0.397,6,1,Steady growers
+Alan,Fintech,France,Europe,2,0.364,5,1,Steady growers
+Biren Technology,Hardware,China,Asia,2,0.285,1,1,Steady growers
+Voodoo,Other,France,Europe,2,0.517,7,1,Steady growers
+Carsome,E-commerce & direct-to-consumer,Malaysia,Asia,2,0.577,6,1,Steady growers
+CircleCI,Internet software & services,United States,North America,2,0.315,10,1,Steady growers
+DealShare,E-commerce & direct-to-consumer,India,Asia,2,0.612,4,1,Steady growers
+DispatchHealth,Health,United States,North America,2,0.403,8,1,Steady growers
+Dragos,Cybersecurity,United States,North America,2,0.358,5,1,Steady growers
+Gousto,"Supply chain, logistics, & delivery",United Kingdom,Europe,2,0.311,8,1,Steady growers
+H2O.ai,Artificial intelligence,United States,North America,2,0.251,10,1,Steady growers
+Harness,Artificial intelligence,United States,North America,2,0.195,5,1,Steady growers
+Harry's,Consumer & retail,United States,North America,2,0.792,5,1,Steady growers
+PAX,Consumer & retail,United States,North America,2,0.542,11,1,Steady growers
+Productboard,Internet software & services,United States,North America,2,0.261,8,1,Steady growers
+Reltio,Data management & analytics,United States,North America,2,0.237,10,1,Steady growers
+Spotter,Fintech,United States,North America,2,0.231,3,1,Steady growers
+Vestiaire Collective,E-commerce & direct-to-consumer,France,Europe,2,0.663,12,1,Steady growers
+Wave,Fintech,Senegal,Africa,2,0.2,3,1,Steady growers
+ZenBusiness,Fintech,United States,North America,2,0.275,6,1,Steady growers
+Bowery Farming,Other,United States,North America,2,0.497,6,1,Steady growers
+Greenlight,Fintech,United States,North America,2,0.557,6,1,Steady growers
+KeepTruckin,"Supply chain, logistics, & delivery",United States,North America,2,0.417,6,1,Steady growers
+Odoo,Internet software & services,Belgium,Europe,2,0.229,16,0,Mega-unicorns
+Skydance Media,Other,United States,North America,2,0.275,10,1,Steady growers
+Uptake,Artificial intelligence,United States,North America,2,0.218,1,1,Steady growers
+MoMo,Fintech,Vietnam,Asia,2,0.434,8,1,Steady growers
+Algolia,Internet software & services,United States,North America,2,0.334,9,1,Steady growers
+Pattern,Internet software & services,United States,North America,2,0.277,8,1,Steady growers
+Spinny,E-commerce & direct-to-consumer,India,Asia,2,0.509,6,1,Steady growers
+Trulioo,Cybersecurity,Canada,North America,2,0.474,10,1,Steady growers
+Zume,Consumer & retail,United States,North America,2,0.423,3,1,Steady growers
+AIWAYS,Auto & transportation,China,Asia,2,0.792,1,1,Steady growers
+Bitso,Fintech,Mexico,North America,2,0.378,7,1,Steady growers
+BloomReach,Artificial intelligence,United States,North America,2,0.422,13,1,Steady growers
+Current,Fintech,United States,North America,2,0.402,6,1,Steady growers
+Dialpad,Internet software & services,United States,North America,2,0.4,9,1,Steady growers
+G7 Networks,"Supply chain, logistics, & delivery",China,Asia,2,0.71,16,0,Mega-unicorns
+Gympass,Internet software & services,United States,North America,2,0.525,7,1,Steady growers
+MUSINSA,E-commerce & direct-to-consumer,South Korea,Asia,2,0.287,18,0,Mega-unicorns
+NuCom Group,Other,Germany,Europe,2,0.55,2,1,Steady growers
+Reify Health,Health,United States,North America,2,0.259,9,1,Steady growers
+Diamond Foundry,Other,United States,North America,2,0.351,9,1,Steady growers
+FullStory,Internet software & services,United States,North America,2,0.172,7,1,Steady growers
+Lightricks,Artificial intelligence,Israel,Asia,2,0.305,6,1,Steady growers
+Opentrons,Hardware,United States,North America,2,0.24,5,1,Steady growers
+ZocDoc,Health,United States,North America,2,0.374,8,1,Steady growers
+Accelerant,Other,United Kingdom,Europe,2,0.193,4,1,Steady growers
+Huaqin Telecom Technology,Mobile & telecommunications,China,Asia,2,0.298,14,0,Mega-unicorns
+Addepar,Fintech,United States,North America,2,0.676,12,1,Steady growers
+YITU Technology,Artificial intelligence,China,Asia,2,0.401,6,1,Steady growers
+CloudWalk,Fintech,Brazil,South America,2,0.345,6,1,Steady growers
+Retool,Internet software & services,United States,North America,2,0.096,21,0,Mega-unicorns
+Volocopter,Auto & transportation,Germany,Europe,2,0.599,11,1,Steady growers
+Acorns,Fintech,United States,North America,2,0.507,10,1,Steady growers
+Aledade,Health,United States,North America,2,0.295,7,1,Steady growers
+CoinSwitch Kuber,Fintech,India,Asia,2,0.301,4,1,Steady growers
+ConcertAI,Artificial intelligence,United States,North America,2,0.3,4,1,Steady growers
+Eightfold.ai,Internet software & services,United States,North America,2,0.397,4,1,Steady growers
+FirstCry,E-commerce & direct-to-consumer,India,Asia,2,0.441,10,1,Steady growers
+Forto,"Supply chain, logistics, & delivery",Germany,Europe,2,0.593,5,1,Steady growers
+GoCardless,Fintech,United Kingdom,Europe,2,0.529,11,1,Steady growers
+InVision,Internet software & services,United States,North America,2,0.349,6,1,Steady growers
+Jeeves,Fintech,United States,North America,2,0.268,3,1,Steady growers
+Medable,Internet software & services,United States,North America,2,0.507,8,1,Steady growers
+Moveworks,Artificial intelligence,United States,North America,2,0.305,5,1,Steady growers
+MX Technologies,Fintech,United States,North America,2,0.45,11,1,Steady growers
+PayFit,Fintech,United Kingdom,Europe,2,0.496,6,1,Steady growers
+ReCharge,Fintech,United States,North America,2,0.277,4,1,Steady growers
+Roofstock,Fintech,United States,North America,2,0.365,7,1,Steady growers
+Urban Company,E-commerce & direct-to-consumer,India,Asia,2,0.371,7,1,Steady growers
+Rokt,Internet software & services,United States,North America,2,0.487,9,1,Steady growers
+Starling Bank,Fintech,United Kingdom,Europe,2,0.791,7,1,Steady growers
+Ankorstore,E-commerce & direct-to-consumer,France,Europe,2,0.422,3,1,Steady growers
+4Paradigm,Artificial intelligence,China,Asia,2,1.0,3,1,Steady growers
+Advance Intelligence Group,Artificial intelligence,Singapore,Asia,2,0.536,5,1,Steady growers
+Aiven,Internet software & services,Finland,Europe,2,0.21,5,1,Steady growers
+Akulaku,E-commerce & direct-to-consumer,Indonesia,Asia,2,0.438,8,1,Steady growers
+Apeel Sciences,Other,United States,North America,2,0.64,8,1,Steady growers
+AppsFlyer,Mobile & telecommunications,United States,North America,2,0.293,9,1,Steady growers
+Avant,Artificial intelligence,United States,North America,2,0.658,0,1,Steady growers
+Aviatrix,Internet software & services,United States,North America,2,0.341,7,1,Steady growers
+BlaBlaCar,Auto & transportation,France,Europe,2,0.449,9,1,Steady growers
+Black Sesame Technologies,Artificial intelligence,China,Asia,2,0.115,5,1,Steady growers
+Bunq,Fintech,Netherlands,Europe,2,0.281,8,1,Steady growers
+Calm,Consumer & retail,United States,North America,2,0.218,7,1,Steady growers
+Chipper Cash,Fintech,United States,North America,2,0.302,4,1,Steady growers
+Clearco,Fintech,Canada,North America,2,0.433,6,1,Steady growers
+ClickHouse,Data management & analytics,United States,North America,2,0.3,0,1,Steady growers
+Clip,Fintech,Mexico,North America,2,0.381,9,1,Steady growers
+Cloudinary,Internet software & services,United States,North America,2,0.1,11,1,Steady growers
+Deliverr,"Supply chain, logistics, & delivery",United States,North America,2,0.456,4,1,Steady growers
+Divvy Homes,Fintech,United States,North America,2,0.37,4,1,Steady growers
+Dremio,Data management & analytics,United States,North America,2,0.41,6,1,Steady growers
+Druva,Data management & analytics,United States,North America,2,0.475,12,1,Steady growers
+Everlaw,Internet software & services,United States,North America,2,0.299,10,1,Steady growers
+Exotec,Hardware,France,Europe,2,0.45,7,1,Steady growers
+Formlabs,Hardware,United States,North America,2,0.251,7,1,Steady growers
+Guoquan Shihui,Consumer & retail,China,Asia,2,0.523,4,1,Steady growers
+Hive,Artificial intelligence,United States,North America,2,0.121,8,1,Steady growers
+HuiMin,E-commerce & direct-to-consumer,China,Asia,2,0.517,3,1,Steady growers
+ISN,"Supply chain, logistics, & delivery",United States,North America,2,0.37,19,0,Mega-unicorns
+Iterable,Internet software & services,United States,North America,2,0.342,8,1,Steady growers
+Kajabi,Internet software & services,United States,North America,2,0.55,11,1,Steady growers
+Kaseya,Cybersecurity,United States,North America,2,0.545,19,0,Mega-unicorns
+Keep,Mobile & telecommunications,China,Asia,2,0.614,6,1,Steady growers
+KRY,Health,Sweden,Europe,2,0.569,7,1,Steady growers
+Loggi,"Supply chain, logistics, & delivery",Brazil,South America,2,0.507,6,1,Steady growers
+LTK,Internet software & services,United States,North America,2,0.315,10,1,Steady growers
+Lunar,Fintech,Denmark,Europe,2,0.448,6,1,Steady growers
+Mafengwo,Travel,China,Asia,2,0.503,9,1,Steady growers
+Magic Leap,Hardware,United States,North America,2,3.0,4,1,Steady growers
+Misfits Market,E-commerce & direct-to-consumer,United States,North America,2,0.527,3,1,Steady growers
+Modern Treasury,Fintech,United States,North America,2,0.183,3,1,Steady growers
+MURAL,Internet software & services,United States,North America,2,0.192,10,1,Steady growers
+Mynt,Fintech,Philippines,Asia,2,0.475,6,1,Steady growers
+Neo4j,Data management & analytics,United States,North America,2,0.408,14,0,Mega-unicorns
+Netlify,Internet software & services,United States,North America,2,0.202,7,1,Steady growers
+OCSiAl,Other,Luxembourg,Europe,2,0.285,7,1,Steady growers
+Opay,Fintech,Nigeria,Africa,2,0.57,3,1,Steady growers
+Pipe,Fintech,United States,North America,2,0.566,2,1,Steady growers
+Preferred Networks,Artificial intelligence,Japan,Asia,2,0.147,4,1,Steady growers
+Quora,Internet software & services,United States,North America,2,0.226,8,1,Steady growers
+Redis Labs,Data management & analytics,United States,North America,2,0.356,9,1,Steady growers
+SmartNews,Mobile & telecommunications,Japan,Asia,2,0.41,7,1,Steady growers
+Spring Health,Health,United States,North America,2,0.296,5,1,Steady growers
+StarkWare,Cybersecurity,Israel,Asia,2,0.161,3,1,Steady growers
+SWORD Health,Health,United States,North America,2,0.296,6,1,Steady growers
+Tier,Travel,Germany,Europe,2,0.587,3,1,Steady growers
+Trendy Group International,Consumer & retail,Hong Kong,Asia,2,0.2,13,0,Mega-unicorns
+Unqork,Fintech,United States,North America,2,0.365,3,1,Steady growers
+VerbIT,Artificial intelligence,United States,North America,2,0.432,5,1,Steady growers
+Virta Health,Health,United States,North America,2,0.373,5,1,Steady growers
+Xinchao Media,Internet software & services,China,Asia,2,0.768,11,1,Steady growers
+Xingyun Group,E-commerce & direct-to-consumer,China,Asia,2,0.95,5,1,Steady growers
+XtalPi,Artificial intelligence,China,Asia,2,0.786,7,1,Steady growers
+Zilch,Fintech,United Kingdom,Europe,2,0.339,3,1,Steady growers
+56PINGTAI,"Supply chain, logistics, & delivery",China,Asia,1,0.188,8,1,Steady growers
+Alzheon,Health,United States,North America,1,0.094,7,1,Steady growers
+Aprogen,Health,South Korea,Asia,1,0.062,19,0,Mega-unicorns
+Axtria,Data management & analytics,United States,North America,1,0.206,12,1,Steady growers
+Cell C,Mobile & telecommunications,South Africa,Africa,1,0.547,17,0,Mega-unicorns
+China Cloud,Hardware,China,Asia,1,0.523,8,1,Steady growers
+CredAvenue,Fintech,India,Asia,1,0.227,5,1,Steady growers
+DeepBlue Technology,Artificial intelligence,China,Asia,1,0.079,4,1,Steady growers
+dMed Biopharmaceutical,Health,China,Asia,1,0.214,5,1,Steady growers
+Einride,Auto & transportation,Sweden,Europe,1,0.151,5,1,Steady growers
+EQRx,Health,United States,North America,1,0.7,1,1,Steady growers
+Everly Health,E-commerce & direct-to-consumer,United States,North America,1,0.231,5,1,Steady growers
+Fair,Auto & transportation,United States,North America,1,2.0,2,1,Steady growers
+Flipboard,Internet software & services,United States,North America,1,0.211,5,1,Steady growers
+Globality,Artificial intelligence,United States,North America,1,0.31,4,1,Steady growers
+Hosjoy,E-commerce & direct-to-consumer,China,Asia,1,0.139,9,1,Steady growers
+Huisuanzhang,Fintech,China,Asia,1,0.227,6,1,Steady growers
+HuJiang,Edtech,China,Asia,1,0.223,14,0,Mega-unicorns
+Hyperchain,Fintech,China,Asia,1,0.249,5,1,Steady growers
+iTutorGroup,Edtech,China,Asia,1,0.315,17,0,Mega-unicorns
+JimuBox,Fintech,China,Asia,1,0.131,2,1,Steady growers
+Juma Peisong,"Supply chain, logistics, & delivery",China,Asia,1,0.281,7,1,Steady growers
+Justworks,Internet software & services,United States,North America,1,0.143,8,1,Steady growers
+Keenon Robotics,"Supply chain, logistics, & delivery",China,Asia,1,0.229,11,1,Steady growers
+Kuaigou Dache,"Supply chain, logistics, & delivery",China,Asia,1,0.65,4,1,Steady growers
+LifeMiles,Other,Colombia,South America,1,0.344,4,1,Steady growers
+LinkSure Network,Mobile & telecommunications,China,Asia,1,0.052,2,1,Steady growers
+MobiKwik,Fintech,India,Asia,1,0.249,12,1,Steady growers
+Modernizing Medicine,Health,United States,North America,1,0.394,7,1,Steady growers
+OVH,Other,France,Europe,1,1.0,17,0,Mega-unicorns
+Phenom People,Internet software & services,United States,North America,1,0.163,10,1,Steady growers
+Pipa Coding,Edtech,China,Asia,1,0.268,4,1,Steady growers
+Qingting FM,Internet software & services,China,Asia,1,0.164,10,1,Steady growers
+Rad Power Bikes,Auto & transportation,United States,North America,1,0.329,14,1,Steady growers
+Shukun Technology,Artificial intelligence,China,Asia,1,0.211,4,1,Steady growers
+Shulan Health,Health,China,Asia,1,0.043,6,1,Steady growers
+SITECH DEV,Other,China,Asia,1,0.37,2,1,Steady growers
+Snapdeal,E-commerce & direct-to-consumer,India,Asia,1,2.0,6,1,Steady growers
+SumUp,Fintech,United Kingdom,Europe,1,1.0,8,1,Steady growers
+TalkingData,Mobile & telecommunications,China,Asia,1,0.31,8,1,Steady growers
+TUNGEE,Artificial intelligence,China,Asia,1,0.171,5,1,Steady growers
+UISEE Technology,"Supply chain, logistics, & delivery",China,Asia,1,0.154,5,1,Steady growers
+Valgen Medtech,Health,China,Asia,1,0.188,6,1,Steady growers
+Vectra Networks,Artificial intelligence,United States,North America,1,0.352,10,1,Steady growers
+Venafi,Cybersecurity,United States,North America,1,0.174,20,0,Mega-unicorns
+Wacai,Mobile & telecommunications,China,Asia,1,0.369,9,1,Steady growers
+WeBull,Fintech,China,Asia,1,0.23,5,1,Steady growers
+WTOIP,Internet software & services,China,Asia,1,0.307,5,1,Steady growers
+Xiaobing,Fintech,China,Asia,1,0.37,1,1,Steady growers
+Xiaoe Tech,Internet software & services,China,Asia,1,0.149,6,1,Steady growers
+Yiguo,"Supply chain, logistics, & delivery",China,Asia,1,0.8,11,1,Steady growers
+Yimidida,"Supply chain, logistics, & delivery",China,Asia,1,0.554,4,1,Steady growers
+Yipin Shengxian,E-commerce & direct-to-consumer,China,Asia,1,0.658,2,1,Steady growers
+Ynsect,Other,France,Europe,1,0.393,8,1,Steady growers
+Hello TransTech,Auto & transportation,China,Asia,1,2.0,2,1,Steady growers
+Miaoshou Doctor,E-commerce & direct-to-consumer,China,Asia,1,0.947,4,1,Steady growers
+ECARX,Auto & transportation,China,Asia,1,0.394,4,1,Steady growers
+Eat Just,Consumer & retail,United States,North America,1,0.44,6,1,Steady growers
+Trumid,Fintech,United States,North America,1,0.66,6,1,Steady growers
+Qualia,Fintech,United States,North America,1,0.16,5,1,Steady growers
+Beisen,Internet software & services,China,Asia,1,0.388,19,0,Mega-unicorns
+Earnix,Fintech,Israel,Asia,1,0.098,20,0,Mega-unicorns
+Kujiale,Internet software & services,China,Asia,1,0.235,8,1,Steady growers
+Orca Security,Cybersecurity,United States,North America,1,0.632,2,1,Steady growers
+Apus Group,Mobile & telecommunications,China,Asia,1,0.116,1,1,Steady growers
+Forte Labs,Fintech,United States,North America,1,0.91,3,1,Steady growers
+CureFit,Health,India,Asia,1,0.665,5,1,Steady growers
+DT Dream,Data management & analytics,China,Asia,1,0.267,2,1,Steady growers
+fabric,E-commerce & direct-to-consumer,United States,North America,1,0.294,5,1,Steady growers
+JOLLY Information Technology,E-commerce & direct-to-consumer,China,Asia,1,0.096,10,1,Steady growers
+K Health,Health,United States,North America,1,0.271,5,1,Steady growers
+Mofang Living,E-commerce & direct-to-consumer,China,Asia,1,0.65,7,1,Steady growers
+Spendesk,Fintech,France,Europe,1,0.314,7,1,Steady growers
+TaxBit,Fintech,United States,North America,1,0.236,3,1,Steady growers
+XiaoZhu,Travel,China,Asia,1,0.572,5,1,Steady growers
+Yijiupi,Consumer & retail,China,Asia,1,0.511,4,1,Steady growers
+YunQuNa,"Supply chain, logistics, & delivery",China,Asia,1,0.207,6,1,Steady growers
+Bordrin Motors,Auto & transportation,China,Asia,1,0.362,3,1,Steady growers
+Aleo,Cybersecurity,United States,North America,1,0.228,3,1,Steady growers
+Coocaa,Hardware,China,Asia,1,0.218,12,1,Steady growers
+Gymshark,E-commerce & direct-to-consumer,United Kingdom,Europe,1,0.262,8,1,Steady growers
+M1 Finance,Fintech,United States,North America,1,0.323,6,1,Steady growers
+Ouyeel,Internet software & services,China,Asia,1,0.432,4,1,Steady growers
+SonderMind,Health,United States,North America,1,0.183,7,1,Steady growers
+Astranis Space Technologies,Mobile & telecommunications,United States,North America,1,0.303,6,1,Steady growers
+Away,E-commerce & direct-to-consumer,United States,North America,1,0.181,4,1,Steady growers
+Cabify,Auto & transportation,Spain,Europe,1,0.407,7,1,Steady growers
+Clarify Health,Health,United States,North America,1,0.328,7,1,Steady growers
+Coda,Internet software & services,United States,North America,1,0.24,7,1,Steady growers
+Deezer,Internet software & services,France,Europe,1,0.532,11,1,Steady growers
+Degreed,Edtech,United States,North America,1,0.318,9,1,Steady growers
+Deliverect,Fintech,Belgium,Europe,1,0.237,4,1,Steady growers
+Envoy,Internet software & services,United States,North America,1,0.17,9,1,Steady growers
+Epidemic Sound,Internet software & services,Sweden,Europe,1,0.509,12,1,Steady growers
+Figment,Internet software & services,Canada,North America,1,0.165,3,1,Steady growers
+Firebolt,Data management & analytics,Israel,Asia,1,0.264,3,1,Steady growers
+Five Star Business Finance,Other,India,Asia,1,0.456,37,0,Mega-unicorns
+GupShup,Internet software & services,United States,North America,1,0.384,10,1,Steady growers
+Kong,Internet software & services,United States,North America,1,0.169,13,1,Steady growers
+Koudai,E-commerce & direct-to-consumer,China,Asia,1,0.368,4,1,Steady growers
+Panther Labs,Cybersecurity,United States,North America,1,0.141,3,1,Steady growers
+Papa,Health,United States,North America,1,0.241,5,1,Steady growers
+Pristyn Care,Health,India,Asia,1,0.177,3,1,Steady growers
+Rebel Foods,E-commerce & direct-to-consumer,India,Asia,1,0.521,10,1,Steady growers
+Salt Security,Cybersecurity,United States,North America,1,0.271,6,1,Steady growers
+Scalable Capital,Fintech,Germany,Europe,1,0.314,7,1,Steady growers
+SparkCognition,Artificial intelligence,United States,North America,1,0.286,9,1,Steady growers
+Stash,Fintech,United States,North America,1,0.426,6,1,Steady growers
+Symphony,Fintech,United States,North America,1,0.511,3,1,Steady growers
+Tripledot,Mobile & telecommunications,United Kingdom,Europe,1,0.202,5,1,Steady growers
+VideoAmp,Internet software & services,United States,North America,1,0.382,7,1,Steady growers
+Yidian Zixun,Mobile & telecommunications,China,Asia,1,0.151,0,1,Steady growers
+Yotpo,Internet software & services,United States,North America,1,0.436,10,1,Steady growers
+Neon,Fintech,Brazil,South America,1,0.72,6,1,Steady growers
+Veepee,E-commerce & direct-to-consumer,France,Europe,1,0.37,6,1,Steady growers
+Alloy,Fintech,United States,North America,1,0.156,6,1,Steady growers
+Epirus,Other,United States,North America,1,0.287,4,1,Steady growers
+Klook,Travel,Hong Kong,Asia,1,0.722,4,1,Steady growers
+Yaoshibang,Health,China,Asia,1,0.496,6,1,Steady growers
+Signifyd,Fintech,United States,North America,1,0.39,10,1,Steady growers
+Motorway,E-commerce & direct-to-consumer,United Kingdom,Europe,1,0.276,4,1,Steady growers
+RIDI,E-commerce & direct-to-consumer,South Korea,Asia,1,0.178,14,1,Steady growers
+Athletic Greens,Health,United States,North America,1,0.115,12,1,Steady growers
+GPclub,Other,South Korea,Asia,1,0.067,15,0,Mega-unicorns
+Grove Collaborative,E-commerce & direct-to-consumer,United States,North America,1,0.475,3,1,Steady growers
+Tongdun Technology,Cybersecurity,China,Asia,1,0.252,6,1,Steady growers
+Unisound,Artificial intelligence,China,Asia,1,0.361,6,1,Steady growers
+Betterment,Fintech,United States,North America,1,0.335,11,1,Steady growers
+Cava Group,Other,United States,North America,1,0.738,11,1,Steady growers
+CoinTracker,Fintech,United States,North America,1,0.102,5,1,Steady growers
+DistroKid,Internet software & services,United States,North America,1,0.37,8,1,Steady growers
+Domestika,Internet software & services,United States,North America,1,0.13,10,1,Steady growers
+Flock Freight,"Supply chain, logistics, & delivery",United States,North America,1,0.399,6,1,Steady growers
+InSightec,Health,Israel,Asia,1,0.633,21,0,Mega-unicorns
+Island,Internet software & services,United States,North America,1,0.215,2,1,Steady growers
+iTrustCapital,Fintech,United States,North America,1,0.128,4,1,Steady growers
+Konfio,Fintech,Mexico,North America,1,0.378,8,1,Steady growers
+LinkTree,Internet software & services,Australia,Oceania,1,0.166,6,1,Steady growers
+Loadsmart,"Supply chain, logistics, & delivery",United States,North America,1,0.336,8,1,Steady growers
+Lukka,Fintech,United States,North America,1,0.201,8,1,Steady growers
+Manner,Other,China,Asia,1,0.01,5,1,Steady growers
+The Brandtech Group,Other,United States,North America,1,0.61,4,1,Steady growers
+TravelPerk,Travel,Spain,Europe,1,0.408,7,1,Steady growers
+YugaByte,Data management & analytics,United States,North America,1,0.291,5,1,Steady growers
+Intercom,Internet software & services,United States,North America,1,0.241,7,1,Steady growers
+OVO Energy,Other,United Kingdom,Europe,1,0.324,10,1,Steady growers
+BigID,Cybersecurity,United States,North America,1,0.246,5,1,Steady growers
+CaptivateIQ,Fintech,United States,North America,1,0.165,8,1,Steady growers
+Flipdish,Internet software & services,Ireland,Europe,1,0.157,7,1,Steady growers
+Honor Technology,Internet software & services,United States,North America,1,0.325,7,1,Steady growers
+Incode Technologies,Cybersecurity,United States,North America,1,0.257,6,1,Steady growers
+Kuaikan Manhua,Internet software & services,China,Asia,1,0.594,3,1,Steady growers
+Marshmallow,Fintech,United Kingdom,Europe,1,0.116,4,1,Steady growers
+Mythical Games,Internet software & services,United States,North America,1,0.26,3,1,Steady growers
+Route,"Supply chain, logistics, & delivery",United States,North America,1,0.482,4,1,Steady growers
+Tackle.io,Internet software & services,United States,North America,1,0.148,5,1,Steady growers
+Nexii,Other,Canada,North America,1,0.045,1,1,Steady growers
+GalaxySpace,Mobile & telecommunications,China,Asia,1,0.014,4,1,Steady growers
+Insider,Internet software & services,Turkey,Europe,1,0.167,10,1,Steady growers
+Spiber,Other,Japan,Asia,1,0.52,14,0,Mega-unicorns
+Ada Support,Artificial intelligence,Canada,North America,1,0.191,5,1,Steady growers
+AgentSync,Fintech,United States,North America,1,0.111,3,1,Steady growers
+Alation,Internet software & services,United States,North America,1,0.192,9,1,Steady growers
+BigPanda,Artificial intelligence,United States,North America,1,0.317,10,1,Steady growers
+CarDekho,E-commerce & direct-to-consumer,India,Asia,1,0.448,13,1,Steady growers
+Copado,Data management & analytics,United States,North America,1,0.271,8,1,Steady growers
+DailyPay,Fintech,United States,North America,1,0.189,5,1,Steady growers
+FloQast,Fintech,United States,North America,1,0.23,8,1,Steady growers
+Gem,Internet software & services,United States,North America,1,0.148,4,1,Steady growers
+GrubMarket,E-commerce & direct-to-consumer,United States,North America,1,0.382,8,1,Steady growers
+Helium Systems,Internet software & services,United States,North America,1,0.365,9,1,Steady growers
+Inari,Other,United States,North America,1,0.337,5,1,Steady growers
+Jokr,E-commerce & direct-to-consumer,United States,North America,1,0.43,0,1,Steady growers
+LivSpace,E-commerce & direct-to-consumer,India,Asia,1,0.427,7,1,Steady growers
+Merama,E-commerce & direct-to-consumer,Mexico,North America,1,0.345,1,1,Steady growers
+MindTickle,Internet software & services,United States,North America,1,0.281,9,1,Steady growers
+MyGlamm,E-commerce & direct-to-consumer,India,Asia,1,0.31,6,1,Steady growers
+Oda,E-commerce & direct-to-consumer,Norway,Europe,1,0.337,8,1,Steady growers
+Offchain Labs,Internet software & services,United States,North America,1,0.124,3,1,Steady growers
+Phantom,Fintech,United States,North America,1,0.118,1,1,Steady growers
+Pilot.com,Fintech,United States,North America,1,0.161,5,1,Steady growers
+Prime Medicine,Health,United States,North America,1,0.315,2,1,Steady growers
+Public,Fintech,United States,North America,1,0.309,13,1,Steady growers
+Qumulo,Data management & analytics,United States,North America,1,0.347,8,1,Steady growers
+Rohlik,"Supply chain, logistics, & delivery",Czech Republic,Europe,1,0.38,2,1,Steady growers
+SeekOut,Internet software & services,United States,North America,1,0.189,5,1,Steady growers
+SmartMore,Artificial intelligence,China,Asia,1,0.3,2,1,Steady growers
+Tealium,Internet software & services,United States,North America,1,0.264,13,1,Steady growers
+UpGrad,Edtech,India,Asia,1,0.194,6,1,Steady growers
+Workhuman,Internet software & services,Ireland,Europe,1,0.009,21,0,Mega-unicorns
+Xpressbees,"Supply chain, logistics, & delivery",India,Asia,1,0.573,10,1,Steady growers
+L&P Cosmetic,Consumer & retail,South Korea,Asia,1,0.033,7,1,Steady growers
+Mininglamp Technology,Artificial intelligence,China,Asia,1,0.787,5,1,Steady growers
+Luoji Siwei,Edtech,China,Asia,1,0.144,5,1,Steady growers
+IRL,Internet software & services,United States,North America,1,0.197,4,1,Steady growers
+Modern Health,Health,United States,North America,1,0.167,4,1,Steady growers
+Tuhu,Auto & transportation,China,Asia,1,0.875,7,1,Steady growers
+CloudBees,Data management & analytics,United States,North America,1,0.236,11,1,Steady growers
+Elemy,Health,United States,North America,1,0.323,2,1,Steady growers
+Guideline,Fintech,United States,North America,1,0.339,6,1,Steady growers
+Happy Money,Fintech,United States,North America,1,0.192,13,1,Steady growers
+Rebellion Defense,Artificial intelligence,United States,North America,1,0.15,2,1,Steady growers
+STORD,"Supply chain, logistics, & delivery",United States,North America,1,0.205,6,1,Steady growers
+At-Bay,Fintech,United States,North America,1,0.292,5,1,Steady growers
+TELD,Fintech,China,Asia,1,0.396,5,1,Steady growers
+Acko General Insurance,Fintech,India,Asia,1,0.458,5,1,Steady growers
+apna,Internet software & services,India,Asia,1,0.193,2,1,Steady growers
+Beyond Identity,Cybersecurity,United States,North America,1,0.205,3,1,Steady growers
+Carousell,E-commerce & direct-to-consumer,Singapore,Asia,1,0.288,9,1,Steady growers
+Chief,Other,United States,North America,1,0.14,3,1,Steady growers
+CoinDCX,Fintech,India,Asia,1,0.109,4,1,Steady growers
+Daily Harvest,E-commerce & direct-to-consumer,United States,North America,1,0.12,7,1,Steady growers
+Enpal,Internet software & services,Germany,Europe,1,0.304,4,1,Steady growers
+eSentire,Cybersecurity,Canada,North America,1,0.186,21,0,Mega-unicorns
+Firefly Aerospace,Other,United States,North America,1,0.172,7,1,Steady growers
+Fundbox,Fintech,United States,North America,1,0.404,8,1,Steady growers
+G2,Internet software & services,United States,North America,1,0.258,9,1,Steady growers
+Gaussian Robotics,Hardware,China,Asia,1,0.325,8,1,Steady growers
+GetYourGuide,Travel,Germany,Europe,1,0.656,10,1,Steady growers
+GlobalBees,E-commerce & direct-to-consumer,India,Asia,1,0.185,0,1,Steady growers
+Ivalua,Fintech,United States,North America,1,0.134,19,0,Mega-unicorns
+Juanpi,E-commerce & direct-to-consumer,China,Asia,1,0.136,4,1,Steady growers
+Karat,Internet software & services,United States,North America,1,0.169,7,1,Steady growers
+LEAD School,Edtech,India,Asia,1,0.166,10,1,Steady growers
+Nexthink,Data management & analytics,Switzerland,Europe,1,0.346,17,0,Mega-unicorns
+People.ai,Internet software & services,United States,North America,1,0.2,4,1,Steady growers
+Pharmapacks,E-commerce & direct-to-consumer,United States,North America,1,0.433,10,1,Steady growers
+Rightway,Health,United States,North America,1,0.13,4,1,Steady growers
+Sennder,"Supply chain, logistics, & delivery",Germany,Europe,1,0.34,6,1,Steady growers
+Sisense,Data management & analytics,United States,North America,1,0.274,16,0,Mega-unicorns
+Staffbase,Internet software & services,Germany,Europe,1,0.307,8,1,Steady growers
+Sunbit,Fintech,United States,North America,1,0.21,5,1,Steady growers
+TangoMe,Mobile & telecommunications,United States,North America,1,0.361,5,1,Steady growers
+The Bank of London,Fintech,United Kingdom,Europe,1,0.09,3,1,Steady growers
+Zego,Fintech,United Kingdom,Europe,1,0.202,5,1,Steady growers
+Nxin,Internet software & services,China,Asia,1,0.053,3,1,Steady growers
+Mamaearth,E-commerce & direct-to-consumer,India,Asia,1,0.111,5,1,Steady growers
+Radius Payment Solutions,Fintech,United Kingdom,Europe,1,0.2,27,0,Mega-unicorns
+Rivigo,"Supply chain, logistics, & delivery",India,Asia,1,0.247,5,1,Steady growers
+Rubicon,Other,United States,North America,1,0.223,9,1,Steady growers
+Socar,Auto & transportation,South Korea,Asia,1,0.408,8,1,Steady growers
+MobileCoin,Fintech,United States,North America,1,0.107,3,1,Steady growers
+Density,Hardware,United States,North America,1,0.217,7,1,Steady growers
+Instabase,Data management & analytics,United States,North America,1,0.132,4,1,Steady growers
+Jiuxian,E-commerce & direct-to-consumer,China,Asia,1,0.25,6,1,Steady growers
+Matrixport,Fintech,Singapore,Asia,1,0.1,2,1,Steady growers
+Mixpanel,Internet software & services,United States,North America,1,0.277,12,1,Steady growers
+Sendbird,Mobile & telecommunications,United States,North America,1,0.221,8,1,Steady growers
+OrCam Technologies,Artificial intelligence,Israel,Asia,1,0.086,8,1,Steady growers
+Leap Motor,Auto & transportation,China,Asia,1,1.0,3,1,Steady growers
+1KMXC,Hardware,China,Asia,1,0.086,7,1,Steady growers
+58 Daojia,Internet software & services,China,Asia,1,0.3,1,1,Steady growers
+Agile Robots,Hardware,Germany,Europe,1,0.24,3,1,Steady growers
+Aibee,Artificial intelligence,China,Asia,1,0.273,4,1,Steady growers
+Aircall,Internet software & services,United States,North America,1,0.226,7,1,Steady growers
+Ajaib,Fintech,Indonesia,Asia,1,0.245,3,1,Steady growers
+Alto Pharmacy,Health,United States,North America,1,0.524,5,1,Steady growers
+Amagi,Internet software & services,India,Asia,1,0.24,14,1,Steady growers
+Amount,Fintech,United States,North America,1,0.243,2,1,Steady growers
+Amperity,Artificial intelligence,United States,North America,1,0.187,5,1,Steady growers
+Anyscale,Artificial intelligence,United States,North America,1,0.16,2,1,Steady growers
+Aptos,Internet software & services,United States,North America,1,0.2,1,1,Steady growers
+Aqua Security,Cybersecurity,Israel,Asia,1,0.265,6,1,Steady growers
+Assembly,Internet software & services,United States,North America,1,0.37,2,1,Steady growers
+Assent,"Supply chain, logistics, & delivery",Canada,North America,1,0.534,12,1,Steady growers
+Augury,Artificial intelligence,United States,North America,1,0.294,10,1,Steady growers
+Axelar,Internet software & services,Canada,North America,1,0.064,2,1,Steady growers
+Axiom Space,Other,United States,North America,1,0.15,5,1,Steady growers
+Banma Network Technologies,Auto & transportation,China,Asia,1,0.697,3,1,Steady growers
+BeiBei,E-commerce & direct-to-consumer,China,Asia,1,0.224,4,1,Steady growers
+BenevolentAI,Artificial intelligence,United Kingdom,Europe,1,0.292,2,1,Steady growers
+Berlin Brands Group,E-commerce & direct-to-consumer,Germany,Europe,1,0.8,16,0,Mega-unicorns
+Betterfly,Artificial intelligence,Chile,South America,1,0.205,4,1,Steady growers
+BitFury,Hardware,Netherlands,Europe,1,0.17,7,1,Steady growers
+BlackBuck,"Supply chain, logistics, & delivery",India,Asia,1,0.352,6,1,Steady growers
+Bluecore,Artificial intelligence,United States,North America,1,0.238,8,1,Steady growers
+BlueVoyant,Cybersecurity,United States,North America,1,0.526,5,1,Steady growers
+bolttech,Fintech,Singapore,Asia,1,0.21,3,1,Steady growers
+Boom Supersonic,Other,United States,North America,1,0.241,6,1,Steady growers
+Bringg,"Supply chain, logistics, & delivery",Israel,Asia,1,0.185,8,1,Steady growers
+C2FO,Fintech,United States,North America,1,0.538,11,1,Steady growers
+Cadence,Health,United States,North America,1,0.141,1,1,Steady growers
+CAIS,Fintech,United States,North America,1,0.406,13,1,Steady growers
+Cameo,Internet software & services,United States,North America,1,0.165,5,1,Steady growers
+Capsule,Health,United States,North America,1,0.57,5,1,Steady growers
+CargoX,"Supply chain, logistics, & delivery",Brazil,South America,1,0.39,6,1,Steady growers
+Carro,E-commerce & direct-to-consumer,Singapore,Asia,1,0.595,6,1,Steady growers
+Carson Group,Fintech,United States,North America,1,0.37,9,1,Steady growers
+CHEQ,Cybersecurity,United States,North America,1,0.182,8,1,Steady growers
+Chronosphere,Data management & analytics,United States,North America,1,0.254,2,1,Steady growers
+Cider,E-commerce & direct-to-consumer,Hong Kong,Asia,1,0.14,1,1,Steady growers
+Clara,Fintech,Mexico,North America,1,0.109,1,1,Steady growers
+Clearcover,Fintech,United States,North America,1,0.305,5,1,Steady growers
+CommerceIQ,Artificial intelligence,United States,North America,1,0.196,10,1,Steady growers
+Contrast Security,Cybersecurity,United States,North America,1,0.269,7,1,Steady growers
+Darwinbox,Internet software & services,India,Asia,1,0.107,7,1,Steady growers
+Dental Monitoring,Health,France,Europe,1,0.232,7,1,Steady growers
+DianRong,E-commerce & direct-to-consumer,China,Asia,1,0.549,5,1,Steady growers
+Drata,Cybersecurity,United States,North America,1,0.128,1,1,Steady growers
+DriveNets,Internet software & services,Israel,Asia,1,0.325,6,1,Steady growers
+Dune Analytics,Data management & analytics,Norway,Europe,1,0.079,4,1,Steady growers
+Dxy.cn,Health,China,Asia,1,0.682,18,0,Mega-unicorns
+EBANX,Fintech,Brazil,South America,1,0.46,7,1,Steady growers
+EcoFlow,Hardware,China,Asia,1,0.105,4,1,Steady growers
+Electric,Cybersecurity,United States,North America,1,0.209,6,1,Steady growers
+Emerging Markets Property Group,Other,United Arab Emirates,Asia,1,0.279,5,1,Steady growers
+Esusu,Fintech,United States,North America,1,0.145,7,1,Steady growers
+Evidation,Health,United States,North America,1,0.259,9,1,Steady growers
+Expel,Cybersecurity,United States,North America,1,0.258,5,1,Steady growers
+Fabric,"Supply chain, logistics, & delivery",United States,North America,1,0.294,6,1,Steady growers
+Feedzai,Artificial intelligence,United States,North America,1,0.277,12,1,Steady growers
+Fever Labs,Internet software & services,United States,North America,1,0.299,10,1,Steady growers
+Fiture,Health,China,Asia,1,0.391,2,1,Steady growers
+FLASH,Fintech,United States,North America,1,0.314,11,1,Steady growers
+Flash Express,"Supply chain, logistics, & delivery",Thailand,Asia,1,0.35,4,1,Steady growers
+FlashEx,"Supply chain, logistics, & delivery",China,Asia,1,0.359,4,1,Steady growers
+Fractal Analytics,Data management & analytics,India,Asia,1,0.685,22,0,Mega-unicorns
+Freshbooks,Fintech,Canada,North America,1,0.156,17,0,Mega-unicorns
+FXiaoKe,Mobile & telecommunications,China,Asia,1,0.283,4,1,Steady growers
+Gauntlet Networks,Fintech,United States,North America,1,0.045,4,1,Steady growers
+Geek+,Hardware,China,Asia,1,0.439,3,1,Steady growers
+Gelato,E-commerce & direct-to-consumer,Norway,Europe,1,0.269,14,1,Steady growers
+Glia,Fintech,United States,North America,1,0.152,10,1,Steady growers
+GO1,Internet software & services,Australia,Oceania,1,0.284,6,1,Steady growers
+Groq,Artificial intelligence,United States,North America,1,0.362,5,1,Steady growers
+Hailo,Artificial intelligence,Israel,Asia,1,0.221,4,1,Steady growers
+Haomao.AI,Artificial intelligence,China,Asia,1,0.157,2,1,Steady growers
+Hasura,Internet software & services,India,Asia,1,0.137,5,1,Steady growers
+HAYDON,Consumer & retail,China,Asia,1,0.1,1,1,Steady growers
+Heyday,E-commerce & direct-to-consumer,United States,North America,1,0.8,4,1,Steady growers
+HMD Global,Mobile & telecommunications,Finland,Europe,1,0.33,2,1,Steady growers
+Hotmart,E-commerce & direct-to-consumer,Netherlands,Europe,1,0.127,9,1,Steady growers
+Huike Group,Edtech,China,Asia,1,0.302,8,1,Steady growers
+Human Interest,Fintech,United States,North America,1,0.337,6,1,Steady growers
+Ibotta,Fintech,United States,North America,1,0.093,8,1,Steady growers
+iCarbonX,Artificial intelligence,China,Asia,1,0.2,1,1,Steady growers
+iFood,"Supply chain, logistics, & delivery",Brazil,South America,1,0.592,7,1,Steady growers
+InFarm,Other,Germany,Europe,1,0.6,8,1,Steady growers
+Infobip,Mobile & telecommunications,Croatia,Europe,1,0.2,14,0,Mega-unicorns
+Injective Protocol,Fintech,United States,North America,1,0.017,3,1,Steady growers
+Intellifusion,Artificial intelligence,China,Asia,1,0.173,5,1,Steady growers
+Interos,Fintech,United States,North America,1,0.135,16,0,Mega-unicorns
+Iodine Software,Data management & analytics,United States,North America,1,0.37,11,1,Steady growers
+JoyTunes,Edtech,Israel,Asia,1,0.092,10,1,Steady growers
+Kendra Scott,Consumer & retail,United States,North America,1,0.37,14,0,Mega-unicorns
+Kitopi,"Supply chain, logistics, & delivery",United Arab Emirates,Asia,1,0.504,3,1,Steady growers
+KnowBox,Edtech,China,Asia,1,0.306,5,1,Steady growers
+Kopi Kenangan,Consumer & retail,Indonesia,Asia,1,0.333,4,1,Steady growers
+Lamabang,E-commerce & direct-to-consumer,China,Asia,1,0.13,4,1,Steady growers
+LayerZero Labs,Internet software & services,United States,North America,1,0.143,1,1,Steady growers
+Lessen,Internet software & services,United States,North America,1,0.205,2,1,Steady growers
+LetsGetChecked,Health,Ireland,Europe,1,0.263,6,1,Steady growers
+Licious,E-commerce & direct-to-consumer,India,Asia,1,0.489,6,1,Steady growers
+LinkDoc Technology,Health,China,Asia,1,0.253,4,1,Steady growers
+Locus Robotics,Hardware,United States,North America,1,0.299,7,1,Steady growers
+Lookout,Cybersecurity,United States,North America,1,0.282,6,1,Steady growers
+Lydia,Fintech,France,Europe,1,0.263,10,1,Steady growers
+MadeiraMadeira,E-commerce & direct-to-consumer,Brazil,South America,1,0.336,12,1,Steady growers
+Maimai,Mobile & telecommunications,China,Asia,1,0.3,4,1,Steady growers
+Mammoth Biosciences,Health,United States,North America,1,0.265,4,1,Steady growers
+Masterworks,Fintech,United States,North America,1,0.11,4,1,Steady growers
+Maven Clinic,Health,United States,North America,1,0.202,7,1,Steady growers
+MediaMath,Internet software & services,United States,North America,1,0.325,11,1,Steady growers
+Meero,Artificial intelligence,France,Europe,1,0.293,3,1,Steady growers
+Mensa Brands,Other,India,Asia,1,0.218,0,1,Steady growers
+Mia.com,E-commerce & direct-to-consumer,China,Asia,1,0.232,4,1,Steady growers
+Minio,Data management & analytics,United States,North America,1,0.126,8,1,Steady growers
+Mobvoi,Consumer & retail,China,Asia,1,0.252,5,1,Steady growers
+Moka,Internet software & services,China,Asia,1,0.144,6,1,Steady growers
+Momenta,Artificial intelligence,China,Asia,1,1.0,2,1,Steady growers
+Morning Consult,Internet software & services,United States,North America,1,0.091,7,1,Steady growers
+Movile,Mobile & telecommunications,Brazil,South America,1,0.588,20,0,Mega-unicorns
+Mux,Internet software & services,United States,North America,1,0.174,6,1,Steady growers
+Nature's Fynd,Other,United States,North America,1,0.463,9,1,Steady growers
+Newlink Group,E-commerce & direct-to-consumer,China,Asia,1,0.655,4,1,Steady growers
+News Break,Internet software & services,United States,North America,1,0.151,6,1,Steady growers
+Newsela,Internet software & services,United States,North America,1,0.172,8,1,Steady growers
+NIUM,Fintech,Singapore,Asia,1,0.285,7,1,Steady growers
+NoBroker,Internet software & services,India,Asia,1,0.424,7,1,Steady growers
+Noname Security,Cybersecurity,United States,North America,1,0.22,1,1,Steady growers
+Numbrs,Fintech,Switzerland,Europe,1,0.105,20,0,Mega-unicorns
+Omada Health,Health,United States,North America,1,0.449,11,1,Steady growers
+Omio,Travel,Germany,Europe,1,0.396,5,1,Steady growers
+ONE,Internet software & services,Singapore,Asia,1,0.515,10,1,Steady growers
+OpenWeb,Internet software & services,United States,North America,1,0.223,9,1,Steady growers
+Orbbec Technology,Hardware,China,Asia,1,0.2,5,1,Steady growers
+Orca Bio,Health,United States,North America,1,0.192,4,1,Steady growers
+Orchard,Fintech,United States,North America,1,0.252,4,1,Steady growers
+Owkin,Artificial intelligence,United States,North America,1,0.254,5,1,Steady growers
+PandaDoc,Internet software & services,United States,North America,1,0.051,5,1,Steady growers
+Pat McGrath Labs,Consumer & retail,United States,North America,1,0.06,2,1,Steady growers
+PatSnap,Internet software & services,Singapore,Asia,1,0.352,14,1,Steady growers
+Payhawk,Fintech,United Kingdom,Europe,1,0.239,4,1,Steady growers
+Pentera,Cybersecurity,Israel,Asia,1,0.19,7,1,Steady growers
+Pet Circle,E-commerce & direct-to-consumer,Australia,Oceania,1,0.125,10,1,Steady growers
+PicsArt,Mobile & telecommunications,United States,North America,1,0.195,10,1,Steady growers
+PLACE,Internet software & services,United States,North America,1,0.1,1,1,Steady growers
+Placer.ai,Artificial intelligence,United States,North America,1,0.166,6,1,Steady growers
+Playco,Other,Japan,Asia,1,0.14,0,1,Steady growers
+Poizon,Mobile & telecommunications,China,Asia,1,0.37,4,1,Steady growers
+PPRO,Fintech,United Kingdom,Europe,1,0.37,15,0,Mega-unicorns
+Printful,Other,United States,North America,1,0.13,5,1,Steady growers
+Quantum Metric,Data management & analytics,United States,North America,1,0.226,6,1,Steady growers
+Quizlet,Edtech,United States,North America,1,0.062,15,0,Mega-unicorns
+RapidAPI,Internet software & services,United States,North America,1,0.273,7,1,Steady growers
+Razor,Consumer & retail,Germany,Europe,1,0.167,1,1,Steady growers
+Red Ventures,Other,United States,North America,1,0.25,15,0,Mega-unicorns
+REEF Technology,"Supply chain, logistics, & delivery",United States,North America,1,2.0,3,1,Steady growers
+ReliaQuest,Cybersecurity,United States,North America,1,0.33,14,1,Steady growers
+Revolution Precrafted,Other,Philippines,Asia,1,0.015,2,1,Steady growers
+Rothy's,Consumer & retail,United States,North America,1,0.484,5,1,Steady growers
+SaltPay,Fintech,United Kingdom,Europe,1,1.0,2,1,Steady growers
+Savage X Fenty,E-commerce & direct-to-consumer,United States,North America,1,0.31,3,1,Steady growers
+Scalapay,Fintech,Italy,Europe,1,0.416,3,1,Steady growers
+Scandit,"Supply chain, logistics, & delivery",Switzerland,Europe,1,0.273,13,1,Steady growers
+Sentry,Other,United States,North America,1,0.127,10,1,Steady growers
+Shield AI,Artificial intelligence,United States,North America,1,0.328,6,1,Steady growers
+Shift Technology,Artificial intelligence,France,Europe,1,0.545,7,1,Steady growers
+ShipBob,"Supply chain, logistics, & delivery",United States,North America,1,0.331,7,1,Steady growers
+Shippo,"Supply chain, logistics, & delivery",United States,North America,1,0.154,8,1,Steady growers
+Sidecar Health,Fintech,United States,North America,1,0.163,3,1,Steady growers
+Sift,Artificial intelligence,United States,North America,1,0.157,10,1,Steady growers
+Skydio,"Supply chain, logistics, & delivery",United States,North America,1,0.34,7,1,Steady growers
+Slice,Fintech,India,Asia,1,0.249,6,1,Steady growers
+SmartAsset,Fintech,United States,North America,1,0.161,9,1,Steady growers
+SMS Assist,Internet software & services,United States,North America,1,0.255,13,0,Mega-unicorns
+SnapLogic,Internet software & services,United States,North America,1,0.371,15,0,Mega-unicorns
+Snorkel AI,Artificial intelligence,United States,North America,1,0.135,2,1,Steady growers
+Solo.io,Internet software & services,United States,North America,1,0.172,4,1,Steady growers
+SoundHound,Artificial intelligence,United States,North America,1,0.215,13,0,Mega-unicorns
+Splashtop,Internet software & services,United States,North America,1,0.114,15,0,Mega-unicorns
+Standard,Artificial intelligence,United States,North America,1,0.239,4,1,Steady growers
+Stytch,Cybersecurity,United States,North America,1,0.126,1,1,Steady growers
+Swile,Fintech,France,Europe,1,0.326,5,1,Steady growers
+Tarana Wireless,Mobile & telecommunications,United States,North America,1,0.376,13,1,Steady growers
+TechStyle Fashion Group,E-commerce & direct-to-consumer,United States,North America,1,0.336,4,1,Steady growers
+TensTorrent,Artificial intelligence,Canada,North America,1,0.235,5,1,Steady growers
+TERMINUS Technology,Hardware,China,Asia,1,0.623,3,1,Steady growers
+Tezign,Internet software & services,China,Asia,1,0.151,6,1,Steady growers
+The Zebra,E-commerce & direct-to-consumer,United States,North America,1,0.257,9,1,Steady growers
+Thirty Madison,Health,United States,North America,1,0.21,28,0,Mega-unicorns
+Thought Machine,Fintech,United Kingdom,Europe,1,0.403,7,1,Steady growers
+Timescale,Internet software & services,United States,North America,1,0.181,7,1,Steady growers
+Tractable,Artificial intelligence,United Kingdom,Europe,1,0.12,7,1,Steady growers
+Tresata,Fintech,United States,North America,1,0.051,7,1,Steady growers
+TrialSpark,Health,United States,North America,1,0.156,7,1,Steady growers
+TrueLayer,Fintech,United Kingdom,Europe,1,0.271,5,1,Steady growers
+Unico,Artificial intelligence,Brazil,South America,1,0.237,14,1,Steady growers
+Vagaro,Internet software & services,United States,North America,1,0.163,12,1,Steady growers
+Vedantu,Edtech,India,Asia,1,0.292,7,1,Steady growers
+Veev,Internet software & services,United States,North America,1,0.585,14,1,Steady growers
+Vise,Fintech,United States,North America,1,0.128,5,1,Steady growers
+Visier,Internet software & services,Canada,North America,1,0.217,11,1,Steady growers
+VOI,Travel,Sweden,Europe,1,0.516,3,1,Steady growers
+Vox Media,Internet software & services,United States,North America,1,0.308,4,1,Steady growers
+VTS,Internet software & services,United States,North America,1,0.187,7,1,Steady growers
+Watershed,Internet software & services,United States,North America,1,0.07,3,1,Steady growers
+Weights & Biases,Internet software & services,United States,North America,1,0.2,4,1,Steady growers
+WeLab,Fintech,Hong Kong,Asia,1,0.871,4,1,Steady growers
+Womai,E-commerce & direct-to-consumer,China,Asia,1,0.33,6,1,Steady growers
+Wrapbook,Fintech,United States,North America,1,0.131,3,1,Steady growers
+Xendit,Fintech,Indonesia,Asia,1,0.215,7,1,Steady growers
+XForcePlus,Internet software & services,China,Asia,1,0.2,6,1,Steady growers
+YH Global,"Supply chain, logistics, & delivery",China,Asia,1,0.182,20,0,Mega-unicorns
+YipitData,Internet software & services,United States,North America,1,0.492,13,1,Steady growers
+Yunxuetang,Edtech,China,Asia,1,0.389,10,1,Steady growers
+Zhaogang,E-commerce & direct-to-consumer,China,Asia,1,0.379,5,1,Steady growers
+Zhuan Zhuan,E-commerce & direct-to-consumer,China,Asia,1,0.99,2,1,Steady growers
+Zihaiguo,Consumer & retail,China,Asia,1,0.08,3,1,Steady growers
+Zopa,Fintech,United Kingdom,Europe,1,0.792,16,0,Mega-unicorns
+Zwift,E-commerce & direct-to-consumer,United States,North America,1,0.62,6,1,Steady growers
