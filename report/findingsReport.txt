@@ -1,0 +1,122 @@
+=================================================================
+  UNICORN COMPANIES — KEY FINDINGS REPORT
+  Global Unicorn Landscape: What Makes a $1B+ Company?
+=================================================================
+
+═════════════════════════════════════════════════════════════════
+  1. Market Overview
+═════════════════════════════════════════════════════════════════
+  Total unicorn companies ................................. 1,074
+  Countries represented ...................................... 46
+  Industries covered ......................................... 15
+  Combined valuation .................................... $3,711B
+  Average valuation ....................................... $3.5B
+  Median valuation ........................................ $2.0B
+  Most valuable company ....................... Bytedance ($180B)
+  High-value unicorns (≥$10B) ......................... 61 (5.7%)
+
+  • The median valuation of $2B versus the mean of $3.5B reveals
+    a strongly right-skewed market — a small number of mega-
+    unicorns pull the average well above where most companies
+    actually sit.
+  • Only 5.7% of unicorns have crossed the $10B mark, confirming
+    that reaching $1B status and reaching $10B+ are fundamentally
+    different achievements.
+
+═════════════════════════════════════════════════════════════════
+  2. Geography
+═════════════════════════════════════════════════════════════════
+  United States share ..................... 52.3% (562 companies)
+  China share ............................. 16.1% (173 companies)
+  India share ............................... 6.1% (65 companies)
+  North America total ..................... 54.8% of all unicorns
+  Asia total .............................. 28.9% of all unicorns
+  Europe total ............................ 13.3% of all unicorns
+
+  • The US (52%) and China (16%) together account for more than
+    68% of all unicorns globally, but India at 6% is rapidly
+    emerging as a third major hub, particularly in Fintech and
+    SaaS.
+  • Europe (13%) and the rest of the world remain significantly
+    underrepresented relative to GDP, suggesting geographic
+    opportunity gaps in startup ecosystems.
+
+═════════════════════════════════════════════════════════════════
+  3. Industry
+═════════════════════════════════════════════════════════════════
+  Largest industry by count ........ Fintech (224 companies, 21%)
+  Second largest ... Internet software & services (205 companies)
+  Highest avg valuation industry . Artificial intelligence ($4.5B avg)
+
+  • Fintech leads with 224 unicorns (21% of the dataset), closely
+    followed by Internet software & services. These two
+    industries alone represent over a third of all unicorns
+    globally.
+  • Artificial intelligence produces the highest average
+    valuation ($4.5B), suggesting that while it may not generate
+    the most unicorns by count, the ones it does produce tend to
+    be disproportionately valuable.
+
+═════════════════════════════════════════════════════════════════
+  4. Speed to Unicorn Status
+═════════════════════════════════════════════════════════════════
+  Average years to unicorn ............................ 7.0 years
+  Median years to unicorn ............................... 6 years
+  Reached status in ≤2 years .............. 114 companies (10.6%)
+  Slowest company ............... Otto Bock HealthCare (98 years)
+  Fastest industry (median) ..... Auto & transportation (4.0 yrs)
+  Slowest industry (median) . Data management & analytics (8.0 yrs)
+
+  • The typical path to unicorn status takes 6 years from
+    founding. Companies in Auto & transportation get there
+    fastest at a median of 4.0 years, while Data management &
+    analytics companies take nearly 8 years — likely reflecting
+    the longer capital cycles and regulatory environments in that
+    sector.
+  • 10.6% of unicorns achieved the milestone within 2 years of
+    founding, which likely reflects companies that pivoted into
+    hypergrowth markets or benefited from pre-existing founder
+    networks.
+
+═════════════════════════════════════════════════════════════════
+  5. Funding Efficiency
+═════════════════════════════════════════════════════════════════
+  Most capital-efficient industry . Internet software & services (28.5x avg multiplier)
+
+  Top 5 most capital-efficient companies:
+    Zapier                       $4B val  $0.00B raised  (4000.0x)
+    Dunamu                       $9B val  $0.07B raised  (126.8x)
+    Workhuman                    $1B val  $0.01B raised  (111.1x)
+    CFGI                         $2B val  $0.02B raised  (105.3x)
+    Manner                       $1B val  $0.01B raised  (100.0x)
+
+  • Internet software & services generates the highest valuation
+    return per dollar raised (28.5x on average), meaning
+    investors in this space have historically seen the greatest
+    valuation leverage relative to capital deployed.
+  • Funding efficiency varies dramatically across industries,
+    making it a stronger signal of capital allocation quality
+    than raw valuation figures alone — and a metric worth
+    highlighting in any investor-facing analysis.
+
+═════════════════════════════════════════════════════════════════
+  6. Growth Trends
+═════════════════════════════════════════════════════════════════
+  Data spans ........................................ 2007 – 2022
+  Peak year for new unicorns ........... 2021 (520 new companies)
+  Post-2015 vs pre-2015 ..................... 45.7x more unicorns
+
+  • 2021 was the single biggest year for unicorn creation with
+    520 new entrants — likely driven by the post-pandemic surge
+    in venture capital activity, low interest rates, and a wave
+    of digital-first businesses that scaled rapidly during
+    lockdowns.
+  • The 45.7x acceleration in unicorn creation post-2015 compared
+    to prior years reflects both the maturing of the global VC
+    ecosystem and the compounding effect of earlier cohorts of
+    infrastructure companies enabling faster startup growth.
+
+=================================================================
+  END OF FINDINGS REPORT
+  Generated from 1,074 unicorn companies across 46 countries
+=================================================================
