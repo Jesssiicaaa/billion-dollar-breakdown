@@ -274,7 +274,7 @@ overview_data = [
     ["Unicorn Companies - Data Analysis Portfolio"],
     [""],
     ["Project",      "Global Unicorn Landscape: What Makes a $1B+ Company?"],
-    ["Author",       "Kess Waters"],
+    ["Author",       "Jessica Olaniyi"],
     ["Dataset",      "unicorn_companies_clean.csv - 1,074 companies, 46 countries"],
     ["Last Updated", pd.Timestamp.now().strftime("%Y-%m-%d %H:%M")],
     [""],
