@@ -9,8 +9,8 @@ A full-stack data analysis and machine learning project examining 1,073 unicorn 
 
 | Dashboard | Link | Description |
 |---|---|---|
-| Tableau | *(add after publishing to Tableau Public)* | Interactive map, treemap, scatter, ML results, forecast |
-| Google Sheets | *(add after running google_sheets.py)* | Live dataset with summaries and sparklines |
+| Tableau | *(Tableau Public Link. To be Updated)* | Interactive map, treemap, scatter, ML results, forecast |
+| Google Sheets | *https://docs.google.com/spreadsheets/d/1IUdiXZ5T7BgNLAhFZWuY-Q7ivnEdlOjRcRbv2vRja5s/edit?gid=1909121264#gid=1909121264* | Live dataset with summaries and sparklines |
 
 ---
 
